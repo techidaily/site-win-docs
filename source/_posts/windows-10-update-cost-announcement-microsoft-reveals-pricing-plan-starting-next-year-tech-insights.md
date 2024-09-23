@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Update Cost Announcement: Microsoft Reveals Pricing Plan Starting Next Year | Tech Insights"
-date: 2024-09-19 20:33:42
-updated: 2024-09-20 12:24:18
+date: 2024-09-17T17:25:03.884Z
+updated: 2024-09-23T16:29:39.566Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-download-facebook-stories-with-ease-essential-tips-and-tricks-mobiledesktop/"><u>[New] 2024 Approved Download Facebook Stories with Ease Essential Tips and Tricks (Mobile/Desktop)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-the-art-of-siri-voice-on-tiktok-platform/"><u>[New] In 2024, Mastering the Art of Siri Voice on TikTok Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-pexels-tips-for-discovering-striking-images/"><u>[Updated] Navigating Pexels Tips for Discovering Striking Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>[Updated] Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726224175109-wmamov-movavi/"><u>無償なオンラインWMAとMOVに簡単に変換する方法 - Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y100i-power-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y100i Power 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convert-your-swf-files-into-mpeg-format-for-free-with-movavis-web-tool/"><u>Convert Your SWF Files Into MPEG Format for Free with Movavi's Web Tool</u></a></li>
+<li><a href="https://win-docs.techidaily.com/converti-file-m4a-in-formato-mp3-con-fast-e-affidabile-easymp3-converter/"><u>Converti File M4A in Formato MP3 Con Fast E Affidabile - EasyMP3 Converter</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/gratis-omzetten-van-wav-naar-mov-professioneel-online-convertereigeneerdienst-van-movavi/"><u>Gratis Omzetten Van WAV Naar MOV - Professioneel Online-Convertereigeneerdienst Van Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-infinix-note-30-vip-racing-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Note 30 VIP Racing Edition Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavi-gifm4v/"><u>Movavi: 高速で簡単なオンラインGIFとM4Vフォーマット間の変換サービス無料版</u></a></li>
+<li><a href="https://win-docs.techidaily.com/online-free-conversion-tool-convert-mkv-swf-files-easily/"><u>Online Free Conversion Tool - Convert MKV SWF Files Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-zero-5g-2023-turbo-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Zero 5G 2023 Turbo to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transcodificar-archivos-de-audio-de-wma-a-aiff-sin-costes-por-movavi-online/"><u>Transcodificar Archivos De Audio De WMA a AIFF Sin Costes Por Movavi Online</u></a></li>
+<li><a href="https://win-docs.techidaily.com/trasforma-video-quicktime-a-formato-wmv-online-senza-costi-con-movavi/"><u>Trasforma Video QuickTime a Formato WMV Online Senza Costi Con Movavi</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-video-upscalers-boost-your-footage-to-hd-and-beyond-for-2024/"><u>Updated Top Video Upscalers Boost Your Footage to HD and Beyond for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mpg-swf-movavi/"><u>영구성 MPG SWF 파일을 비용 없이 웹 문제를 위해 전환하세요 - Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Dual Nature of Microsoft's Copilot: A Powerful AI Companion with Prominent Commercial Intentions | ZDNet Insights"
-date: 2024-09-18 17:55:59
-updated: 2024-09-20 12:24:56
+date: 2024-09-17T16:29:34.532Z
+updated: 2024-09-23T17:16:32.872Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -121,9 +141,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +193,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-accelerate-your-channel-growth-affordable-subscribers-available/"><u>[Updated] In 2024, Accelerate Your Channel Growth - Affordable Subscribers Available</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-quick-guide-how-to-bypass-kfx-protection-and-eliminate-drm-restrictions/"><u>1. Quick Guide: How to Bypass KFX Protection & Eliminate DRM Restrictions</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726226364277-3gpgif-movavi/"><u>無料で簡単な変換! オンライン3GPファイルをGIFにする - Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-itel-a05s-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Itel A05s to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/breathtaking-4k-the-most-stunning-video-clips-you-need-to-see-for-2024/"><u>Breathtaking 4K The Most Stunning Video Clips You Need to See for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/hidden-shot-snaps-keeping-your-captures-under-wraps/"><u>Hidden Shot Snaps Keeping Your Captures Under Wraps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor/"><u>In 2024, The Clear Path A Step-By-Step Approach to Buying an Exceptional 4K Monitor</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-byb-e430-illumination-unit-scrutiny-a-leading-swing-arm-led-reviewed/"><u>In-Depth BYB E430 Illumination Unit Scrutiny: A Leading Swing Arm LED Reviewed</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavi-m4v-wmv/"><u>Movavi 線上即時免費過渡 M4V 為 WMV 格式</u></a></li>
+<li><a href="https://some-tips.techidaily.com/obs-security-overview-how-to-ensure-privacy-while-using-online-screen-recorder-movievi/"><u>OBS Security Overview: How to Ensure Privacy While Using Online Screen Recorder | Movievi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/passos-simples-para-focar-e-desfocar-areas-em-fotografias-no-editor-photo-do-movavi/"><u>Passos Simples Para Focar E Desfocar Áreas Em Fotografias No Editor Photo Do Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/zoom-meetinglerin-eylemlerini-kontrol-alt-montajla-eam-ile-kaydetmek-movavi/"><u>Zoom Meetinglerin Eylemlerini Kontrol Alt Montajla (EAM) Ile Kaydetmek - Movavi</u></a></li>
+</ul></div>
+

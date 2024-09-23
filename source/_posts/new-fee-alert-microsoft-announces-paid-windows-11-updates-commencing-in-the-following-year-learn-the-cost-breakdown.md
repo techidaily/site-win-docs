@@ -1,7 +1,7 @@
 ---
 title: "New Fee Alert: Microsoft Announces Paid Windows 11 Updates Commencing in the Following Year - Learn the Cost Breakdown"
-date: 2024-09-18 17:59:18
-updated: 2024-09-20 11:31:45
+date: 2024-09-20T16:23:50.760Z
+updated: 2024-09-23T17:02:19.093Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -125,6 +152,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Don't trash your old Windows 10 PCs! There are many ways to give them a long, useful life after Microsoft retires them. With ChromeOS Flex and Linux, I've got former Windows PCs more over 10 years old that remain productive machines. Old doesn't mean useless. You just need to be a bit creative.
@@ -159,11 +193,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-cost-free-creative-twitter-videos-to-gif-magic/"><u>[New] 2024 Approved Cost-Free Creative Twitter Videos to Gif Magic</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-a-comprehensive-overview-of-cost-free-cloud-communication-software/"><u>[New] A Comprehensive Overview of Cost-Free Cloud Communication Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-record-and-upload-speeches-to-powerpoint/"><u>[New] Record and Upload Speeches to PowerPoint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-imagery-title-placement-techniques-on-video-clips-with-photos/"><u>2024 Approved Boost Your Imagery Title Placement Techniques on Video Clips with Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-elite-gaming-display-showcase-top-5-monitors/"><u>2024 Approved Elite Gaming Display Showcase Top 5 Monitors</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convert-your-swf-files-into-mpeg-format-for-free-with-movavis-web-tool/"><u>Convert Your SWF Files Into MPEG Format for Free with Movavi's Web Tool</u></a></li>
+<li><a href="https://win-docs.techidaily.com/converti-file-m4a-in-formato-mp3-con-fast-e-affidabile-easymp3-converter/"><u>Converti File M4A in Formato MP3 Con Fast E Affidabile - EasyMP3 Converter</u></a></li>
+<li><a href="https://games-able.techidaily.com/exceptional-game-experience-with-240hz-displays/"><u>Exceptional Game Experience with 240Hz Displays</u></a></li>
+<li><a href="https://win-docs.techidaily.com/fluxy-mkv-flac-movavi/"><u>Fluxy 無障礙對 MKV FLAC音效轉移 - 使用 Movavi 視頻編解碼器</u></a></li>
+<li><a href="https://win-docs.techidaily.com/gratuito-conversor-de-mpe-a-aac-en-linea-herramienta-online-movavi/"><u>Gratuito Conversor De MPE a AAC en Línea - Herramienta Online Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-natural-language-for-excel-excellence-via-chatgpt/"><u>Leveraging Natural Language for Excel Excellence via ChatGPT</u></a></li>
+<li><a href="https://win-docs.techidaily.com/reparacion-fotografica-inteligente-y-rapida-a-traves-del-software-autorepair-automatico-de-movavi/"><u>Reparación Fotográfica Inteligente Y Rápida a Través Del Software Autorepair Automático De Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-chapter-editing-techniques-in-video-creation-movavis-guide-to-obs-optimization-202-cufflinks/"><u>Top Chapter Editing Techniques in Video Creation: Movavi's Guide to OBS Optimization (202 Cufflinks)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transformation-mp4-vers-mkv-sans-frais-guide-complet-par-movavi-pour-la-conversion-video-en-ligne/"><u>Transformation MP4 Vers MKV Sans Frais - Guide Complet Par Movavi Pour La Conversion Vidéo en Ligne.</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transformez-vos-fichiers-vob-en-un-format-m2ts-compatible-avec-xbox-et-blu-ray-gratuitement-movavi/"><u>Transformez Vos Fichiers VOB en Un Format M2TS Compatible Avec Xbox Et Blu-Ray, Gratuitement - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-controlling-your-digital-footprint-data-usage-tips/"><u>Understanding & Controlling Your Digital Footprint: Data Usage Tips</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>Updated Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726227363284-flacmkv-movavi/"><u>オンラインで簡単FlacとMkvの無料変換 - Movaviソリューション</u></a></li>
+</ul></div>
+

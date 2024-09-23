@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's AI Advancements: Essential Surface Product Revelations This Week Reviewed by ZDNet"
-date: 2024-09-18 20:50:21
-updated: 2024-09-20 11:23:39
+date: 2024-09-21T16:51:04.272Z
+updated: 2024-09-23T16:11:55.183Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,19 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +193,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-deep-dive-into-youtube-mastery-using-sony-vegas-software/"><u>[Updated] A Deep Dive Into YouTube Mastery Using Sony Vegas Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-understanding-the-magic-behind-quantum-hdr/"><u>[Updated] In 2024, Understanding the Magic Behind Quantum HDR</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-final-verdict-on-screen-capture-obs-vs-twitch-studio/"><u>[Updated] The Final Verdict on Screen Capture OBS vs Twitch Studio</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-29-visionary-metaverse-projects-elucidating-potentialities/"><u>2024 Approved 29 Visionary Metaverse Projects Elucidating Potentialities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/5-simple-fixes-for-genshin-impact-not-launching/"><u>5 Simple Fixes for Genshin Impact Not Launching</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726223809677-movavi-voc-mp4/"><u>使用 Movavi 無限制網上 VOC 到 MP4 格式過渡</u></a></li>
+<li><a href="https://win-docs.techidaily.com/fluxy-mkv-flac-movavi/"><u>Fluxy 無障礙對 MKV FLAC音效轉移 - 使用 Movavi 視頻編解碼器</u></a></li>
+<li><a href="https://win-docs.techidaily.com/gratuito-conversor-de-mpe-a-aac-en-linea-herramienta-online-movavi/"><u>Gratuito Conversor De MPE a AAC en Línea - Herramienta Online Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50s-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nubia Z50S Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-omniview-app-critical-look-over/"><u>In 2024, OmniView App Critical Look-Over</u></a></li>
+<li><a href="https://win-docs.techidaily.com/reparacion-fotografica-inteligente-y-rapida-a-traves-del-software-autorepair-automatico-de-movavi/"><u>Reparación Fotográfica Inteligente Y Rápida a Través Del Software Autorepair Automático De Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-download-of-thrustmaster-t150-gaming-controller-start-playing-now/"><u>Speedy Download of ThrustMaster T150 Gaming Controller - Start Playing Now</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-canciones-para-usar-con-videos-de-fotos-mejore-la-calidad-visual/"><u>Top Canciones Para Usar Con Videos De Fotos: Mejore La Calidad Visual</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-chapter-editing-techniques-in-video-creation-movavis-guide-to-obs-optimization-202-cufflinks/"><u>Top Chapter Editing Techniques in Video Creation: Movavi's Guide to OBS Optimization (202 Cufflinks)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/toutes-les-etapes-pour-transformer-votre-video-mxf-en-un-flou-mkv-sans-frais-solutions-movavi/"><u>Toutes Les Étapes Pour Transformer Votre Vidéo MXF en Un Flou MKV Sans Frais - Solutions Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transformation-mp4-vers-mkv-sans-frais-guide-complet-par-movavi-pour-la-conversion-video-en-ligne/"><u>Transformation MP4 Vers MKV Sans Frais - Guide Complet Par Movavi Pour La Conversion Vidéo en Ligne.</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transformez-vos-fichiers-vob-en-un-format-m2ts-compatible-avec-xbox-et-blu-ray-gratuitement-movavi/"><u>Transformez Vos Fichiers VOB en Un Format M2TS Compatible Avec Xbox Et Blu-Ray, Gratuitement - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/zero-entry-workstation-access-the-hidden-side-of-rdp-in-win-11/"><u>Zero-Entry Workstation Access: The Hidden Side of RDP in Win 11</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726227363284-flacmkv-movavi/"><u>オンラインで簡単FlacとMkvの無料変換 - Movaviソリューション</u></a></li>
+</ul></div>
+

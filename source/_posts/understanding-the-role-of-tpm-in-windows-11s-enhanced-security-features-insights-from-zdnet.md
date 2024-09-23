@@ -1,7 +1,7 @@
 ---
 title: Understanding the Role of TPM in Windows 11'S Enhanced Security Features - Insights From ZDNet
-date: 2024-09-19 21:55:44
-updated: 2024-09-20 11:22:17
+date: 2024-09-21T16:00:17.898Z
+updated: 2024-09-23T16:44:27.169Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,30 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhance-your-profile-best-tools-to-create-professional-facebook-cover-photos/"><u>[New] In 2024, Enhance Your Profile Best Tools to Create Professional Facebook Cover Photos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leveraging-tools-for-top-tier-video-captures-in-adobe-presenter-for-2024/"><u>[New] Leveraging Tools for Top-Tier Video Captures in Adobe Presenter for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-is-itop-a-must-have-screencast-tool-for-2024/"><u>[Updated] Is ITop a Must-Have Screencast Tool for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-virtual-victory-youtubes-female-elite-ten-for-2024/"><u>[Updated] Virtual Victory YouTube’s Female Elite Ten for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discostreaming-101-desktop-plus-mobile-tips/"><u>2024 Approved DiscoStreaming 101 Desktop + Mobile Tips</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726226364277-3gpgif-movavi/"><u>無料で簡単な変換! オンライン3GPファイルをGIFにする - Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/conversion-facile-et-gratuite-transformez-votre-fichier-m4r-en-format-mp4-avec-movavi/"><u>Conversion Facile Et Gratuite: Transformez Votre Fichier M4R en Format MP4 Avec Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/easy-to-use-multi-format-image-transformation-with-moveavi-switch-between-png-and-jpg-seamlessly/"><u>Easy-to-Use Multi-Format Image Transformation with MoveAVi - Switch Between PNG & JPG Seamlessly</u></a></li>
+<li><a href="https://win-docs.techidaily.com/gratis-online-converter-vrije-f4v-naar-flv-met-movavi-kort-en-eenvoudig/"><u>Gratis Online Converter: Vrije F4V Naar FLV Met Movavi - Kort en Eenvoudig</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-utilize-the-cli-transform-functionality-on-flipbuildercom-an-in-depth-guide/"><u>How to Utilize the CLI Transform Functionality on flipbuilder.com: An In-Depth Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-seamless-imovie-files-to-vimeo-integration-tips/"><u>In 2024, Seamless iMovie Files to Vimeo Integration Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-camon-30-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Camon 30 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavi-m4v-wmv/"><u>Movavi 線上即時免費過渡 M4V 為 WMV 格式</u></a></li>
+<li><a href="https://win-docs.techidaily.com/passos-simples-para-focar-e-desfocar-areas-em-fotografias-no-editor-photo-do-movavi/"><u>Passos Simples Para Focar E Desfocar Áreas Em Fotografias No Editor Photo Do Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-broken-widgets-on-ios-devices-with-these-simple-tips-top-10/"><u>Revive Broken Widgets on iOS Devices with These Simple Tips (Top 10)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/zoom-meetinglerin-eylemlerini-kontrol-alt-montajla-eam-ile-kaydetmek-movavi/"><u>Zoom Meetinglerin Eylemlerini Kontrol Alt Montajla (EAM) Ile Kaydetmek - Movavi</u></a></li>
+</ul></div>
+

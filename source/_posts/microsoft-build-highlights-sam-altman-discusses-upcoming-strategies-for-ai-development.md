@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Build Highlights: Sam Altman Discusses Upcoming Strategies for AI Development"
-date: 2024-09-18 21:53:55
-updated: 2024-09-20 11:17:53
+date: 2024-09-18T17:21:57.254Z
+updated: 2024-09-23T16:13:51.269Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-preeminent-platforms-twitter-like-experiences/"><u>[New] 2024 Approved Preeminent Platforms Twitter-Like Experiences</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-7-essential-tiktok-apps-for-rapid-asset-expansion-for-2024/"><u>[New] Top 7 Essential TikTok Apps for Rapid Asset Expansion for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unleash-the-power-of-zoom-with-these-tips-for-2024/"><u>[New] Unleash the Power of Zoom with These Tips for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726224175109-wmamov-movavi/"><u>無償なオンラインWMAとMOVに簡単に変換する方法 - Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/gratis-omzetten-van-wav-naar-mov-professioneel-online-convertereigeneerdienst-van-movavi/"><u>Gratis Omzetten Van WAV Naar MOV - Professioneel Online-Convertereigeneerdienst Van Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hands-on-with-the-new-klipsch-flexus-200-soundbar/"><u>Hands On With the New Klipsch Flexus 200 Soundbar</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>In 2024, Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
+<li><a href="https://win-docs.techidaily.com/legjobb-obs-online-rekonstrualas-szuksegletei-2024-ben-movavi/"><u>Legjobb OBS Online Rekonstruálás Szükségletei 2024-Ben - Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-zebra-zp450-a-complete-walkthrough-on-drivers-update-and-installation/"><u>Mastering Your Zebra ZP450: A Complete Walkthrough on Drivers Update & Installation</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavi-gifm4v/"><u>Movavi: 高速で簡単なオンラインGIFとM4Vフォーマット間の変換サービス無料版</u></a></li>
+<li><a href="https://win-docs.techidaily.com/online-free-conversion-tool-convert-mkv-swf-files-easily/"><u>Online Free Conversion Tool - Convert MKV SWF Files Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-mkv-files-into-wmv-format-using-top-software-tools/"><u>Step-by-Step Guide: Converting MKV Files Into WMV Format Using Top Software Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-by-step-walkthrough-mastering-your-new-arlo-surveillance-network/"><u>Step-by-Step Walkthrough: Mastering Your New Arlo Surveillance Network</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-from-rapid-plus-tct-2024-a-sneak-peek-into-latest-3d-printers-and-innovations/"><u>Top Picks From Rapid + TCT 2024: A Sneak Peek Into Latest 3D Printers & Innovations</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transcodificar-archivos-de-audio-de-wma-a-aiff-sin-costes-por-movavi-online/"><u>Transcodificar Archivos De Audio De WMA a AIFF Sin Costes Por Movavi Online</u></a></li>
+<li><a href="https://win-docs.techidaily.com/trasforma-video-quicktime-a-formato-wmv-online-senza-costi-con-movavi/"><u>Trasforma Video QuickTime a Formato WMV Online Senza Costi Con Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mpg-swf-movavi/"><u>영구성 MPG SWF 파일을 비용 없이 웹 문제를 위해 전환하세요 - Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Extended Support for Windows 10 Dashed – Microsoft's Unspoken Decision Explained | Insights From ZDNet
-date: 2024-09-19 20:31:38
-updated: 2024-09-20 10:13:53
+date: 2024-09-18T16:08:39.140Z
+updated: 2024-09-23T16:40:09.159Z
 tags:
   - windows
 categories:
@@ -43,6 +43,19 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +90,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +110,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +178,31 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-bring-a-chuckle-to-life-generating-text-memes/"><u>[New] In 2024, Bring a Chuckle to Life Generating Text Memes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-gopro-hero5-black-vs-hero5-standard/"><u>[Updated] In 2024, GoPro Hero5 Black vs Hero5 Standard</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-framework-for-high-quality-streaming-archiving/"><u>[Updated] In 2024, The Framework for High-Quality Streaming Archiving</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-nokia-c12-plus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Nokia C12 Plus to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convert-your-swf-files-into-mpeg-format-for-free-with-movavis-web-tool/"><u>Convert Your SWF Files Into MPEG Format for Free with Movavi's Web Tool</u></a></li>
+<li><a href="https://win-docs.techidaily.com/converti-file-m4a-in-formato-mp3-con-fast-e-affidabile-easymp3-converter/"><u>Converti File M4A in Formato MP3 Con Fast E Affidabile - EasyMP3 Converter</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-gaming-mouse-t630-drivers-for-latest-operating-systems/"><u>Download Logitech Gaming Mouse T630 Drivers for Latest Operating Systems</u></a></li>
+<li><a href="https://win-docs.techidaily.com/fluxy-mkv-flac-movavi/"><u>Fluxy 無障礙對 MKV FLAC音效轉移 - 使用 Movavi 視頻編解碼器</u></a></li>
+<li><a href="https://win-docs.techidaily.com/gratis-omzetten-van-wav-naar-mov-professioneel-online-convertereigeneerdienst-van-movavi/"><u>Gratis Omzetten Van WAV Naar MOV - Professioneel Online-Convertereigeneerdienst Van Movavi</u></a></li>
+<li><a href="https://fox-http.techidaily.com/harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>Harmonizing Movement with Music Instagram's Reel Synergy Guide</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavi-gifm4v/"><u>Movavi: 高速で簡単なオンラインGIFとM4Vフォーマット間の変換サービス無料版</u></a></li>
+<li><a href="https://win-docs.techidaily.com/online-free-conversion-tool-convert-mkv-swf-files-easily/"><u>Online Free Conversion Tool - Convert MKV SWF Files Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ce-spheres-finest-15-youtube-picks/"><u>Science Sphere's Finest 15 YouTube Picks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamlined-mac-package-audio-plus-video-capture-for-2024/"><u>Streamlined Mac Package Audio + Video Capture for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-chapter-editing-techniques-in-video-creation-movavis-guide-to-obs-optimization-202-cufflinks/"><u>Top Chapter Editing Techniques in Video Creation: Movavi's Guide to OBS Optimization (202 Cufflinks)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transformation-mp4-vers-mkv-sans-frais-guide-complet-par-movavi-pour-la-conversion-video-en-ligne/"><u>Transformation MP4 Vers MKV Sans Frais - Guide Complet Par Movavi Pour La Conversion Vidéo en Ligne.</u></a></li>
+</ul></div>
+
