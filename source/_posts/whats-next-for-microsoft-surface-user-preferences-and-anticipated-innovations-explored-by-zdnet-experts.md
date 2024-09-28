@@ -1,7 +1,7 @@
 ---
 title: What's Next for Microsoft Surface? User Preferences & Anticipated Innovations Explored by ZDNet Experts
-date: 2024-09-22T16:23:38.966Z
-updated: 2024-09-23T16:16:07.356Z
+date: 2024-09-20T17:27:40.258Z
+updated: 2024-09-28T06:03:40.475Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -200,5 +200,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-achieve-perfect-youtube-broadcasts-with-superior-webcams/"><u>[New] 2024 Approved Achieve Perfect YouTube Broadcasts with Superior Webcams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-strategies-for-universal-zoom-availability-across-platforms/"><u>[New] 2024 Approved Strategies for Universal Zoom Availability Across Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dish-to-screen-your-recipe-video-blueprint/"><u>[New] In 2024, Dish to Screen Your Recipe Video Blueprint</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-invest-in-cinematic-success-top-ten-cameras-for-filmmakers-for-2024/"><u>[New] Invest in Cinematic Success Top Ten Cameras for Filmmakers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-complete-guide-to-use-instagram-video-chat/"><u>[Updated] In 2024, A Complete Guide to Use Instagram Video Chat</u></a></li>
+<li><a href="https://win-docs.techidaily.com/enjoy-offline-viewing-convert-and-save-tubi-tv-shows-and-movies-in-high-quality-mp4-or-avi-formats-today/"><u>Enjoy Offline Viewing: Convert & Save Tubi TV Shows and Movies in High Quality MP4 or AVI Formats Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-details-on-samsungs-newest-gadget-the-galaxy-ring-pricing-guide-and-release-info/"><u>Exclusive Details on Samsung's Newest Gadget - The Galaxy Ring: Pricing Guide & Release Info</u></a></li>
+<li><a href="https://win-docs.techidaily.com/get-vumoo-content-for-free-stream-movies-tv-series-and-more-with-the-ultimate-vumoo-downloader-app/"><u>Get Vumoo Content for FREE: Stream Movies, TV Series & More with the Ultimate Vumoo Downloader App!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/get-your-favorite-songs-for-free-with-emusic-mp3-wav-and-aac-download-options/"><u>Get Your Favorite Songs for Free with eMusic - MP3, WAV & AAC Download Options</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-to-capturing-and-distributing-gotomeeting-webinar-sessions-successfully/"><u>Guide to Capturing and Distributing GoToMeeting Webinar Sessions Successfully</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-to-legally-downloading-syfy-tv-show-episodes-and-videos/"><u>Guide to Legally Downloading Syfy TV Show Episodes and Videos</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-downloading-content-from-the-atandt-technical-support-channel/"><u>Guide: Downloading Content From the AT&T Technical Support Channel</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-downloading-your-favorite-lady-gaga-tracks-as-mp3mp4-files-on-pcs-and-macs/"><u>Guide: Downloading Your Favorite Lady Gaga Tracks as MP3/MP4 Files on PCs and Macs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-aggregate-attention-masterful-telegram-advertising-approaches/"><u>In 2024, Aggregate Attention Masterful Telegram Advertising Approaches</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-positives-and-negatives-of-choosing-pidgin-for-your-im-needs/"><u>Navigating the Positives and Negatives of Choosing Pidgin for Your IM Needs</u></a></li>
+</ul></div>
 

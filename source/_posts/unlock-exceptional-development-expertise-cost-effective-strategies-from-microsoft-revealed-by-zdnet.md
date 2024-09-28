@@ -1,7 +1,7 @@
 ---
 title: "Unlock Exceptional Development Expertise: Cost-Effective Strategies From Microsoft Revealed by ZDNet"
-date: 2024-09-21T16:13:55.799Z
-updated: 2024-09-23T17:17:04.231Z
+date: 2024-09-25T17:54:04.629Z
+updated: 2024-09-27T20:44:43.425Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -194,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-sync-zoom-meetings-with-ios-and-android-calendars-for-2024/"><u>[New] Sync Zoom Meetings with iOS and Android Calendars for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-your-videos-potential-with-these-7-audio-treasures/"><u>[New] Unlock Your Video's Potential with These 7 Audio Treasures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-seamless-speaking-in-google-meet-sessions/"><u>[Updated] 2024 Approved Seamless Speaking in Google Meet Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-full-access-your-in-depth-look-at-fcp/"><u>2024 Approved Full Access Your In-Depth Look at FCP</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavi-aviogg/"><u>自由版Movavi 工具無須付費下載 - AVI與OGG格式自動轉換</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convertir-rapida-y-facilmente-tu-caf-en-un-formato-aiff-sin-costo-alguno-utilizando-movavi/"><u>Convertir Rápida Y Fácilmente Tu CAF en Un Formato AIFF Sin Costo Alguno Utilizando Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-illustration-of-ms-bda/"><u>Graphics Illustration of MS BDA</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-time-settings-the-ultimate-tutorial-for-amazons-kindle-paperwhite/"><u>Mastering Time Settings: The Ultimate Tutorial for Amazon's Kindle Paperwhite</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavis-ultimate-solution-convert-your-webp-photos-to-gifs-without-paying-a-penny/"><u>Movavi's Ultimate Solution: Convert Your WebP Photos to GIFs Without Paying a Penny!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-wmv-file-splitter-top-5-free-solutions-this-year/"><u>New WMV File Splitter Top 5 Free Solutions This Year</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-11-reconversions-de-videos-libres-y-facilisimas-mac-windows-o-en-linea/"><u>Top 11 Reconversións De Videos Libres Y Facilísimas: Mac, Windows O en Línea</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ultimate-guide-to-the-best-microsoft-surface-devices-of-202n3-expert-comparisons-and-reviews-zdnet/"><u>Ultimate Guide to the Best Microsoft Surface Devices of 202N3 - Expert Comparisons & Reviews | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-windows-from-thx-spatial-issues/"><u>Unblocking Windows From THX Spatial Issues</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-the-role-of-tpm-in-windows-11s-enhanced-security-features-insights-from-zdnet/"><u>Understanding the Role of TPM in Windows 11'S Enhanced Security Features - Insights From ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-11s-integrated-features-for-easy-screen-recording-demonstrated-by-zdnet-experts/"><u>Windows 11'S Integrated Features for Easy Screen Recording Demonstrated by ZDNet Experts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/zdnet-unveils-game-changing-flash-drive-to-breathe-new-life-into-your-old-iphone/"><u>ZDNet Unveils Game-Changing Flash Drive to Breathe New Life Into Your Old iPhone</u></a></li>
+</ul></div>
 

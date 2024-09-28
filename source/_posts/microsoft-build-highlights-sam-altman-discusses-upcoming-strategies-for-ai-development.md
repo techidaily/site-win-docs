@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Build Highlights: Sam Altman Discusses Upcoming Strategies for AI Development"
-date: 2024-09-18T17:21:57.254Z
-updated: 2024-09-23T16:13:51.269Z
+date: 2024-09-21T04:12:38.936Z
+updated: 2024-09-27T18:27:35.178Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +200,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-10-best-alternatives-to-vimeo-cameo-video-editor-for-2024/"><u>[New] 10 Best Alternatives to Vimeo Cameo Video Editor for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-personalize-save-location-for-captured-mac-screen/"><u>[New] In 2024, Personalize Save Location for Captured Mac Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-monetization-metrics-for-a-million-viewers/"><u>[New] Youtube's Monetization Metrics for A Million Viewers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-crafting-your-virtual-identity-essential-tech-you-need-top-7/"><u>[Updated] Crafting Your Virtual Identity - Essential Tech You Need (Top 7)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-art-of-accompanying-visual-content-with-music/"><u>[Updated] The Art of Accompanying Visual Content with Music</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-transform-your-videos-into-revenue-streams-with-smart-vimeo-tactics/"><u>[Updated] Transform Your Videos Into Revenue Streams with Smart Vimeo Tactics</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726226364277-3gpgif-movavi/"><u>無料で簡単な変換! オンライン3GPファイルをGIFにする - Movavi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/conversion-facile-et-gratuite-transformez-votre-fichier-m4r-en-format-mp4-avec-movavi/"><u>Conversion Facile Et Gratuite: Transformez Votre Fichier M4R en Format MP4 Avec Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/discover-excellent-alternatives-to-4k-video-downloader-optimized-for-both-mac-and-pc/"><u>Discover Excellent Alternatives to 4K Video Downloader – Optimized for Both Mac and PC</u></a></li>
+<li><a href="https://win-docs.techidaily.com/easy-to-use-multi-format-image-transformation-with-moveavi-switch-between-png-and-jpg-seamlessly/"><u>Easy-to-Use Multi-Format Image Transformation with MoveAVi - Switch Between PNG & JPG Seamlessly</u></a></li>
+<li><a href="https://win-docs.techidaily.com/gratis-online-converter-vrije-f4v-naar-flv-met-movavi-kort-en-eenvoudig/"><u>Gratis Online Converter: Vrije F4V Naar FLV Met Movavi - Kort en Eenvoudig</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavi-m4v-wmv/"><u>Movavi 線上即時免費過渡 M4V 為 WMV 格式</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mac-video-creation-made-easy-best-tools-and-apps/"><u>New 2024 Approved Mac Video Creation Made Easy Best Tools and Apps</u></a></li>
+<li><a href="https://win-docs.techidaily.com/passos-simples-para-focar-e-desfocar-areas-em-fotografias-no-editor-photo-do-movavi/"><u>Passos Simples Para Focar E Desfocar Áreas Em Fotografias No Editor Photo Do Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-a15-4g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy A15 4G FRP</u></a></li>
+<li><a href="https://win-docs.techidaily.com/zoom-meetinglerin-eylemlerini-kontrol-alt-montajla-eam-ile-kaydetmek-movavi/"><u>Zoom Meetinglerin Eylemlerini Kontrol Alt Montajla (EAM) Ile Kaydetmek - Movavi</u></a></li>
+</ul></div>
 
