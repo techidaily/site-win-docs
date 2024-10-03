@@ -1,7 +1,7 @@
 ---
 title: "Building Effective AI Habits with Microsoft's Recommended 'Magic Number': 11 Sessions Explained by ZDNet"
-date: 2024-09-26T22:38:10.585Z
-updated: 2024-09-27T17:44:03.854Z
+date: 2024-09-26T17:46:26.220Z
+updated: 2024-10-03T04:25:48.610Z
 tags:
   - microsoft
 categories:
@@ -114,26 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-virtual-explorers-toolkit-select-these-7-must-have-tech-for-2024/"><u>[New] Virtual Explorers' Toolkit - Select These 7 Must-Have Tech for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1726223809677-movavi-voc-mp4/"><u>使用 Movavi 無限制網上 VOC 到 MP4 格式過渡</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/are-foldable-smartphones-just-novelty-gadgets-or-here-to-stay-in-the-tech-world/"><u>Are Foldable Smartphones Just Novelty Gadgets or Here to Stay in the Tech World?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/creative-tims-vue-notus-advanced-admin-panel-using-tailwind-css-and-vuejs-for-gratuitous-development-kits/"><u>Creative Tim's Vue Notus: Advanced Admin Panel Using Tailwind CSS & VueJS for Gratuitous Development Kits</u></a></li>
-<li><a href="https://win11.techidaily.com/drive-success-on-windows-1011-top-5-productivity-boosting-tools/"><u>Drive Success on Windows 10/11: Top 5 Productivity-Boosting Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-spark-10-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Spark 10 4G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/meta-wisdom-in-games-meaning-necessity-and-obedience/"><u>Meta Wisdom in Games: Meaning, Necessity, and Obedience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsoft-teams-outage-identifying-system-glitches-or-user-issues/"><u>Microsoft Teams Outage: Identifying System Glitches or User Issues?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/motorcycle-mastery-the-top-ranked-action-cameras-for-23-riders/"><u>Motorcycle Mastery – The Top-Ranked Action Cameras for '23 Riders</u></a></li>
-<li><a href="https://win-docs.techidaily.com/reparacion-fotografica-inteligente-y-rapida-a-traves-del-software-autorepair-automatico-de-movavi/"><u>Reparación Fotográfica Inteligente Y Rápida a Través Del Software Autorepair Automático De Movavi</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-canciones-para-usar-con-videos-de-fotos-mejore-la-calidad-visual/"><u>Top Canciones Para Usar Con Videos De Fotos: Mejore La Calidad Visual</u></a></li>
-<li><a href="https://win-docs.techidaily.com/toutes-les-etapes-pour-transformer-votre-video-mxf-en-un-flou-mkv-sans-frais-solutions-movavi/"><u>Toutes Les Étapes Pour Transformer Votre Vidéo MXF en Un Flou MKV Sans Frais - Solutions Movavi</u></a></li>
-<li><a href="https://win-docs.techidaily.com/transformez-vos-fichiers-vob-en-un-format-m2ts-compatible-avec-xbox-et-blu-ray-gratuitement-movavi/"><u>Transformez Vos Fichiers VOB en Un Format M2TS Compatible Avec Xbox Et Blu-Ray, Gratuitement - Movavi</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/turning-black-out-blank-screens-back-on-fast-asus/"><u>Turning Black-Out Blank Screens Back on, Fast! (Asus)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>[New] 2024 Approved Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-quick-guide-youtube-studio-the-editors-haven/"><u>[Updated] Quick Guide YouTube Studio, The Editor's Haven</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-crafting-text-memes-quickly/"><u>2024 Approved The Art of Crafting Text Memes Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/getting-involved-in-the-global-village-facebook/"><u>Getting Involved in the Global Village (Facebook)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>In 2024, Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/seamless-hd-video-and-sound-recording-for-macwindows-users-convert-footage-to-mp4-or-mp3-files-instantly/"><u>Seamless HD Video & Sound Recording for Mac/Windows Users: Convert Footage to MP4 or MP3 Files Instantly</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-to-saving-crooks-and-liars-content-as-video-files-on-macwindows/"><u>Step-by-Step Guide to Saving Crooks & Liars Content as Video Files on Mac/Windows</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-instructions-on-accessing-and-saving-movies-through-sony-crackle-service/"><u>Step-by-Step Instructions on Accessing and Saving Movies Through Sony Crackle Service</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-tutorial-how-to-save-and-convert-air-mozilla-media-into-mp4-mov-avi-files-or-audio-as-mp3/"><u>Step-by-Step Tutorial: How to Save and Convert Air Mozilla Media Into MP4, MOV, AVI Files or Audio as MP3</u></a></li>
+<li><a href="https://win-docs.techidaily.com/streamease-video-grabber-securely-save-your-favorites-from-odootv-as-mp4-mov-mkv-avi/"><u>StreamEase Video Grabber: Securely Save Your Favorites From Odoo.tv as MP4, MOV, MKV, AVI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-with-toms-hardware-guide/"><u>Unveiling the Latest in Technology with Tom's Hardware Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
