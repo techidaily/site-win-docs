@@ -1,7 +1,7 @@
 ---
 title: "New Fee Alert: Microsoft Announces Paid Windows 11 Updates Commencing in the Following Year - Learn the Cost Breakdown"
-date: 2024-09-25T21:29:09.345Z
-updated: 2024-10-03T00:32:44.971Z
+date: 2024-10-07T16:35:22.596Z
+updated: 2024-10-08T16:22:30.746Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-iphone-7-perfect-methods-for-screen-recording/"><u>[Updated] 2024 Approved IPhone 7 Perfect Methods for Screen Recording</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimizing-vimeo-playback-speed/"><u>[Updated] 2024 Approved Optimizing Vimeo Playback Speed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-securing-every-frame-best-practices-for-vimeo-record-use/"><u>[Updated] In 2024, Securing Every Frame Best Practices for Vimeo Record Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quickening-realities-with-hyperlapse-methods/"><u>[Updated] Quickening Realities with Hyperlapse Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726027470133-dvd/"><u>拡大表示！ DVD の解像度改善手順と基本的な理解</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-list-5-high-res-tvs-perfecting-chromatic-balance-for-2024/"><u>A-List 5 High-Res TVs Perfecting Chromatic Balance for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/enjoy-offline-viewing-convert-and-save-tubi-tv-shows-and-movies-in-high-quality-mp4-or-avi-formats-today/"><u>Enjoy Offline Viewing: Convert & Save Tubi TV Shows and Movies in High Quality MP4 or AVI Formats Today!</u></a></li>
-<li><a href="https://win-docs.techidaily.com/get-vumoo-content-for-free-stream-movies-tv-series-and-more-with-the-ultimate-vumoo-downloader-app/"><u>Get Vumoo Content for FREE: Stream Movies, TV Series & More with the Ultimate Vumoo Downloader App!</u></a></li>
-<li><a href="https://win-docs.techidaily.com/get-your-favorite-songs-for-free-with-emusic-mp3-wav-and-aac-download-options/"><u>Get Your Favorite Songs for Free with eMusic - MP3, WAV & AAC Download Options</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-to-capturing-and-distributing-gotomeeting-webinar-sessions-successfully/"><u>Guide to Capturing and Distributing GoToMeeting Webinar Sessions Successfully</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-to-legally-downloading-syfy-tv-show-episodes-and-videos/"><u>Guide to Legally Downloading Syfy TV Show Episodes and Videos</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-to-saving-your-favorite-gamespot-videos-in-high-quality-mp4-and-avi-files/"><u>Guide to Saving Your Favorite GameSpot Videos in High-Quality MP4 & AVI Files</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-downloading-content-from-the-atandt-technical-support-channel/"><u>Guide: Downloading Content From the AT&T Technical Support Channel</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-downloading-your-favorite-lady-gaga-tracks-as-mp3mp4-files-on-pcs-and-macs/"><u>Guide: Downloading Your Favorite Lady Gaga Tracks as MP3/MP4 Files on PCs and Macs</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-easily-convert-and-download-your-favorite-anime-episodes-into-multiple-file-types-such-as-flv-mov-or-mp4/"><u>How To Easily Convert & Download Your Favorite Anime Episodes Into Multiple File Types Such as FLV, MOV, or MP4</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-8-affordable-industry-standard-open-videoconference-platforms/"><u>In 2024, Top 8 Affordable, Industry-Standard Open Videoconference Platforms</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-free-dailymotion-video-converter/"><u>New In 2024, Top-Rated Free Dailymotion Video Converter</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-diy-with-cutting-edge-ai-the-arrival-of-gpt-4/"><u>Revolutionizing DIY with Cutting-Edge AI: The Arrival of GPT-4</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unbiased-review-of-avs-video-editor-features-pricing-and-more-for-2024/"><u>Updated Unbiased Review of AVS Video Editor Features, Pricing, and More for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transitioning-shadows-a-minute-later/"><u>2024 Approved Transitioning Shadows A Minute Later</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convert-your-videos-to-mp4-for-free-top-mpg-video-transformation-tools/"><u>Convert Your Videos to MP4 for Free: Top MPG Video Transformation Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/power-players-in-flight-the-drone-heavylifting-leaders-for-2024/"><u>Power Players in Flight The Drone Heavylifting Leaders for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screenflow-masterclass-taking-your-mac-projects-to-the-next-level-for-2024/"><u>ScreenFlow Masterclass Taking Your Mac Projects to the Next Level for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/simple-steps-integrating-your-gmail-address-book-with-android-devices/"><u>Simple Steps: Integrating Your Gmail Address Book with Android Devices</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-eliminating-watermarks-with-photoshop-techniques/"><u>Step-by-Step Guide: Eliminating Watermarks with Photoshop Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options-for-2024/"><u>Step-by-Step to Mastering Adobe's Cloud Storage Capabilities & Options for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-techniques-for-efficiently-converting-midi-music-tracks-to-mp3-format/"><u>Top Techniques for Efficiently Converting MIDI Music Tracks to MP3 Format</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/triadic-tongues-rising-in-asian-societies/"><u>Triadic Tongues Rising in Asian Societies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-non-compatible-accessories-with-your-iphone-device/"><u>Troubleshooting Non-Compatible Accessories with Your iPhone Device</u></a></li>
 </ul></div>
 

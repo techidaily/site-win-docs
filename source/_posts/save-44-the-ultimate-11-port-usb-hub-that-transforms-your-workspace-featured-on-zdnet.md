@@ -1,7 +1,7 @@
 ---
 title: "Save 44%%: The Ultimate 11-Port USB Hub That Transforms Your Workspace - Featured on ZDNet"
-date: 2024-09-27T07:02:11.223Z
-updated: 2024-10-02T20:09:52.087Z
+date: 2024-10-07T16:00:10.733Z
+updated: 2024-10-08T16:47:07.298Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,18 +61,18 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -92,10 +92,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -105,16 +105,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -162,21 +156,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-full-scan-the-essence-of-the-lightroom-app-on-android/"><u>[New] Full Scan The Essence of the Lightroom App on Android</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-behind-the-scenes-of-carminatis-youtube-earnings/"><u>[New] In 2024, Behind the Scenes of Carminati’s YouTube Earnings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-win11s-premier-selection-of-videography-software/"><u>[New] In 2024, Win11's Premier Selection of Videography Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-download-to-implementation-installing-obs-on-a-macpc/"><u>[Updated] 2024 Approved From Download to Implementation Installing OBS on a MacPC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-icons-unveiled-elevate-your-fame-and-followers-in-record-time-heres-how/"><u>[Updated] 2024 Approved Instagram Icons Unveiled Elevate Your Fame & Followers in Record Time – Here's How</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-achieving-instagram-recognition-swiftly-for-2024/"><u>[Updated] Achieving Instagram Recognition Swiftly for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/comprehensive-review-browsers-best-the-ultimate-guide-to-firefox-screen-capture-software/"><u>Comprehensive Review: Browser's Best - The Ultimate Guide to Firefox Screen Capture Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/easy-methods-for-copying-content-from-samsung-galaxy-note-10-onto-your-computer/"><u>Easy Methods for Copying Content From Samsung Galaxy Note 10 Onto Your Computer</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-incorporating-soundtracks-into-images-and-using-royalty-free-resources/"><u>Guide: Incorporating Soundtracks Into Images & Using Royalty-Free Resources</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-y100i-power-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Y100i Power 5G</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-to-upgrade-and-add-games-to-your-nes-classic-console/"><u>How to Upgrade and Add Games to Your NES Classic Console</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-guide-moving-your-favorite-tunes-from-cds-to-your-iphone/"><u>Step-by-Step Guide: Moving Your Favorite Tunes From CDs to Your iPhone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-3-adorable-and-simple-tools-for-converting-videos-to-memes/"><u>Top 3 Adorable & Simple Tools for Converting Videos to Memes</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-6-essential-digital-cooperation-apps-for-remote-work-success/"><u>Top 6 Essential Digital Cooperation Apps for Remote Work Success</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-8-creative-sparking-mind-mapping-books-enhance-ideas-and-unleash-innovation/"><u>Top 8 Creative Sparking Mind Mapping Books: Enhance Ideas and Unleash Innovation</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-zero-cost-maximum-creativity-9-free-online-movie-makers/"><u>Updated 2024 Approved Zero Cost, Maximum Creativity 9 Free Online Movie Makers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-color-theory-and-how-to-use-it/"><u>[Updated] Color Theory And How To Use It</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-examining-youtubes-copyright-stance-versus-cc-approach/"><u>[Updated] In 2024, Examining Youtube's Copyright Stance Versus CC Approach</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-fast-track-your-fame-on-instagram-our-ultimate-list-of-15-must-try-techniques/"><u>[Updated] In 2024, Fast-Track Your Fame on Instagram Our Ultimate List of 15 Must-Try Techniques</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-effortless-wmv-conversion-of-youtube-videos-how-to-save-and-transform-your-favorites-in-high-quality/"><u>1. Effortless WMV Conversion of YouTube Videos: How to Save and Transform Your Favorites in High Quality</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-free-oracle-training-resources-access-and-download-educational-video-content-from-oracle-u/"><u>1. Free Oracle Training Resources: Access and Download Educational Video Content From Oracle U.</u></a></li>
+<li><a href="https://win-docs.techidaily.com/azubu-tv-content-saver-convert-and-download-videos-in-mp4-or-avi-format-compatible-with-pc-and-mac-systems/"><u>Azubu TV Content Saver: Convert & Download Videos in MP4 or AVI Format - Compatible with PC and MAC Systems</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convert-buildamodule-videos-to-popular-formats-like-mp4-and-avi/"><u>Convert BuildAModule Videos to Popular Formats Like MP4 & AVI</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/dive-into-screen-recording-expert-insights-on-top-obs-software/"><u>Dive Into Screen Recording Expert Insights on Top OBS Software</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effortless-entertainment-streaming-fetch-your-favorite-episodes-and-tunes-from-maniatv/"><u>Effortless Entertainment Streaming: Fetch Your Favorite Episodes & Tunes From ManiaTV</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-methods-to-mend-javascript-errors-in-your-discord-experience/"><u>Masterful Methods to Mend JavaScript Errors in Your Discord Experience</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-ios-11-screenshots-a-step-by-step-tutorial-on-inbuilt-annotation-tools/"><u>Mastering the Art of iOS 11 Screenshots: A Step-by-Step Tutorial on Inbuilt Annotation Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-standards-for-comedic-posts-at-facebook/"><u>New Standards for Comedic Posts at Facebook</u></a></li>
+<li><a href="https://win-docs.techidaily.com/swr-media-library-extractor-effortlessly-save-swm-videos-as-high-quality-mp4-files/"><u>SWR Media Library Extractor - Effortlessly Save SWM Videos as High-Quality MP4 Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722857666528-unstick-your-airpods-a-guide-to-fixing-charging-issues-in-9-steps/"><u>Unstick Your AirPods: A Guide to Fixing Charging Issues in 9 Steps</u></a></li>
 </ul></div>
 

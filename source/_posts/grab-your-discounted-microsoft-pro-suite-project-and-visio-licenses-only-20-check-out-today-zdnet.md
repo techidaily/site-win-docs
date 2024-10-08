@@ -1,7 +1,7 @@
 ---
 title: "Grab Your Discounted Microsoft Pro Suite: Project & Visio Licenses Only $20! Check Out Today | ZDNet"
-date: 2024-09-28T18:34:47.066Z
-updated: 2024-10-03T03:39:45.542Z
+date: 2024-10-03T16:38:15.082Z
+updated: 2024-10-08T16:04:44.941Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-lightning-labs-loading-slides-in-ppt/"><u>[New] 2024 Approved Lightning Labs Loading Slides in PPT</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-youtubes-new-era-post-vidcon-events/"><u>[New] In 2024, Unveiling Youtube's New Era Post-VidCon Events</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>[Updated] 2024 Approved Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-utilizing-film-content-a-strategy-for-teachers/"><u>[Updated] Utilizing Film Content A Strategy for Teachers</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1-boost-engagement-seamless-steps-for-adding-wav-files-on-youtube/"><u>1. Boost Engagement: Seamless Steps for Adding WAV Files on YouTube</u></a></li>
-<li><a href="https://win-docs.techidaily.com/exploring-the-dual-nature-of-microsofts-copilot-a-powerful-ai-companion-with-prominent-commercial-intentions-zdnet-insights/"><u>Exploring the Dual Nature of Microsoft's Copilot: A Powerful AI Companion with Prominent Commercial Intentions | ZDNet Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-correcting-and-avoiding-frostpunks-system-errors-during-play/"><u>Guide to Correcting and Avoiding Frostpunk's System Errors During Play</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi 13C 5G?</u></a></li>
-<li><a href="https://win-docs.techidaily.com/microsoft-surface-laptop-5-reviewed-familiar-design-innovative-upgrades-spotted-on-zdnet/"><u>Microsoft Surface Laptop 5 Reviewed: Familiar Design, Innovative Upgrades - Spotted on ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-nokia-105-classic-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia 105 Classic – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/pay-to-update-microsoft-announces-new-costs-for-windows/"><u>Pay to Update: Microsoft Announces New Costs for Windows</u></a></li>
-<li><a href="https://win-docs.techidaily.com/real-time-ai-video-subtitles-in-microsoft-edge-streaming-on-youtube-as-revealed-by-zdnet/"><u>Real-Time AI Video Subtitles in Microsoft Edge Streaming on YouTube, as Revealed by ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/runtime-layer-mismatch-in-windows-api/"><u>Runtime Layer Mismatch in Windows API</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-rated-laptops-and-desktops-an-in-depth-comparison-of-brands-like-apple-and-dell-insights-from-zdnet/"><u>Top Rated Laptops & Desktops : An In-Depth Comparison of Brands Like Apple and Dell - Insights From ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/why-apple-should-consider-a-macbook-with-touchscreen-technology-lessons-from-microsofts-new-surface-laptop-pro-zdnet-explores/"><u>Why Apple Should Consider a MacBook with Touchscreen Technology, Lessons From Microsoft's New Surface Laptop Pro | ZDNET Explores</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-5-tools-for-cutting-edge-video-title-and-tag-generation/"><u>[New] 2024 Approved 5 Tools for Cutting Edge Video Title & Tag Generation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-snapchat-for-business-success/"><u>[New] In 2024, Mastering Snapchat for Business Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pc-and-macs-best-screenshot-apps-ranked/"><u>[New] PC and Mac's Best Screenshot Apps Ranked</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-guidelines-for-responsible-content-disclosure-in-online-spaces-like-fb/"><u>[Updated] 2024 Approved Guidelines for Responsible Content Disclosure in Online Spaces Like FB</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726223809677-movavi-voc-mp4/"><u>使用 Movavi 無限制網上 VOC 到 MP4 格式過渡</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavi-aviogg/"><u>自由版Movavi 工具無須付費下載 - AVI與OGG格式自動轉換</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convertir-rapida-y-facilmente-tu-caf-en-un-formato-aiff-sin-costo-alguno-utilizando-movavi/"><u>Convertir Rápida Y Fácilmente Tu CAF en Un Formato AIFF Sin Costo Alguno Utilizando Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortlessly-change-pgm-photos-to-jpeg-using-movavis-no-cost-web-based-tool/"><u>Effortlessly Change PGM Photos to JPEG Using Movavi's No-Cost Web-Based Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-dream-to-documentation-essential-ways-to-record-your-sims-epic-quests-in-sims-4/"><u>In 2024, From Dream to Documentation Essential Ways to Record Your Sims' Epic Quests in Sims 4</u></a></li>
+<li><a href="https://win-docs.techidaily.com/movavis-ultimate-solution-convert-your-webp-photos-to-gifs-without-paying-a-penny/"><u>Movavi's Ultimate Solution: Convert Your WebP Photos to GIFs Without Paying a Penny!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-printing-on-laptops-with-improved-hp-printer-links/"><u>Optimize Printing on Laptops with Improved HP Printer Links</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/start-urdu-learning-with-key-essentials/"><u>Start Urdu Learning with Key Essentials</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-canciones-para-usar-con-videos-de-fotos-mejore-la-calidad-visual/"><u>Top Canciones Para Usar Con Videos De Fotos: Mejore La Calidad Visual</u></a></li>
 </ul></div>
 

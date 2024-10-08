@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Update Cost Announcement: Microsoft Reveals Pricing Plan Starting Next Year | Tech Insights"
-date: 2024-10-01T02:26:23.664Z
-updated: 2024-10-03T02:51:35.654Z
+date: 2024-10-01T16:55:53.448Z
+updated: 2024-10-08T16:18:11.003Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view/"><u>[New] 2024 Approved Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-game-recording-made-easy-with-xbox-one-capture-techniques/"><u>[New] In 2024, Game Recording Made Easy with Xbox One Capture Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-entrepreneurs-playbook-gather-these-vital-products-to-thrive-in-business/"><u>[New] The Entrepreneur's Playbook Gather These Vital Products to Thrive in Business</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[Updated] In 2024, Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-selecting-the-top-cameras-for-smooth-twitch-broadcasts-for-2024/"><u>[Updated] Selecting the Top Cameras for Smooth Twitch Broadcasts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>[Updated] The Verdict on Video Clips A Deep Dive Into InShot's Performance</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year/"><u>2024 Approved PicsArt App Deep Dive Full Review, Analysis & Instructions for the New Year</u></a></li>
-<li><a href="https://win-docs.techidaily.com/convert-your-swf-files-into-mpeg-format-for-free-with-movavis-web-tool/"><u>Convert Your SWF Files Into MPEG Format for Free with Movavi's Web Tool</u></a></li>
-<li><a href="https://win-docs.techidaily.com/fluxy-mkv-flac-movavi/"><u>Fluxy 無障礙對 MKV FLAC音效轉移 - 使用 Movavi 視頻編解碼器</u></a></li>
-<li><a href="https://win-docs.techidaily.com/gratuito-conversor-de-mpe-a-aac-en-linea-herramienta-online-movavi/"><u>Gratuito Conversor De MPE a AAC en Línea - Herramienta Online Movavi</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-chapter-editing-techniques-in-video-creation-movavis-guide-to-obs-optimization-202-cufflinks/"><u>Top Chapter Editing Techniques in Video Creation: Movavi's Guide to OBS Optimization (202 Cufflinks)</u></a></li>
-<li><a href="https://win-docs.techidaily.com/transformation-mp4-vers-mkv-sans-frais-guide-complet-par-movavi-pour-la-conversion-video-en-ligne/"><u>Transformation MP4 Vers MKV Sans Frais - Guide Complet Par Movavi Pour La Conversion Vidéo en Ligne.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-storm-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Storm 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1726227363284-flacmkv-movavi/"><u>オンラインで簡単FlacとMkvの無料変換 - Movaviソリューション</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-a-step-into-anti-time-original-techniques-to-rewind-yt-videos-for-2024/"><u>[Updated] A Step Into Anti-Time Original Techniques to Rewind YT Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-magix-music-maker-2024-the-next-generation-software/"><u>[Updated] Magix Music Maker 2024 The Next Generation Software?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comprehensive-jabra-evolve2-75-wireless-headset-analysis-perfect-for-remote-teams-featuring-noise-cancellation-and-extended-battery-life/"><u>Comprehensive Jabra Evolve2 75 Wireless Headset Analysis - Perfect for Remote Teams Featuring Noise Cancellation & Extended Battery Life</u></a></li>
+<li><a href="https://win-docs.techidaily.com/critical-challenge-ahead-microsofts-race-against-time-for-windows-11-success-zdnet/"><u>Critical Challenge Ahead: Microsoft's Race Against Time for Windows 11 Success - ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-pc-start-up-problem-with-cod-black-ops-cold-war-expert-tips/"><u>Fix Your PC Start-Up Problem with Cod: Black Ops Cold War - Expert Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-should-freelancers-decide-between-bing-chat-and-chatgpt-consider-these-8-aspects/"><u>How Should Freelancers Decide Between Bing Chat and ChatGPT? Consider These 8 Aspects</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v27-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V27 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mirillis-software-suite-advanced-hd-screen-capture-and-video-playback-tools/"><u>Mirillis Software Suite: Advanced HD Screen Capture & Video Playback Tools</u></a></li>
+<li><a href="https://win-docs.techidaily.com/new-fee-alert-microsoft-announces-paid-windows-11-updates-commencing-in-the-following-year-learn-the-cost-breakdown/"><u>New Fee Alert: Microsoft Announces Paid Windows 11 Updates Commencing in the Following Year - Learn the Cost Breakdown</u></a></li>
+<li><a href="https://win-docs.techidaily.com/pay-to-update-microsoft-announces-new-costs-for-windows/"><u>Pay to Update: Microsoft Announces New Costs for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-uncomplicated-guide-to-locating-people-on-facebook/"><u>Quick & Uncomplicated Guide to Locating People on Facebook</u></a></li>
+<li><a href="https://win-docs.techidaily.com/rcu-action-guide-comprehensive-qanda-insights/"><u>RCU Action Guide: Comprehensive Q&A Insights</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/why-apple-should-consider-a-macbook-with-touchscreen-technology-lessons-from-microsofts-new-surface-laptop-pro-zdnet-explores/"><u>Why Apple Should Consider a MacBook with Touchscreen Technology, Lessons From Microsoft's New Surface Laptop Pro | ZDNET Explores</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What's Next for Microsoft Surface? User Preferences & Anticipated Innovations Explored by ZDNet Experts
-date: 2024-09-30T06:55:18.316Z
-updated: 2024-10-03T00:26:00.827Z
+date: 2024-10-04T16:47:33.257Z
+updated: 2024-10-08T16:15:24.348Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-optimal-viewing-angles-for-fb-videos/"><u>[New] In 2024, Optimal Viewing Angles for FB Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-launching-live-recordings-on-hp-computers-for-2024/"><u>[New] Launching Live Recordings on HP Computers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>[New] The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-5-tactics-to-record-gameplay-in-minecraft-via-macos-for-2024/"><u>[New] Top 5 Tactics to Record Gameplay in Minecraft via MacOS for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-deciphering-digital-dominance-youtube-content-strategy-comparison-for-2024/"><u>[Updated] Deciphering Digital Dominance YouTube Content Strategy Comparison for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/convert-your-videos-to-mp4-for-free-top-mpg-video-transformation-tools/"><u>Convert Your Videos to MP4 for Free: Top MPG Video Transformation Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/crafting-compelling-stories-with-your-gopro-footage/"><u>Crafting Compelling Stories with Your GoPro Footage</u></a></li>
-<li><a href="https://win-docs.techidaily.com/simple-steps-integrating-your-gmail-address-book-with-android-devices/"><u>Simple Steps: Integrating Your Gmail Address Book with Android Devices</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-guide-eliminating-watermarks-with-photoshop-techniques/"><u>Step-by-Step Guide: Eliminating Watermarks with Photoshop Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/0-casual-gaming-youtube-personalities-for-2024/"><u>Top 10 Casual Gaming YouTube Personalities for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-techniques-for-efficiently-converting-midi-music-tracks-to-mp3-format/"><u>Top Techniques for Efficiently Converting MIDI Music Tracks to MP3 Format</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-essential-guide-for-teachers-on-using-visual-aids-for-2024/"><u>[New] Essential Guide for Teachers on Using Visual Aids for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-mastery-the-beginners-guide-to-editing-excellence/"><u>[New] Unlock Mastery The Beginner's Guide to Editing Excellence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-custom-whatsapp-ringtone-for-ios-and-android-users/"><u>[Updated] 2024 Approved Mastering Custom WhatsApp Ringtone for iOS and Android Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-professional-level-youtube-editing-techniques-you-need-to-know/"><u>[Updated] Professional-Level Youtube Editing Techniques You Need To Know</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/2024youtube10/"><u>【最新推薦】2024年に使いたい！YouTubeコンテンツをどう録画？上位10アプリ紹介</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-14-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 14 Plus/iPad/iPod</u></a></li>
+<li><a href="https://win-docs.techidaily.com/download-high-definition-xxxbunker-movies-in-multiple-formats-mp4-mov-avi-for-pc-and-mac/"><u>Download High-Definition XXXBunker Movies in Multiple Formats (MP4, MOV, AVI) for PC & Mac</u></a></li>
+<li><a href="https://win-docs.techidaily.com/download-linux-academy-training-videos-as-mp4-format/"><u>Download Linux Academy Training Videos as MP4 Format</u></a></li>
+<li><a href="https://win-docs.techidaily.com/download-pornhub-content-on-pc-or-mac-with-premium-video-grabber/"><u>Download Pornhub Content on PC or Mac with Premium Video Grabber</u></a></li>
+<li><a href="https://win-docs.techidaily.com/downloading-gaiam-tv-content-as-mp4movavi-files-a-comprehensive-tutorial/"><u>Downloading Gaiam TV Content as MP4/MOV/AVI Files - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-docs.techidaily.com/easy-guide-for-converting-and-downloading-byutv-programs-mp4-avi-flv-options-explained/"><u>Easy Guide for Converting & Downloading BYUTV Programs: MP4, AVI, FLV Options Explained</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-ultra-hd-cinema-anywhere-with-the-new-stylish-easy-to-carry-lg-4k-projector/"><u>Experience Ultra HD Cinema Anywhere with the New Stylish, Easy-to-Carry LG 4K Projector</u></a></li>
 </ul></div>
 

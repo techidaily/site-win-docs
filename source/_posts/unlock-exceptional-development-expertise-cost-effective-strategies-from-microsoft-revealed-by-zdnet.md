@@ -1,7 +1,7 @@
 ---
 title: "Unlock Exceptional Development Expertise: Cost-Effective Strategies From Microsoft Revealed by ZDNet"
-date: 2024-09-30T06:21:00.501Z
-updated: 2024-10-02T22:57:54.881Z
+date: 2024-10-05T16:19:17.911Z
+updated: 2024-10-08T16:46:25.888Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-video-intro-templates-you-need-to-download/"><u>[Updated] Free Video Intro Templates You Need to Download</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-enhanced-gpt-tools-for-health-and-hygiene/"><u>7 Enhanced GPT Tools for Health & Hygiene</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-to-capturing-and-distributing-gotomeeting-webinar-sessions-successfully/"><u>Guide to Capturing and Distributing GoToMeeting Webinar Sessions Successfully</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-to-legally-downloading-syfy-tv-show-episodes-and-videos/"><u>Guide to Legally Downloading Syfy TV Show Episodes and Videos</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-to-saving-your-favorite-gamespot-videos-in-high-quality-mp4-and-avi-files/"><u>Guide to Saving Your Favorite GameSpot Videos in High-Quality MP4 & AVI Files</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/guide-to-the-stellar-file-deleter-version-5-easy-setup-and-routine-data-purge-on-windows-systems/"><u>Guide to the Stellar File Deleter Version 5: Easy Setup & Routine Data Purge on Windows Systems</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-downloading-your-favorite-lady-gaga-tracks-as-mp3mp4-files-on-pcs-and-macs/"><u>Guide: Downloading Your Favorite Lady Gaga Tracks as MP3/MP4 Files on PCs and Macs</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-easily-convert-and-download-your-favorite-anime-episodes-into-multiple-file-types-such-as-flv-mov-or-mp4/"><u>How To Easily Convert & Download Your Favorite Anime Episodes Into Multiple File Types Such as FLV, MOV, or MP4</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-y100i-power-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-influence-of-soundtracks-on-a-teasers-audience-reception/"><u>In 2024, The Influence of Soundtracks on a Teaser's Audience Reception</u></a></li>
-<li><a href="https://win-docs.techidaily.com/munchen-television-series-and-show-ripper-grab-episodes-from-official-munchner-broadcasting/"><u>München Television Series and Show Ripper: Grab Episodes From Official Münchner Broadcasting</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ate-and-neutralize-your-own-overly-green-spectrum-in-youtube-videos-mac/"><u>Navigate and Neutralize Your Own Overly Green Spectrum in YouTube Videos (Mac)</u></a></li>
-<li><a href="https://win-docs.techidaily.com/save-your-favorite-pornotube-videos-as-mp4-or-avi-for-offline-viewing-and-convenience/"><u>Save Your Favorite Pornotube Videos as MP4 or AVI for Offline Viewing and Convenience</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/ultimate-hash-tracker-list-for-major-social-media-sites-fbtwitterinsta-for-2024/"><u>Ultimate Hash Tracker List for Major Social Media Sites (FB/Twitter/Insta) for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/44k544og44or44k555qe44gr44ov44kh44oz44k544oi44oq44o844og44gu5pig5yop44ks6kiy6yyy44gz44kl5pya5zae44gu5pa55rov/"><u>ステルス的にファンストリームの映像を記録する最善の方法</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-10-best-websites-for-copyright-free-gaming-music/"><u>[New] 2024 Approved 10 Best Websites for Copyright-Free Gaming Music</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-deciding-on-sns-hdr-its-value-proposition-explored/"><u>[New] 2024 Approved Deciding on SNS HDR Its Value Proposition Explored</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-thumbnails-the-ultimate-guide-to-optimal-youtube-sizes/"><u>[New] 2024 Approved Top Thumbnails The Ultimate Guide to Optimal YouTube Sizes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-uniting-viewers-facebook-live-on-the-big-screen/"><u>[New] Uniting Viewers Facebook Live on the Big Screen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-guide-obs-streams-to-facebook-success/"><u>2024 Approved The Ultimate Guide OBS Streams to Facebook Success</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comprehensive-review-browsers-best-the-ultimate-guide-to-firefox-screen-capture-software/"><u>Comprehensive Review: Browser's Best - The Ultimate Guide to Firefox Screen Capture Software</u></a></li>
+<li><a href="https://win-docs.techidaily.com/easy-methods-for-copying-content-from-samsung-galaxy-note-10-onto-your-computer/"><u>Easy Methods for Copying Content From Samsung Galaxy Note 10 Onto Your Computer</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effortless-contact-transfer-techniques-between-cell-phones/"><u>Effortless Contact Transfer Techniques Between Cell Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-next-gen-notetaking-with-mematic-for-2024/"><u>Experience Next-Gen Notetaking with Mematic for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-incorporating-soundtracks-into-images-and-using-royalty-free-resources/"><u>Guide: Incorporating Soundtracks Into Images & Using Royalty-Free Resources</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/simple-steps-integrating-your-gmail-address-book-with-android-devices/"><u>Simple Steps: Integrating Your Gmail Address Book with Android Devices</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-moving-your-favorite-tunes-from-cds-to-your-iphone/"><u>Step-by-Step Guide: Moving Your Favorite Tunes From CDs to Your iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content/"><u>The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-8-creative-sparking-mind-mapping-books-enhance-ideas-and-unleash-innovation/"><u>Top 8 Creative Sparking Mind Mapping Books: Enhance Ideas and Unleash Innovation</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-techniques-for-efficiently-converting-midi-music-tracks-to-mp3-format/"><u>Top Techniques for Efficiently Converting MIDI Music Tracks to MP3 Format</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1726029196589-windows-pcdvd/"><u>Windows PCで安全にDVDをコピーする方法：ステップバイステップ詳しい指南</u></a></li>
 </ul></div>
 

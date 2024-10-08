@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Dual Nature of Microsoft's Copilot: A Powerful AI Companion with Prominent Commercial Intentions | ZDNet Insights"
-date: 2024-09-25T17:06:09.188Z
-updated: 2024-10-02T18:07:32.473Z
+date: 2024-10-06T16:20:10.842Z
+updated: 2024-10-08T16:31:25.828Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,35 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-discover-the-visionaries-behind-video-content-six-intriguing-youtube-categorization-challenges/"><u>[Updated] Discover the Visionaries Behind Video Content Six Intriguing YouTube Categorization Challenges</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1726224175109-wmamov-movavi/"><u>無償なオンラインWMAとMOVに簡単に変換する方法 - Movavi</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/deciding-between-an-ipad-pro-and-a-macbook-pro-differences-unveiled/"><u>Deciding Between an iPad Pro and a MacBook Pro: Differences Unveiled</u></a></li>
-<li><a href="https://win-forum.techidaily.com/delete-filesfolders-efficiently-using-windows-11s-command-line-tools/"><u>Delete Files/Folders Efficiently Using Windows 11'S Command Line Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-visual-appeal-with-nvidias-innovative-webcam-interface-software/"><u>Enhance Visual Appeal with NVIDIA's Innovative Webcam Interface Software</u></a></li>
-<li><a href="https://fox-info.techidaily.com/harnessing-the-power-of-gratuitous-text-animations/"><u>Harnessing the Power of Gratuitous Text Animations</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-top-cinema-teasers-compilation/"><u>In 2024, Top Cinema Teasers Compilation</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/legjobb-obs-online-rekonstrualas-szuksegletei-2024-ben-movavi/"><u>Legjobb OBS Online Rekonstruálás Szükségletei 2024-Ben - Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-marketing-landscape-essential-strategies-for-newbies/"><u>Navigating the Marketing Landscape Essential Strategies for Newbies</u></a></li>
-<li><a href="https://win-docs.techidaily.com/transcodificar-archivos-de-audio-de-wma-a-aiff-sin-costes-por-movavi-online/"><u>Transcodificar Archivos De Audio De WMA a AIFF Sin Costes Por Movavi Online</u></a></li>
-<li><a href="https://win-docs.techidaily.com/trasforma-video-quicktime-a-formato-wmv-online-senza-costi-con-movavi/"><u>Trasforma Video QuickTime a Formato WMV Online Senza Costi Con Movavi</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mpg-swf-movavi/"><u>영구성 MPG SWF 파일을 비용 없이 웹 문제를 위해 전환하세요 - Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-converting-moments-into-memorable-gifs/"><u>[New] Converting Moments Into Memorable GIFs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screensnap-chromecast-quick-video-capture/"><u>[New] ScreenSnap Chromecast Quick Video Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-spotifys-playback-rate-without-sacrificing-sound/"><u>[Updated] Maximizing Spotify's Playback Rate Without Sacrificing Sound</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-visual-storytelling-101-mastering-the-art-of-posting-images-on-youtube/"><u>2024 Approved Visual Storytelling 101 Mastering the Art of Posting Images on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-voice-of-volume-6-free-apps-for-channeling-youtube-music-onto-android-devices/"><u>2024 Approved Voice of Volume 6 Free Apps for Channeling YouTube Music Onto Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-innovative-uses-of-chatgpt-for-enhancing-creative-writing-skills/"><u>6 Innovative Uses of ChatGPT for Enhancing Creative Writing Skills</u></a></li>
+<li><a href="https://win-docs.techidaily.com/business-world-alert-openai-launches-the-new-chatgpt-pro-spotlight-by-zdnet/"><u>Business World Alert: OpenAI Launches the New ChatGPT Pro - Spotlight by ZDNET</u></a></li>
+<li><a href="https://win-docs.techidaily.com/choosing-the-right-core-surface-pros-decision-between-arm-and-intel-processors-demystified/"><u>Choosing the Right Core: Surface Pro's Decision Between ARM and Intel Processors Demystified</u></a></li>
+<li><a href="https://win-docs.techidaily.com/defending-your-digital-self-a-guide-to-fortifying-your-microsoft-account-from-malicious-actors/"><u>Defending Your Digital Self: A Guide to Fortifying Your Microsoft Account From Malicious Actors</u></a></li>
+<li><a href="https://win-docs.techidaily.com/exploring-microsofts-ai-advancements-essential-surface-product-revelations-this-week-reviewed-by-zdnet/"><u>Exploring Microsoft's AI Advancements: Essential Surface Product Revelations This Week Reviewed by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-tecno-pova-5-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Pova 5 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximizing-value-for-money-how-my-decision-to-opt-for-the-economical-surface-pro-could-pay-off-according-to-zdnet-experts/"><u>Maximizing Value for Money: How My Decision to Opt for the Economical Surface Pro Could Pay Off, According to ZDNet Experts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/microsoft-intensifies-restrictions-on-windows-11-update-delivery-for-incompatible-systems-technews/"><u>Microsoft Intensifies Restrictions on Windows 11 Update Delivery for Incompatible Systems | TechNews</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-rapid-method-for-silencing-audio-in-audacity-essential-tips-for-2024/"><u>New Rapid Method for Silencing Audio in Audacity Essential Tips for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-and-phone-synergy-a-comprehensive-guide/"><u>PS5 & Phone Synergy: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-chromes-mystery-a-guide-to-overcoming-complete-screen-darkness/"><u>Resolve Chrome's Mystery: A Guide to Overcoming Complete Screen Darkness</u></a></li>
+<li><a href="https://win-docs.techidaily.com/whats-next-for-microsoft-surface-user-preferences-and-anticipated-innovations-explored-by-zdnet-experts/"><u>What's Next for Microsoft Surface? User Preferences & Anticipated Innovations Explored by ZDNet Experts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-10-update-cost-announcement-microsoft-reveals-pricing-plan-starting-next-year-tech-insights/"><u>Windows 10 Update Cost Announcement: Microsoft Reveals Pricing Plan Starting Next Year | Tech Insights</u></a></li>
+<li><a href="https://win-docs.techidaily.com/zdnet-reports-on-microsofts-innovative-approach-to-elevate-the-meeting-experience-to-new-heights-of-difficulty/"><u>ZDNet Reports on Microsoft's Innovative Approach to Elevate the Meeting Experience to New Heights of Difficulty</u></a></li>
 </ul></div>
 
