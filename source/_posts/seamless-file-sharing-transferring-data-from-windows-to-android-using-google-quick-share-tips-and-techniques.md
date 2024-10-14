@@ -1,7 +1,7 @@
 ---
 title: "Seamless File Sharing: Transferring Data From Windows to Android Using Google Quick Share - Tips & Techniques"
-date: 2024-10-03T16:28:44.775Z
-updated: 2024-10-08T16:48:58.648Z
+date: 2024-10-08T20:43:35.999Z
+updated: 2024-10-14T01:27:31.616Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -39,19 +46,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -60,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -73,25 +74,11 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -111,10 +98,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -122,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,18 +156,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screen-snap-shots-made-easy-free-on-windows/"><u>[New] In 2024, Screen Snap Shots Made Easy – Free on Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smart-shopping-top-7-mirrorless-cameras-under-1000/"><u>[New] Smart Shopping Top 7 Mirrorless Cameras Under $1,000</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-building-impressive-instagram-story-bookmarks/"><u>[Updated] Building Impressive Instagram Story Bookmarks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/affordable-android-calls-10-best-selection-for-2024/"><u>Affordable Android Calls, 10 Best Selection for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-your-3gp-videos-into-lively-animated-gifs-a-step-by-step-guide/"><u>Convert Your 3GP Videos Into Lively Animated GIFs: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-docs.techidaily.com/convert-your-grooveshark-playlists-to-mp3wavm4a-files-easy-guide-for-mac-and-windows-users/"><u>Convert Your Grooveshark Playlists to MP3/WAV/M4A Files: Easy Guide for Mac & Windows Users</u></a></li>
-<li><a href="https://win-docs.techidaily.com/download-hd-youtube-videos-in-full-quality-1080p-a-guide-for-mac-and-pc-users/"><u>Download HD YouTube Videos in Full Quality (1080P): A Guide for MAC and PC Users</u></a></li>
-<li><a href="https://win-docs.techidaily.com/download-high-definition-xxxbunker-movies-in-multiple-formats-mp4-mov-avi-for-pc-and-mac/"><u>Download High-Definition XXXBunker Movies in Multiple Formats (MP4, MOV, AVI) for PC & Mac</u></a></li>
-<li><a href="https://win-docs.techidaily.com/download-linux-academy-training-videos-as-mp4-format/"><u>Download Linux Academy Training Videos as MP4 Format</u></a></li>
-<li><a href="https://win-docs.techidaily.com/download-pornhub-content-on-pc-or-mac-with-premium-video-grabber/"><u>Download Pornhub Content on PC or Mac with Premium Video Grabber</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ss-individuality-with-youtube-backgrounds-for-2024/"><u>Express Individuality with YouTube Backgrounds for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-xs-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone XS Before the Plan Expires</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-logitech-racing-wheels-g27-software-on-windows-11-10-or-7/"><u>Installing Logitech Racing Wheels G27 Software on Windows 11, 10 or 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-art-of-podcast-storytelling-writing-tips-and-example-guides/"><u>[New] 2024 Approved The Art of Podcast Storytelling Writing Tips & Example Guides</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-loop-and-love-effortless-youtube-video-views-on-your-tv-screen/"><u>[New] In 2024, Loop & Love Effortless YouTube Video Views on Your TV Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-in-stream-ad-configurations-on-facebook-for-peak-performance/"><u>[Updated] Mastering In-Stream Ad Configurations on Facebook for Peak Performance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-inversion-workshop/"><u>2024 Approved Inversion Workshop</u></a></li>
+<li><a href="https://win-docs.techidaily.com/business-world-alert-openai-launches-the-new-chatgpt-pro-spotlight-by-zdnet/"><u>Business World Alert: OpenAI Launches the New ChatGPT Pro - Spotlight by ZDNET</u></a></li>
+<li><a href="https://win-docs.techidaily.com/choosing-the-right-core-surface-pros-decision-between-arm-and-intel-processors-demystified/"><u>Choosing the Right Core: Surface Pro's Decision Between ARM and Intel Processors Demystified</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ev-advantages-on-the-road-convenient-parking-options-and-hov-lane-freebies-for-eco-friendly-drivers/"><u>EV Advantages on the Road: Convenient Parking Options and HOV Lane Freebies for Eco-Friendly Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/1723808115620-how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-tecno-pova-6-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Tecno Pova 6 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximizing-value-for-money-how-my-decision-to-opt-for-the-economical-surface-pro-could-pay-off-according-to-zdnet-experts/"><u>Maximizing Value for Money: How My Decision to Opt for the Economical Surface Pro Could Pay Off, According to ZDNet Experts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/microsoft-intensifies-restrictions-on-windows-11-update-delivery-for-incompatible-systems-technews/"><u>Microsoft Intensifies Restrictions on Windows 11 Update Delivery for Incompatible Systems | TechNews</u></a></li>
+<li><a href="https://win-docs.techidaily.com/microsoft-redefines-durability-with-latest-laptop-models-impresses-ifixit-and-challenges-competitors-like-apple-to-rise-in-repairability/"><u>Microsoft Redefines Durability with Latest Laptop Models: Impresses iFixit and Challenges Competitors Like Apple to Rise in Repairability</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-picks-6-exceptional-online-platforms-for-korean-learning/"><u>Top Picks: 6 Exceptional Online Platforms for Korean Learning</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unveiling-of-windows-11-se-specialized-pcs-a-game-changer-in-educational-technology-zdnet-insights/"><u>Unveiling of Windows 11 SE Specialized PCs: A Game Changer in Educational Technology - ZDNet Insights</u></a></li>
+<li><a href="https://win-docs.techidaily.com/whats-next-for-microsoft-surface-user-preferences-and-anticipated-innovations-explored-by-zdnet-experts/"><u>What's Next for Microsoft Surface? User Preferences & Anticipated Innovations Explored by ZDNet Experts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-10-update-cost-announcement-microsoft-reveals-pricing-plan-starting-next-year-tech-insights/"><u>Windows 10 Update Cost Announcement: Microsoft Reveals Pricing Plan Starting Next Year | Tech Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-the-game-with-a-strong-video-game-youtube-presence/"><u>Winning the Game with a Strong Video Game Youtube Presence</u></a></li>
+<li><a href="https://win-docs.techidaily.com/zdnet-reports-on-microsofts-innovative-approach-to-elevate-the-meeting-experience-to-new-heights-of-difficulty/"><u>ZDNet Reports on Microsoft's Innovative Approach to Elevate the Meeting Experience to New Heights of Difficulty</u></a></li>
 </ul></div>
 

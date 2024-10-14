@@ -1,7 +1,7 @@
 ---
 title: "Identifying Your Current GPU: A Step-by-Step Guide to Discovering & Updating Your Graphics Card"
-date: 2024-10-06T16:41:50.242Z
-updated: 2024-10-08T16:29:58.415Z
+date: 2024-10-07T17:55:38.647Z
+updated: 2024-10-14T05:38:16.757Z
 tags:
   - windows
 categories:
@@ -27,13 +27,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -41,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -80,6 +73,13 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -92,10 +92,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -104,18 +104,24 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,18 +162,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-effective-methods-to-document-facetime-calls/"><u>[New] In 2024, Effective Methods to Document FaceTime Calls</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-online-video-leaderships-who-takes-the-crown-vimeo-youtubes-and-dailymotions/"><u>[Updated] Online Video Leaderships Who Takes the Crown – Vimeo, YouTubes & DailyMotions?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinterest-vid-lifting-the-top-free-online-tools-list/"><u>[Updated] Pinterest Vid Lifting The Top Free, Online Tools List</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-ensuring-total-sound-from-partially-muted-fb-media/"><u>2024 Approved Ensuring Total Sound From Partially Muted FB Media</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/8-effective-strategies-to-maximize-the-benefits-of-auto-gpt/"><u>8 Effective Strategies to Maximize the Benefits of Auto-GPT</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/capture-your-moments-seamless-recording-of-screens-cameras-and-sound-using-winxvideos-advanced-ai-technology/"><u>Capture Your Moments: Seamless Recording of Screens, Cameras, and Sound Using Winxvideo's Advanced AI Technology</u></a></li>
-<li><a href="https://win-docs.techidaily.com/customize-your-content-create-a-german-translation-on-flipbuildercom/"><u>Customize Your Content: Create a German Translation on FlipBuilder.com</u></a></li>
-<li><a href="https://win-docs.techidaily.com/easy-convert-and-enhance-transform-your-documents-from-ms-office-to-interactive-paperback-books-experience-with-flipoffice-pro-flipbuildercom/"><u>Easy Convert & Enhance: Transform Your Documents From MS Office to Interactive Paperback Books [Experience With FlipOffice Pro - FlipBuilder.com]</u></a></li>
-<li><a href="https://win-docs.techidaily.com/enhance-your-ebook-experience-with-flip-reader-specially-tailored-for-fbr-and-zip-files-built-using-flipbuilder-tools/"><u>Enhance Your eBook Experience with Flip Reader - Specially Tailored for .fbr and .zip Files | Built Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-docs.techidaily.com/expand-your-reading-experience-with-larger-flipbooks-on-flipbuildercom/"><u>Expand Your Reading Experience with Larger Flipbooks on FlipBuilder.com!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-spark-10-4g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Spark 10 4G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-now-compatible-with-latest-graphics-cards/"><u>Overwatch Now Compatible With Latest Graphics Cards</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-samsung-galaxy-f14-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovative-gb-recorder-for-games-on-fbx/"><u>[New] 2024 Approved Innovative GB Recorder for Games on FBX</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-iphoneipad-recording-for-2024/"><u>[New] The Ultimate Guide to iPhone/iPad Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-featured-sierra-drives-files-and-more/"><u>[Updated] Full-Featured Sierra Drives, Files, and More</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-secrets-to-affordable-buying-of-gopro-devices/"><u>[Updated] In 2024, Secrets to Affordable Buying of GoPro Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-navigating-the-world-of-digital-sound-capture-a-deep-dive/"><u>2024 Approved Navigating the World of Digital Sound Capture A Deep Dive</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-to-legally-downloading-syfy-tv-show-episodes-and-videos/"><u>Guide to Legally Downloading Syfy TV Show Episodes and Videos</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-to-saving-your-favorite-gamespot-videos-in-high-quality-mp4-and-avi-files/"><u>Guide to Saving Your Favorite GameSpot Videos in High-Quality MP4 & AVI Files</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x9b-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X9b Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/how-to-easily-convert-and-download-your-favorite-anime-episodes-into-multiple-file-types-such-as-flv-mov-or-mp4/"><u>How To Easily Convert & Download Your Favorite Anime Episodes Into Multiple File Types Such as FLV, MOV, or MP4</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-m34-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy M34 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-docs.techidaily.com/munchen-television-series-and-show-ripper-grab-episodes-from-official-munchner-broadcasting/"><u>München Television Series and Show Ripper: Grab Episodes From Official Münchner Broadcasting</u></a></li>
+<li><a href="https://win-docs.techidaily.com/save-your-favorite-pornotube-videos-as-mp4-or-avi-for-offline-viewing-and-convenience/"><u>Save Your Favorite Pornotube Videos as MP4 or AVI for Offline Viewing and Convenience</u></a></li>
+<li><a href="https://win-docs.techidaily.com/seamless-hd-video-and-sound-recording-for-macwindows-users-convert-footage-to-mp4-or-mp3-files-instantly/"><u>Seamless HD Video & Sound Recording for Mac/Windows Users: Convert Footage to MP4 or MP3 Files Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speeding-up-microsoft-edge-enhanced-performance-coming-soon/"><u>Speeding Up Microsoft Edge: Enhanced Performance Coming Soon</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-to-saving-crooks-and-liars-content-as-video-files-on-macwindows/"><u>Step-by-Step Guide to Saving Crooks & Liars Content as Video Files on Mac/Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/charge-youtube-videos-efficient-rendering-fast-transfer/"><u>Turbocharge YouTube Videos Efficient Rendering, Fast Transfer</u></a></li>
 </ul></div>
 

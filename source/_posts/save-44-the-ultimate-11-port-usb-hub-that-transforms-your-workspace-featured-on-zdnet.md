@@ -1,7 +1,7 @@
 ---
 title: "Save 44%%: The Ultimate 11-Port USB Hub That Transforms Your Workspace - Featured on ZDNet"
-date: 2024-10-07T16:00:10.733Z
-updated: 2024-10-08T16:47:07.298Z
+date: 2024-10-11T17:46:02.105Z
+updated: 2024-10-13T17:24:32.631Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -55,6 +55,13 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -62,10 +69,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -92,10 +99,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -103,13 +110,6 @@ Screenshot by Lance Whitney/ZDNET
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,20 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-color-theory-and-how-to-use-it/"><u>[Updated] Color Theory And How To Use It</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-examining-youtubes-copyright-stance-versus-cc-approach/"><u>[Updated] In 2024, Examining Youtube's Copyright Stance Versus CC Approach</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-fast-track-your-fame-on-instagram-our-ultimate-list-of-15-must-try-techniques/"><u>[Updated] In 2024, Fast-Track Your Fame on Instagram Our Ultimate List of 15 Must-Try Techniques</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-effortless-wmv-conversion-of-youtube-videos-how-to-save-and-transform-your-favorites-in-high-quality/"><u>1. Effortless WMV Conversion of YouTube Videos: How to Save and Transform Your Favorites in High Quality</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-free-oracle-training-resources-access-and-download-educational-video-content-from-oracle-u/"><u>1. Free Oracle Training Resources: Access and Download Educational Video Content From Oracle U.</u></a></li>
-<li><a href="https://win-docs.techidaily.com/azubu-tv-content-saver-convert-and-download-videos-in-mp4-or-avi-format-compatible-with-pc-and-mac-systems/"><u>Azubu TV Content Saver: Convert & Download Videos in MP4 or AVI Format - Compatible with PC and MAC Systems</u></a></li>
-<li><a href="https://win-docs.techidaily.com/convert-buildamodule-videos-to-popular-formats-like-mp4-and-avi/"><u>Convert BuildAModule Videos to Popular Formats Like MP4 & AVI</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/dive-into-screen-recording-expert-insights-on-top-obs-software/"><u>Dive Into Screen Recording Expert Insights on Top OBS Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/effortless-entertainment-streaming-fetch-your-favorite-episodes-and-tunes-from-maniatv/"><u>Effortless Entertainment Streaming: Fetch Your Favorite Episodes & Tunes From ManiaTV</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterful-methods-to-mend-javascript-errors-in-your-discord-experience/"><u>Masterful Methods to Mend JavaScript Errors in Your Discord Experience</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-ios-11-screenshots-a-step-by-step-tutorial-on-inbuilt-annotation-tools/"><u>Mastering the Art of iOS 11 Screenshots: A Step-by-Step Tutorial on Inbuilt Annotation Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/new-standards-for-comedic-posts-at-facebook/"><u>New Standards for Comedic Posts at Facebook</u></a></li>
-<li><a href="https://win-docs.techidaily.com/swr-media-library-extractor-effortlessly-save-swm-videos-as-high-quality-mp4-files/"><u>SWR Media Library Extractor - Effortlessly Save SWM Videos as High-Quality MP4 Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722857666528-unstick-your-airpods-a-guide-to-fixing-charging-issues-in-9-steps/"><u>Unstick Your AirPods: A Guide to Fixing Charging Issues in 9 Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-digital-footprints-on-instagram-effective-photo-watermarking/"><u>[New] 2024 Approved Digital Footprints on Instagram Effective Photo Watermarking</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-securing-smooth-timelines-to-avoid-frame-drops-in-obs/"><u>[New] 2024 Approved Securing Smooth Timelines to Avoid Frame Drops in OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-guide-for-instagram-video-uploads-from-pcmac/"><u>[New] 2024 Approved The Essential Guide for Instagram Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-download-premium-facebook-hd-content-anywhere-for-2024/"><u>[New] Download Premium Facebook HD Content Anywhere for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[Updated] 2024 Approved From Hundreds to Millions A YouTube Growth Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-download-and-convert-aac-to-wav-format-instantly-no-cost-with-movavi-converter/"><u>1. Download and Convert AAC to WAV Format Instantly - No Cost with Movavi Converter</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-a05s-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy A05s Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-docs.techidaily.com/a-currency-peg-is-a-fixed-exchange-rate-system-where-a-countryamoon-sets-its-currency-value-relative-to-another-currency-or-basket-of-currencies/"><u>A Currency Peg Is a Fixed Exchange Rate System Where a Country'amoon Sets Its Currency Value Relative to Another Currency or Basket of Currencies.</u></a></li>
+<li><a href="https://win-docs.techidaily.com/defending-your-digital-self-a-guide-to-fortifying-your-microsoft-account-from-malicious-actors/"><u>Defending Your Digital Self: A Guide to Fortifying Your Microsoft Account From Malicious Actors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhancing-engagement-how-to-use-background-footage-for-2024/"><u>Enhancing Engagement How to Use Background Footage for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/exploring-microsofts-ai-advancements-essential-surface-product-revelations-this-week-reviewed-by-zdnet/"><u>Exploring Microsoft's AI Advancements: Essential Surface Product Revelations This Week Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-installupdate-intel-iris-plus-graphics-amoled-655-driver-on-windows-10-or-11/"><u>How to Install/Update Intel Iris Plus Graphics Amoled 655 Driver on Windows 10 or 11</u></a></li>
+<li><a href="https://win-docs.techidaily.com/microsoft-surface-laptop-5-reviewed-familiar-design-innovative-upgrades-spotted-on-zdnet/"><u>Microsoft Surface Laptop 5 Reviewed: Familiar Design, Innovative Upgrades - Spotted on ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/real-time-ai-video-subtitles-in-microsoft-edge-streaming-on-youtube-as-revealed-by-zdnet/"><u>Real-Time AI Video Subtitles in Microsoft Edge Streaming on YouTube, as Revealed by ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-rated-laptops-and-desktops-an-in-depth-comparison-of-brands-like-apple-and-dell-insights-from-zdnet/"><u>Top Rated Laptops & Desktops : An In-Depth Comparison of Brands Like Apple and Dell - Insights From ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/upcoming-cost-of-windows-11-microsoft-announces-paid-update-model-starting-next-year-insider-info/"><u>Upcoming Cost of Windows 11: Microsoft Announces Paid Update Model Starting Next Year - Insider Info</u></a></li>
+<li><a href="https://win-docs.techidaily.com/upcoming-costly-change-microsoft-introduces-fees-for-windows-1-in-the-new-year-learn-your-estimated-expenses/"><u>Upcoming Costly Change: Microsoft Introduces Fees for Windows 1# in the New Year - Learn Your Estimated Expenses!</u></a></li>
 </ul></div>
 
