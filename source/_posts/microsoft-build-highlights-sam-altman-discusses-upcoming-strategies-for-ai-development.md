@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Build Highlights: Sam Altman Discusses Upcoming Strategies for AI Development"
-date: 2024-10-10T02:29:49.061Z
-updated: 2024-10-14T11:09:40.937Z
+date: 2024-10-13T07:38:17.093Z
+updated: 2024-10-20T00:37:56.284Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,10 +143,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,20 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-phones-gopro-editing-solutions-revealed/"><u>[New] Leading Phones' GoPro Editing Solutions Revealed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-ultimate-compilation-ringtone-renaissance-sites-for-2024/"><u>[New] Ultimate Compilation Ringtone Renaissance Sites for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-master-screen-capture-on-chromebook-the-5-superior-tools/"><u>[Updated] 2024 Approved Master Screen Capture on Chromebook The 5 Superior Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-boost-your-video-impact-quickly-learn-effective-techniques-for-fb-subtitle-creation/"><u>[Updated] In 2024, Boost Your Video Impact Quickly - Learn Effective Techniques for FB Subtitle Creation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v29-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V29</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-13t-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi 13T Pro Is Unlocked</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-create-and-upload-digital-flipbooks-with-ease-using-flipbuilder/"><u>How to Create & Upload Digital Flipbooks with Ease Using FlipBuilder</u></a></li>
-<li><a href="https://win-docs.techidaily.com/is-it-possible-to-delete-chosen-pictures-once-loaded-in-flipbuilder/"><u>Is It Possible to Delete Chosen Pictures Once Loaded in FlipBuilder?</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-the-art-of-adding-marks-to-your-ebook-pages-with-flipbuilder-tools-and-techniques/"><u>Mastering the Art of Adding Marks to Your eBook Pages with FlipBuilder Tools and Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/nine-must-have-android-apps-for-windows-users/"><u>Nine Must-Have Android Apps for Windows Users</u></a></li>
-<li><a href="https://win-docs.techidaily.com/redesigning-with-flip-maker-tutorial-on-importing-and-editing-projects-seamlessly/"><u>Redesigning with Flip Maker: Tutorial on Importing and Editing Projects Seamlessly</u></a></li>
-<li><a href="https://win-docs.techidaily.com/repositioning-content-within-a-digital-flipbook-on-flipbuilder-step-by-step-guide/"><u>Repositioning Content Within a Digital Flipbook on FlipBuilder - Step-by-Step Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/revisiting-streamers-for-enhanced-experience/"><u>Revisiting Streamers for Enhanced Experience</u></a></li>
-<li><a href="https://win-docs.techidaily.com/share-your-flipbook-projects-with-ease-upload-and-distribute-digitally-using-flipbuilder/"><u>Share Your FlipBook Projects with Ease - Upload & Distribute Digitally Using FlipBuilder</u></a></li>
-<li><a href="https://win-docs.techidaily.com/streamline-publishing-workflows-with-flipbuilders-quick-office-linking-feature/"><u>Streamline Publishing Workflows with FlipBuilder's Quick Office Linking Feature!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-exquisite-solution-for-vr-adventures/"><u>[New] 2024 Approved Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-picture-in-picture-mode-with-confidence-using-microsoft-edge/"><u>[New] In 2024, Navigating Picture-In-Picture Mode with Confidence Using Microsoft Edge</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-epic-imagery-crafting-inspiring-instagram-posts-top20/"><u>[Updated] Epic Imagery Crafting Inspiring Instagram Posts #Top20</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-gateway-to-greatness-making-your-mark-with-mac-made-vids/"><u>[Updated] Your Gateway to Greatness Making Your Mark with Mac-Made Vids</u></a></li>
+<li><a href="https://win-docs.techidaily.com/5-modi-facili-per-recuperare-immagini-cancellate-su-piu-dispositivi/"><u>5 Modi Facili per Recuperare Immagini Cancellate Su Più Dispositivi</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comment-resoudre-les-erreurs-lors-du-chargement-du-systeme-windows-11-guide-complet-pour-des-installations-en-douceur/"><u>Comment Résoudre Les Erreurs Lors Du Chargement Du Système Windows 11 ? Guide Complet Pour Des Installations en Douceur</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-70-lite-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 70 Lite 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-8-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 8 Plus Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-anatomy-of-hand-tracking-techniques-and-types/"><u>In 2024, Anatomy Of Hand Tracking Techniques and Types</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/locating-your-saved-screenshots-on-windows-and-ios-devices/"><u>Locating Your Saved Screenshots on Windows and iOS Devices</u></a></li>
+<li><a href="https://win-docs.techidaily.com/migrate-your-hard-drive-data-to-an-ssd-on-any-version-of-windows/"><u>Migrate Your Hard Drive Data to an SSD on Any Version of Windows</u></a></li>
+<li><a href="https://win-docs.techidaily.com/navigating-the-void-understanding-page-not-found-errors/"><u>Navigating the Void: Understanding 'Page Not Found' Errors</u></a></li>
+<li><a href="https://win-docs.techidaily.com/schnell-finden-sie-die-antworten-auf-ihre-fragen-zur-maximalen-speichergrosse-einer-3tb-hard-drive/"><u>Schnell Finden Sie Die Antworten Auf Ihre Fragen Zur Maximalen Speichergröße Einer 3TB-Hard Drive</u></a></li>
+<li><a href="https://discover-data.techidaily.com/sync-and-project-huawei-p40-display-onto-your-tv-using-simple-techniques/"><u>Sync and Project Huawei P40 Display Onto Your TV Using Simple Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-age-of-swipes-and-likes-whats-new-with-facebook-dating/"><u>The Age of Swipes and Likes: What's New with Facebook Dating?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-tipps-fur-das-abschirmen-von-qnapsynology-network-attached-storage-nas-auf-ihrem-heimcomputer/"><u>Top Tipps Für Das Abschirmen Von QNAP/Synology-Network Attached Storage (NAS) Auf Ihrem Heimcomputer</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728473597964-windows-11/"><u>Windows 11でパーティションごとに削除する手順</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windowsalienware2/"><u>Windowsパソコン用デルAlienwareの安全なバックアップおよびリカバリ方法：詳細レシピ2つ</u></a></li>
 </ul></div>
 

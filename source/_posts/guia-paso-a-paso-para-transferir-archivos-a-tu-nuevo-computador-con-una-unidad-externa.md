@@ -1,7 +1,7 @@
 ---
 title: Guía Paso a Paso Para Transferir Archivos a Tu Nuevo Computador Con Una Unidad Externa
-date: 2024-10-09T09:19:34.130Z
-updated: 2024-10-14T01:03:43.311Z
+date: 2024-10-18T03:31:43.635Z
+updated: 2024-10-19T17:51:23.473Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c8f28ccacb5f514402daa7b4.png
@@ -66,15 +66,22 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -93,13 +100,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -136,6 +136,19 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -177,13 +190,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -205,10 +211,10 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -224,13 +230,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -270,13 +269,26 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -294,24 +306,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-affordable-advertising-streamlining-channel-sponsorship-partnerships/"><u>[Updated] 2024 Approved Affordable Advertising Streamlining Channel-Sponsorship Partnerships</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-command-center-mastering-your-digital-domain/"><u>[Updated] 2024 Approved Channel Command Center Mastering Your Digital Domain</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-magix-music-maker-2024-review/"><u>[Updated] The Ultimate Guide to Magix Music Maker 2024 Review</u></a></li>
-<li><a href="https://win-docs.techidaily.com/a-currency-peg-is-a-fixed-exchange-rate-system-where-a-countryamoon-sets-its-currency-value-relative-to-another-currency-or-basket-of-currencies/"><u>A Currency Peg Is a Fixed Exchange Rate System Where a Country'amoon Sets Its Currency Value Relative to Another Currency or Basket of Currencies.</u></a></li>
-<li><a href="https://article-tips.techidaily.com/comprehensive-picsart-2024-analysis-and-tutorial/"><u>Comprehensive PicsArt 2024 Analysis & Tutorial</u></a></li>
-<li><a href="https://win-docs.techidaily.com/defending-your-digital-self-a-guide-to-fortifying-your-microsoft-account-from-malicious-actors/"><u>Defending Your Digital Self: A Guide to Fortifying Your Microsoft Account From Malicious Actors</u></a></li>
-<li><a href="https://win-docs.techidaily.com/exploring-microsofts-ai-advancements-essential-surface-product-revelations-this-week-reviewed-by-zdnet/"><u>Exploring Microsoft's AI Advancements: Essential Surface Product Revelations This Week Reviewed by ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/exploring-the-dual-nature-of-microsofts-copilot-a-powerful-ai-companion-with-prominent-commercial-intentions-zdnet-insights/"><u>Exploring the Dual Nature of Microsoft's Copilot: A Powerful AI Companion with Prominent Commercial Intentions | ZDNet Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-ace-2-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Ace 2 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-guide-to-making-youtube-thumbnails-for-mobile-storytellers/"><u>In 2024, The Essential Guide to Making YouTube Thumbnails for Mobile Storytellers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/microsoft-surface-laptop-5-reviewed-familiar-design-innovative-upgrades-spotted-on-zdnet/"><u>Microsoft Surface Laptop 5 Reviewed: Familiar Design, Innovative Upgrades - Spotted on ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/real-time-ai-video-subtitles-in-microsoft-edge-streaming-on-youtube-as-revealed-by-zdnet/"><u>Real-Time AI Video Subtitles in Microsoft Edge Streaming on YouTube, as Revealed by ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/resolving-itunes-backup-failure-issues-innovative-fixes-and-strategies/"><u>Resolving 'iTunes Backup Failure Issues: Innovative Fixes and Strategies</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-5-reliable-adder-programs-for-ios-and-android-devices/"><u>Top 5 Reliable Adder Programs for iOS and Android Devices</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-rated-laptops-and-desktops-an-in-depth-comparison-of-brands-like-apple-and-dell-insights-from-zdnet/"><u>Top Rated Laptops & Desktops : An In-Depth Comparison of Brands Like Apple and Dell - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-unable-to-deliver-sms-top-10-solutions/"><u>Troubleshooting: IPhone Unable to Deliver SMS - Top 10 Solutions</u></a></li>
-<li><a href="https://win-docs.techidaily.com/upcoming-cost-of-windows-11-microsoft-announces-paid-update-model-starting-next-year-insider-info/"><u>Upcoming Cost of Windows 11: Microsoft Announces Paid Update Model Starting Next Year - Insider Info</u></a></li>
-<li><a href="https://win-docs.techidaily.com/upcoming-costly-change-microsoft-introduces-fees-for-windows-1-in-the-new-year-learn-your-estimated-expenses/"><u>Upcoming Costly Change: Microsoft Introduces Fees for Windows 1# in the New Year - Learn Your Estimated Expenses!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-audio-best-practices-for-5-windows-11-applications-for-2024/"><u>[New] Mastering Audio Best Practices for 5 Windows 11 Applications for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-upgrade-your-photo-presence-best-border-selection-tips-for-instagram/"><u>[New] Upgrade Your Photo Presence Best Border Selection Tips for Instagram</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-chorus-chronicles-new-speaker-insights-for-2024/"><u>[Updated] Chorus Chronicles New Speaker Insights for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-como-clonar-um-hdd-para-uma-unidade-de-estado-solido-ssd-atraves-do-usb/"><u>1. Como Clonar Um HDD Para Uma Unidade De Estado Sólido (SSD) Através Do USB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-vlc-screencasting-live-feed-webcam-integration/"><u>2024 Approved VLC Screencasting Live Feed – Webcam Integration</u></a></li>
+<li><a href="https://win-docs.techidaily.com/touch-id-iphones-ios-15/"><u>如何當 Touch ID iPhones 因 iOS 15 版本而無法使用時修復？</u></a></li>
+<li><a href="https://win-docs.techidaily.com/automatische-wiederherstellung-verlorener-texte-auf-ihrem-iphone-ohne-vorheriges-sichern-eine-umfassende-anleitung/"><u>Automatische Wiederherstellung Verlorener Texte Auf Ihrem iPhone Ohne Vorheriges Sichern: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://win-docs.techidaily.com/dellusbwindows-10/"><u>DellリカバリーUSBの作り方:Windows 10で学ぶステップバイステップガイド</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-a-great-convertible-and-inexpensive-asus-chromebook-with-our-detailed-review/"><u>Experience a Great, Convertible & Inexpensive Asus Chromebook with Our Detailed Review!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/fix-your-computers-endless-problem-cycle-troubleshooting-tips-for-windows-operating-systems/"><u>Fix Your Computer’s Endless Problem Cycle – Troubleshooting Tips for Windows Operating Systems</u></a></li>
+<li><a href="https://win-docs.techidaily.com/frei-beilagen-eine-schritt-fur-schritt-anleitung-zum-speichern-von-windows-11-auf-einem-flash-laufwerk/"><u>Frei Beilagen: Eine Schritt-Für-Schritt-Anleitung Zum Speichern Von Windows 11 Auf Einem Flash-Laufwerk</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/liberate-iphone-photos-from-red-eye-effects-at-no-cost/"><u>Liberate iPhone Photos From Red Eye Effects at No Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-geo-restrictions-does-a-vpn-enable-you-to-use-chatgpt-anywhere/"><u>Overcoming Geo-Restrictions: Does a VPN Enable You to Use ChatGPT Anywhere?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unleash-the-potential-elevating-your-tiktok-unboxing-contents-like-count/"><u>Unleash the Potential Elevating Your TikTok Unboxing Content's Like Count</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-top-6-ai-enhancements-in-ios-18-for-iphone-plus-upcoming-innovations-from-apple-zdnet/"><u>Unveiling the Future: Top 6 AI Enhancements in iOS 18 for iPhone, Plus Upcoming Innovations From Apple - ZDNet</u></a></li>
 </ul></div>
 

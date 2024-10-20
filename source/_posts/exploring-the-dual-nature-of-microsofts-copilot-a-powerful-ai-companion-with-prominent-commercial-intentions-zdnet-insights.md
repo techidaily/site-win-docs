@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Dual Nature of Microsoft's Copilot: A Powerful AI Companion with Prominent Commercial Intentions | ZDNet Insights"
-date: 2024-10-08T11:41:24.103Z
-updated: 2024-10-13T23:19:12.758Z
+date: 2024-10-18T18:20:09.523Z
+updated: 2024-10-20T10:49:27.722Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,16 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-fast-fixes-effortless-screenshots-and-captures-with-dell-for-2024/"><u>[New] Fast Fixes Effortless Screenshots & Captures with Dell for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-tecno-phantom-v-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Phantom V Flip Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-vidgrabmaster-mobilepc-app-downloads/"><u>In 2024, VidGrabMaster Mobile/PC App Downloads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-glitches-in-windows-11-effective-solutions/"><u>Overcoming HP Laptop Webcam Glitches in Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://win-docs.techidaily.com/seamless-file-transfer-from-pc-to-phone-mastering-google-quick-share-on-windows-and-android-techguide/"><u>Seamless File Transfer From PC to Phone: Mastering Google Quick Share on Windows & Android | TechGuide</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ultimate-guide-to-the-best-microsoft-surface-devices-of-202n3-expert-comparisons-and-reviews-zdnet/"><u>Ultimate Guide to the Best Microsoft Surface Devices of 202N3 - Expert Comparisons & Reviews | ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/understanding-the-role-of-tpm-in-windows-11s-enhanced-security-features-insights-from-zdnet/"><u>Understanding the Role of TPM in Windows 11'S Enhanced Security Features - Insights From ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/windows-11s-integrated-features-for-easy-screen-recording-demonstrated-by-zdnet-experts/"><u>Windows 11'S Integrated Features for Easy Screen Recording Demonstrated by ZDNet Experts</u></a></li>
-<li><a href="https://win-docs.techidaily.com/zdnet-unveils-game-changing-flash-drive-to-breathe-new-life-into-your-old-iphone/"><u>ZDNet Unveils Game-Changing Flash Drive to Breathe New Life Into Your Old iPhone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/arody-playground-top-10-laugh-out-loud-songs/"><u>[New] Parody Playground Top 10 Laugh-Out-Loud Songs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-class-software-for-creating-video-from-pictures/"><u>[Updated] Master Class Software For Creating Video From Pictures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-sharpening-vision-in-depth-hdr-techniques-in-photoshop/"><u>[Updated] Sharpening Vision In-Depth HDR Techniques in PhotoShop</u></a></li>
+<li><a href="https://win-docs.techidaily.com/author-profile-meet-crystal-a-journey-through-her-words/"><u>Author Profile: Meet Crystal - A Journey Through Her Words</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comment-conserver-vos-emails-gmail-sur-un-disque-dur-externe-une-methode-simple/"><u>Comment Conserver Vos Emails Gmail Sur Un Disque Dur Externe : Une Méthode Simple</u></a></li>
+<li><a href="https://win-docs.techidaily.com/como-resolver-el-error-al-crear-una-copia-de-seguridad-del-disco-tres-estrategias-esenciales/"><u>Cómo Resolver El Error Al Crear Una Copia De Seguridad Del Disco: Tres Estrategias Esenciales</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-solving-forgotten-hdd/"><u>Diagnosing and Solving Forgotten HDD</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-xs-max-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone XS Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-navigating-aspers-methodology-for-sleep-success/"><u>In 2024, Navigating Asper's Methodology for Sleep Success</u></a></li>
+<li><a href="https://win-docs.techidaily.com/reviving-political-engagement-with-gpt-technology/"><u>Reviving Political Engagement with GPT Technology</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reviving-your-lost-data-steps-to-retrieve-files-post-iphone-factory-restore/"><u>Reviving Your Lost Data: Steps to Retrieve Files Post-iPhone Factory Restore</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728493021547-seagate-discwizard/"><u>Seagate DiscWizard克隆問題全部修正完成</u></a></li>
+<li><a href="https://win-docs.techidaily.com/seamless-guide-wireless-transfer-of-data-between-iphones/"><u>Seamless Guide: Wireless Transfer of Data Between iPhones</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-10-free-online-ai-video-enhancement-tools-compatible-with-windows-and-mac/"><u>Top 10 Free Online AI Video Enhancement Tools Compatible with Windows & Mac</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transferring-your-tunes-a-simple-guide-to-moving-voice-memos-from-one-iphone-to-another/"><u>Transferring Your Tunes: A Simple Guide to Moving Voice Memos From One iPhone to Another</u></a></li>
+<li><a href="https://win-docs.techidaily.com/troubleshooting-hulus-error-code-21-on-a-samsung-television-complete-solutions/"><u>Troubleshooting Hulu's Error Code #21 on a Samsung Television - Complete Solutions</u></a></li>
+<li><a href="https://win-docs.techidaily.com/tutoriel-simple-pour-remettre-a-neuf-le-systeme-dexploitation-windows-11-8-ou-7-sur-une-machine-distincte/"><u>Tutoriel Simple Pour Remettre À Neuf Le Système D'Exploitation Windows (11, 8 Ou 7) Sur Une Machine Distincte</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y200e 5G? | Dr.fone</u></a></li>
 </ul></div>
 

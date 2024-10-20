@@ -1,7 +1,7 @@
 ---
 title: "Grab Your Discounted Microsoft Pro Suite: Project & Visio Licenses Only $20! Check Out Today | ZDNet"
-date: 2024-10-07T03:20:45.921Z
-updated: 2024-10-13T16:45:44.849Z
+date: 2024-10-17T11:19:39.512Z
+updated: 2024-10-19T18:39:38.857Z
 tags:
   - microsoft
 categories:
@@ -63,13 +63,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +202,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-perfect-photos-effortless-best-10-screenshot-sticker-enhancers-for-smartphones-for-2024/"><u>[New] Perfect Photos, Effortless Best 10 Screenshot-Sticker Enhancers for Smartphones for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-essentials-of-logging-live-performances-online/"><u>[Updated] 2024 Approved The Essentials of Logging Live Performances Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes-for-2024/"><u>[Updated] Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-is-the-book-cover-included-in-your-flipbook-at-flipbuildercom/"><u>1) 'Is the Book Cover Included in Your Flipbook at FlipBuilder.com?'</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-flipbuildercom-universal-language-support-and-customizable-templates-for-enhanced-readability/"><u>1) FlipBuilder.com: Universal Language Support & Customizable Templates for Enhanced Readability</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tailoring-snaps-the-science-behind-compelling-advertising/"><u>2024 Approved Tailoring Snaps The Science Behind Compelling Advertising</u></a></li>
-<li><a href="https://win-docs.techidaily.com/gratuito-conversor-de-arquivos-online-movavi-compatibilidade-universal-e-facil-uso/"><u>Gratuito Conversor De Arquivos Online - Movavi - Compatibilidade Universal E Fácil Uso</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-iphone-multitasking-how-to-toggle-pip-on-youtube-app/"><u>In 2024, Master iPhone Multitasking How to Toggle PIP on YouTube App</u></a></li>
-<li><a href="https://win-docs.techidaily.com/les-meilleures-applications-libres-pour-montage-video-sur-youtube-le-top-13/"><u>Les Meilleures Applications Libres Pour Montage Vidéo Sur Youtube : Le Top 13</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-path-to-professional-presence-youtube-tips-and-tricks/"><u>The Path to Professional Presence YouTube Tips & Tricks</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-13-best-apps-for-starting-your-own-streaming-channel-a-comprehensive-guide/"><u>Top 13 Best Apps for Starting Your Own Streaming Channel: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-engage-efficiently-leading-insta-filters/"><u>[New] 2024 Approved Engage Efficiently Leading Insta Filters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-blueprint-for-buzz-elevating-interactions-on-instagram/"><u>[New] In 2024, The Blueprint for Buzz Elevating Interactions on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplified-guide-enhancing-skype-experience-via-zoom/"><u>[New] Simplified Guide Enhancing Skype Experience via Zoom</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exclusive-rescue-regaining-fb-passwords/"><u>[Updated] 2024 Approved Exclusive Rescue Regaining FB Passwords</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>2024 Approved Step-by-Step Guide Enhancing YouTube Content with iOS Recording</u></a></li>
+<li><a href="https://win-docs.techidaily.com/aomei-backupper-usmt/"><u>AOMEI Backupper - USMT代替ツールで最高レベルのバックアップマネジメント</u></a></li>
+<li><a href="https://win-docs.techidaily.com/complete-vmware-vcenter-converter-standalone-tutorial-expert-strategies-and-top-alternatives/"><u>Complete VMware vCenter Converter Standalone Tutorial: Expert Strategies & Top Alternatives</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-the-essentials-of-data-integrity-significance-and-implementation-strategies/"><u>Understanding the Essentials of Data Integrity: Significance & Implementation Strategies</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-c110-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia C110 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728471137448-windows-11/"><u>Windows 11で誤起動しているドライブの確認と修正方法</u></a></li>
 </ul></div>
 

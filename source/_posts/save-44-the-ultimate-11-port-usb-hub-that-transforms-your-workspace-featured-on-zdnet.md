@@ -1,7 +1,7 @@
 ---
 title: "Save 44%%: The Ultimate 11-Port USB Hub That Transforms Your Workspace - Featured on ZDNet"
-date: 2024-10-11T17:46:02.105Z
-updated: 2024-10-13T17:24:32.631Z
+date: 2024-10-17T04:16:28.506Z
+updated: 2024-10-19T20:32:10.077Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -56,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -68,18 +68,18 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -98,18 +98,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,22 +156,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-digital-footprints-on-instagram-effective-photo-watermarking/"><u>[New] 2024 Approved Digital Footprints on Instagram Effective Photo Watermarking</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-securing-smooth-timelines-to-avoid-frame-drops-in-obs/"><u>[New] 2024 Approved Securing Smooth Timelines to Avoid Frame Drops in OBS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-guide-for-instagram-video-uploads-from-pcmac/"><u>[New] 2024 Approved The Essential Guide for Instagram Video Uploads From PC/Mac</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-download-premium-facebook-hd-content-anywhere-for-2024/"><u>[New] Download Premium Facebook HD Content Anywhere for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[Updated] 2024 Approved From Hundreds to Millions A YouTube Growth Journey</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-download-and-convert-aac-to-wav-format-instantly-no-cost-with-movavi-converter/"><u>1. Download and Convert AAC to WAV Format Instantly - No Cost with Movavi Converter</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-a05s-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy A05s Phone When You Forget the Password</u></a></li>
-<li><a href="https://win-docs.techidaily.com/a-currency-peg-is-a-fixed-exchange-rate-system-where-a-countryamoon-sets-its-currency-value-relative-to-another-currency-or-basket-of-currencies/"><u>A Currency Peg Is a Fixed Exchange Rate System Where a Country'amoon Sets Its Currency Value Relative to Another Currency or Basket of Currencies.</u></a></li>
-<li><a href="https://win-docs.techidaily.com/defending-your-digital-self-a-guide-to-fortifying-your-microsoft-account-from-malicious-actors/"><u>Defending Your Digital Self: A Guide to Fortifying Your Microsoft Account From Malicious Actors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/enhancing-engagement-how-to-use-background-footage-for-2024/"><u>Enhancing Engagement How to Use Background Footage for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/exploring-microsofts-ai-advancements-essential-surface-product-revelations-this-week-reviewed-by-zdnet/"><u>Exploring Microsoft's AI Advancements: Essential Surface Product Revelations This Week Reviewed by ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-installupdate-intel-iris-plus-graphics-amoled-655-driver-on-windows-10-or-11/"><u>How to Install/Update Intel Iris Plus Graphics Amoled 655 Driver on Windows 10 or 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/microsoft-surface-laptop-5-reviewed-familiar-design-innovative-upgrades-spotted-on-zdnet/"><u>Microsoft Surface Laptop 5 Reviewed: Familiar Design, Innovative Upgrades - Spotted on ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/real-time-ai-video-subtitles-in-microsoft-edge-streaming-on-youtube-as-revealed-by-zdnet/"><u>Real-Time AI Video Subtitles in Microsoft Edge Streaming on YouTube, as Revealed by ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-rated-laptops-and-desktops-an-in-depth-comparison-of-brands-like-apple-and-dell-insights-from-zdnet/"><u>Top Rated Laptops & Desktops : An In-Depth Comparison of Brands Like Apple and Dell - Insights From ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/upcoming-cost-of-windows-11-microsoft-announces-paid-update-model-starting-next-year-insider-info/"><u>Upcoming Cost of Windows 11: Microsoft Announces Paid Update Model Starting Next Year - Insider Info</u></a></li>
-<li><a href="https://win-docs.techidaily.com/upcoming-costly-change-microsoft-introduces-fees-for-windows-1-in-the-new-year-learn-your-estimated-expenses/"><u>Upcoming Costly Change: Microsoft Introduces Fees for Windows 1# in the New Year - Learn Your Estimated Expenses!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack-for-2024/"><u>[New] Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-techniques-for-harvesting-hd-facebook-videos/"><u>[Updated] 2024 Approved Techniques for Harvesting HD Facebook Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-every-frame-a-deep-dive-into-polaroids-xs-action-camera/"><u>[Updated] Exploring Every Frame A Deep Dive Into Polaroid's XS Action Camera</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-erstellt-ihr-laptop-backup-auf-einem-dell-computer-mit-windows-11-schritt-fur-schritt-anleitung/"><u>1. Erstellt Ihr Laptop-Backup Auf Einem Dell Computer Mit Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728489320955-windows-11/"><u>進行成功的 Windows 11 安裝: 常見問題及解決之道</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/aspire-with-angles-crafting-compelling-visuals-through-instagram-rotation/"><u>Aspire with Angles Crafting Compelling Visuals Through Instagram Rotation</u></a></li>
+<li><a href="https://win-docs.techidaily.com/cifrado-rapido-para-archivos-de-imagenes-y-copias-de-respaldo-en-almacenamiento-digital/"><u>Cifrado Rápido Para Archivos De Imágenes Y Copias De Respaldo en Almacenamiento Digital</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comment-sauver-un-fichier-excel-perdu-sur-windows-11-en-moins-de-temps/"><u>Comment Sauver Un Fichier Excel Perdu Sur Windows 11 en Moins De Temps</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effective-solutions-when-your-c-drive-is-at-capacity-in-windows-11/"><u>Effective Solutions When Your C Drive Is at Capacity in Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-not-sending-your-security-code-how-to-fix-it/"><u>Facebook Not Sending Your Security Code? How to Fix It</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-zoomers-guide-to-instagram-story-clarity/"><u>In 2024, The Zoomer’s Guide to Instagram Story Clarity</u></a></li>
+<li><a href="https://win-premium.techidaily.com/les-meilleurs-logiciels-de-duplication-pour-macos-solutions-ideales-pour-les-fichiers-et-disques/"><u>Les Meilleurs Logiciels De Duplication Pour macOS: Solutions Idéales Pour Les Fichiers Et Disques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-acceleration-station-top-gif-speed-editors-online-and-on-the-go/"><u>New Acceleration Station Top GIF Speed Editors Online and On-The-Go</u></a></li>
+<li><a href="https://win-docs.techidaily.com/successfully-restored-troubleshooting-and-repairing-windows-11s-stagnant-start-menu-and-dysfunctional-taskbar/"><u>Successfully Restored: Troubleshooting and Repairing Windows 11'S Stagnant Start Menu and Dysfunctional Taskbar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-8-camera-showdown-excellence-in-broadcasting/"><u>Ultimate 8 Camera Showdown Excellence in Broadcasting</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-1011nvme-ssd/"><u>Windows 10/11システムをNVMe SSDに高速移行する方法</u></a></li>
 </ul></div>
 

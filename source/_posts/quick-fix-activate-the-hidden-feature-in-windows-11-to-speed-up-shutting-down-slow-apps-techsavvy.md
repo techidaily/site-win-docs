@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Activate the Hidden Feature in Windows 11 to Speed Up Shutting Down Slow Apps | TechSavvy"
-date: 2024-10-07T20:45:59.731Z
-updated: 2024-10-14T10:41:02.604Z
+date: 2024-10-18T04:12:27.800Z
+updated: 2024-10-19T16:39:16.302Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -39,13 +46,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -55,18 +55,24 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -74,18 +80,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -98,18 +104,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,18 +162,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-how-to-add-custom-thumbnails-to-your-youtube-videos/"><u>[Updated] In 2024, How To Add Custom Thumbnails to Your YouTube Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-top-american-vpn-services-offering-free-trials-enhance-online-security/"><u>5 Top American VPN Services Offering FREE Trials – Enhance Online Security</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-causes-and-solutions-for-persistent-crashes-in-the-king-of-fighters-xv-game-on-computer-systems/"><u>Common Causes and Solutions for Persistent Crashes in The King of Fighters XV Game on Computer Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-resolve-windows-code-31-issues/"><u>Essential Steps to Resolve Windows Code 31 Issues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-se-2022-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone SE (2022) Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-automatic-update-configurations-with-this-comprehensive-action-how-to/"><u>Mastering Automatic Update Configurations with This Comprehensive Action! How-To</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-instructions-on-accessing-and-saving-movies-through-sony-crackle-service/"><u>Step-by-Step Instructions on Accessing and Saving Movies Through Sony Crackle Service</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-tutorial-how-to-save-and-convert-air-mozilla-media-into-mp4-mov-avi-files-or-audio-as-mp3/"><u>Step-by-Step Tutorial: How to Save and Convert Air Mozilla Media Into MP4, MOV, AVI Files or Audio as MP3</u></a></li>
-<li><a href="https://win-docs.techidaily.com/streamease-video-grabber-securely-save-your-favorites-from-odootv-as-mp4-mov-mkv-avi/"><u>StreamEase Video Grabber: Securely Save Your Favorites From Odoo.tv as MP4, MOV, MKV, AVI</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/streamlining-your-gameplay-the-players-guide-to-using-teleportation-in-minecraft/"><u>Streamlining Your Gameplay: The Player's Guide to Using Teleportation in Minecraft</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-strategies-for-converting-vimeo-video-content-into-high-quality-mp3-files/"><u>Top Strategies for Converting Vimeo Video Content Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/uncomplicated-steps-for-archiving-gotomeeting-dialogues/"><u>Uncomplicated Steps for Archiving GoToMeeting Dialogues</u></a></li>
-<li><a href="https://win-docs.techidaily.com/wimp-downloader-effortless-video-retrieval-from-wimp-platforms-for-pc-and-mac-users/"><u>Wimp Downloader: Effortless Video Retrieval From Wimp Platforms for PC & MAC Users</u></a></li>
+<li><a href="https://discover-data.techidaily.com/perdiste-su-carpeta-de-windows-10-o-11-conectese-para-recuperarla-rapidamente/"><u>¿Perdiste Su Carpeta De Windows 10 O 11? Conéctese Para Recuperarla Rápidamente</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-expansive-movement-assessment-2023/"><u>[New] 2024 Approved Expansive Movement Assessment 2023</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-digital-detox-ignoring-negativity-on-youtube/"><u>[New] Digital Detox Ignoring Negativity on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebooks-approach-for-automatic-youtube-video-playback/"><u>2024 Approved Facebook's Approach for Automatic YouTube Video Playback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>2024 Approved The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728474260805-ssd-ssd/"><u>如何利用免费 SSD 图形编辑器制作高效能 SSD 视频 - 详细指南</u></a></li>
+<li><a href="https://win-docs.techidaily.com/datensicherungstechniken-mithilfe-von-sql-server-management-studio-erfahren-sie-mehr/"><u>Datensicherungstechniken Mithilfe Von SQL Server Management Studio – Erfahren Sie Mehr!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/die-besten-methoden-effiziente-datentransfer-von-windows-7-zu-windows-11/"><u>Die Besten Methoden: Effiziente Datentransfer Von Windows 7 Zu Windows 11</u></a></li>
+<li><a href="https://win-docs.techidaily.com/discovering-covert-surveillance-a-step-by-step-guide-to-detecting-undercover-spyware-on-your-android-device/"><u>Discovering Covert Surveillance: A Step-by-Step Guide to Detecting Undercover Spyware on Your Android Device</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effiziente-backupplattformen-vollstandige-ipad-sicherungen-mit-und-ohne-itunes-drei-losungswege/"><u>Effiziente Backupplattformen: Vollständige iPad Sicherungen Mit Und Ohne iTunes – Drei Lösungswege</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-p55-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel P55 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/legalities-in-sharing-instagram-melodies-for-2024/"><u>Legalities in Sharing Instagram Melodies for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/remedy-for-audio-pause-in-obs-streams/"><u>Remedy for Audio Pause in OBS Streams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/straightforward-steps-upside-down-video-rotation-using-vlc-for-2024/"><u>Straightforward Steps Upside-Down Video Rotation Using VLC for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transfert-dimages-facile-pour-differents-supports-de-sauvegarde-et-stockage/"><u>Transfert D'images Facile Pour Différents Supports De Sauvegarde Et Stockage</u></a></li>
+<li><a href="https://win-docs.techidaily.com/troubleshooting-windows-11-how-to-fix-backup-0-bytes-issue/"><u>Troubleshooting Windows 11 - How To Fix 'Backup 0 Bytes' Issue</u></a></li>
 </ul></div>
 

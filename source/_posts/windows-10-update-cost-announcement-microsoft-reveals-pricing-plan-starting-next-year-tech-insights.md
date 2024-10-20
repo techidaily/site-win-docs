@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Update Cost Announcement: Microsoft Reveals Pricing Plan Starting Next Year | Tech Insights"
-date: 2024-10-09T19:24:38.545Z
-updated: 2024-10-13T20:17:24.859Z
+date: 2024-10-16T07:36:42.890Z
+updated: 2024-10-20T01:32:55.812Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -152,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-7-crucial-tiktok-utilities-for-enhanced-viral-progress/"><u>[New] In 2024, 7 Crucial TikTok Utilities for Enhanced Viral Progress</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-professional-techniques-for-sims-4-live-action/"><u>[New] In 2024, Professional Techniques for Sims 4 Live-Action</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-face-motion-blur-magic-a-step-by-step-picsart-approach/"><u>[Updated] 2024 Approved Face Motion Blur Magic A Step-by-Step Picsart Approach</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-flexible-cam-balancer-toolkit/"><u>[Updated] Flexible Cam Balancer Toolkit</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-success-with-these-15-youtube-introduction-plans/"><u>[Updated] In 2024, Crafting Success with These 15 YouTube Introduction Plans</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-your-ideal-display-ultrawide-vs-uhd-4k-edition/"><u>2024 Approved Finding Your Ideal Display UltraWide vs UHD 4K Edition</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ai-powered-real-time-translation-in-microsoft-edge-revolutionizing-how-we-consume-youtube-content-tech-news/"><u>AI-Powered Real-Time Translation in Microsoft Edge: Revolutionizing How We Consume YouTube Content | Tech News</u></a></li>
-<li><a href="https://win-docs.techidaily.com/discover-the-ultimate-2023-gaming-desk-selection-according-to-zdnet-experts/"><u>Discover the Ultimate 2023 Gaming Desk Selection According to ZDNet Experts</u></a></li>
-<li><a href="https://win-docs.techidaily.com/envisioning-the-future-of-microsoft-surface-balancing-consumer-dreams-with-realistic-prospects-as-explored-by-zdnet/"><u>Envisioning the Future of Microsoft Surface: Balancing Consumer Dreams with Realistic Prospects, as Explored by ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/facing-the-clock-microsofts-critical-challenge-with-windows-10-just-12-months-away-insights-from-zdnet/"><u>Facing the Clock: Microsoft's Critical Challenge with Windows 10 Just 12 Months Away - Insights From ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/get-your-hands-on-discounted-microsoft-office-2019-for-pcmac-at-only-25-purchase-guide-techspot/"><u>Get Your Hands on Discounted Microsoft Office 2019 for PC/Mac at Only $25 - Purchase Guide | TechSpot</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-fcp-audio-editing-for-beginners-get-started-today-for-2024/"><u>New FCP Audio Editing for Beginners Get Started Today for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-corsair-void-mic-expert-tips-and-solutions/"><u>Revive Your Corsair Void Mic: Expert Tips and Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-spheres-meld-facebook-and-instagrams-bond-deepens/"><u>Social Spheres Meld: Facebook & Instagram's Bond Deepens</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-lameencdll-issues-in-audacity-for-effortless-mp3-encoding/"><u>Solving lame_enc.dll Issues in Audacity for Effortless MP3 Encoding</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-rated-tablet-computers-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top Rated Tablet Computers : Comprehensive Reviews by Industry Experts | ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-rated-acoustic-drapes-of-2024-your-ultimate-guide-techradar/"><u>Top-Rated Acoustic Drapes of 2024 - Your Ultimate Guide | TechRadar</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unlock-exceptional-development-expertise-cost-effective-strategies-from-microsoft-revealed-by-zdnet/"><u>Unlock Exceptional Development Expertise: Cost-Effective Strategies From Microsoft Revealed by ZDNet</u></a></li>
-<li><a href="https://win-docs.techidaily.com/way-day-sale-alert-snag-a-quality-standing-desk-from-zdnet-save-big-today-for-only-329/"><u>Way Day Sale Alert! Snag a Quality Standing Desk From ZDNet - Save Big Today for Only $329!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-quickly-uncover-lately-watched-facebook-videos/"><u>[New] 2024 Approved Quickly Uncover Lately Watched Facebook Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-step-into-retro-gaming-with-top-5-ps1-emulators-for-pc/"><u>[New] 2024 Approved Step Into Retro Gaming with Top 5 PS1 Emulators for PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-highlights-proven-techniques-for-business-engagement-for-2024/"><u>[New] Leveraging Highlights Proven Techniques for Business Engagement for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-users-handbook-for-zd-softs-screen-recorder-for-2024/"><u>[New] Ultimate User’s Handbook for ZD Soft's Screen Recorder for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-auditcast-inspection/"><u>[Updated] 2024 Approved AuditCast Inspection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-techniques-extracting-youtube-audio/"><u>[Updated] In 2024, Techniques Extracting YouTube Audio</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unlocking-creativity-top-20-vlogger-themes/"><u>[Updated] In 2024, Unlocking Creativity Top 20 Vlogger Themes</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-erfolgreiches-recovery-wiederherstellung-von-dashcam-filmen-dargestellt-mit-myrecover/"><u>1. Erfolgreiches Recovery: Wiederherstellung Von Dashcam-Filmen Dargestellt - Mit MyRecover</u></a></li>
+<li><a href="https://win-docs.techidaily.com/backup-your-pc-with-windows-create-sysprep-points-on-windows-10-a-dual-approach-guide/"><u>Backup Your PC with Windows # Create SysPrep Points on Windows 10: A Dual-Approach Guide</u></a></li>
+<li><a href="https://win-docs.techidaily.com/die-effizientesten-methoden-zum-kostenlosen-iphone-musik-upload-ohne-itunes/"><u>Die Effizientesten Methoden Zum Kostenlosen iPhone Musik-Upload Ohne iTunes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-6s-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 6s Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ideviceiphone/"><u>IDevice搞修：如何修好iPhone更新不能完成的故障</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-no-cost-replacements-for-mdt-streamline-your-tech-environment/"><u>Leading No-Cost Replacements for MDT: Streamline Your Tech Environment</u></a></li>
+<li><a href="https://win-docs.techidaily.com/les-meilleurs-utilitaires-de-sauvegarde-gratuits-pour-windows-10-une-selection-bienvenue/"><u>Les Meilleurs Utilitaires De Sauvegarde Gratuits Pour Windows 10 : Une Sélection Bienvenue</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-elevate-your-video-game-best-mac-video-editing-apps/"><u>New 2024 Approved Elevate Your Video Game Best Mac Video Editing Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-gaming-experience-by-merging-various-fortnite-accounts-together/"><u>Streamline Your Gaming Experience by Merging Various Fortnite Accounts Together</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-5-elcheftware-voor-bestelbestandtransfer-gratis-herunterladen-fur-pcs/"><u>Top 5 Elcheftware Voor Bestelbestandtransfer - Gratis Herunterladen Für PCs</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-5-malwarefox-adblockers-compatible-with-microsoft-edge-enhancing-your-web-security/"><u>Top 5 MalwareFox AdBlockers Compatible with Microsoft Edge: Enhancing Your Web Security</u></a></li>
+<li><a href="https://win-docs.techidaily.com/troubleshooting-guide-creating-a-restore-point-in-windows-1011-easily-with-these-four-proven-techniques/"><u>Troubleshooting Guide: Creating a Restore Point in Windows 10/11 Easily with These Four Proven Techniques</u></a></li>
 </ul></div>
 

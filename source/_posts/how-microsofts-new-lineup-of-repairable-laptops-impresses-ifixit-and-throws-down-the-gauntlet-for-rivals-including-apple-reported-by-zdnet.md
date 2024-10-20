@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New Lineup of Repairable Laptops Impresses iFixit and Throws Down the Gauntlet for Rivals, Including Apple | Reported by ZDNET
-date: 2024-10-07T02:49:34.015Z
-updated: 2024-10-14T06:43:38.100Z
+date: 2024-10-19T08:19:50.573Z
+updated: 2024-10-20T08:31:52.165Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-leverage-creative-studio-for-maximum-youtube-reach-and-engagement/"><u>[New] 2024 Approved Leverage Creative Studio for Maximum YouTube Reach and Engagement</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-masterclass-choosing-the-top-fps-games/"><u>[New] 2024 Approved Masterclass Choosing the Top FPS Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-step-up-your-gameplay-our-list-of-top-12-pc-clicker-games/"><u>[New] 2024 Approved Step Up Your Gameplay Our List of Top 12 PC Clicker Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-content-with-custom-fonts-in-adobe-ae/"><u>[Updated] Crafting Content with Custom Fonts in Adobe AE</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-cutting-edge-home-entertainment-elite-3d-blu-ray-gear/"><u>2024 Approved Cutting-Edge Home Entertainment Elite 3D Blu-Ray Gear</u></a></li>
-<li><a href="https://win-docs.techidaily.com/button-making-made-easy-personalize-create-and-download-prints-from-flipbuilder/"><u>Button Making Made Easy: Personalize, Create, and Download Prints From FlipBuilder</u></a></li>
-<li><a href="https://common-error.techidaily.com/contribution-margin-cm-750000/"><u>Contribution Margin (CM) = $750,000</u></a></li>
-<li><a href="https://win-docs.techidaily.com/customize-your-content-create-a-german-translation-on-flipbuildercom/"><u>Customize Your Content: Create a German Translation on FlipBuilder.com</u></a></li>
-<li><a href="https://win-docs.techidaily.com/easy-convert-and-enhance-transform-your-documents-from-ms-office-to-interactive-paperback-books-experience-with-flipoffice-pro-flipbuildercom/"><u>Easy Convert & Enhance: Transform Your Documents From MS Office to Interactive Paperback Books [Experience With FlipOffice Pro - FlipBuilder.com]</u></a></li>
-<li><a href="https://win-docs.techidaily.com/enhance-your-ebook-experience-with-flip-reader-specially-tailored-for-fbr-and-zip-files-built-using-flipbuilder-tools/"><u>Enhance Your eBook Experience with Flip Reader - Specially Tailored for .fbr and .zip Files | Built Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-docs.techidaily.com/expand-your-reading-experience-with-larger-flipbooks-on-flipbuildercom/"><u>Expand Your Reading Experience with Larger Flipbooks on FlipBuilder.com!</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-build-a-digital-flipbook-using-command-line-techniques-on-flipbuildercom/"><u>How to Build a Digital Flipbook Using Command Line Techniques on FlipBuilder.com</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-from-social-to-storage-iphone-and-android-gif-savings/"><u>In 2024, From Social to Storage IPhone & Android GIF Savings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/tailoring-your-streamlabs-obs-experience-for-2024/"><u>Tailoring Your Streamlabs OBS Experience for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/"><u>[New] In 2024, Mastering the Art of Virtual Board Usage in Web Conferences Android, Apple & PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-imagination-unleashed-building-engaging-animated-videos-in-windows-movie-maker/"><u>[Updated] 2024 Approved Imagination Unleashed Building Engaging Animated Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-instant-transcription-absolutely-complimentary/"><u>[Updated] 2024 Approved Instant Transcription, Absolutely Complimentary</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-hasten-artistic-touch-ups-on-windows-10-photos/"><u>2024 Approved Hasten Artistic Touch-Ups on Windows 10 Photos</u></a></li>
+<li><a href="https://win-docs.techidaily.com/6-methoden-zum-transferieren-ihrer-dateien-vom-iphone-auf-einen-computer-mit-und-ohne-verbindungsleitung/"><u>6 Methoden Zum Transferieren Ihrer Dateien Vom iPhone Auf Einen Computer - Mit Und Ohne Verbindungsleitung</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-cooling-lesson-learned-graphics-failure/"><u>A Cooling Lesson Learned: Graphics Failure</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-for-effective-voice-to-text-in-google-docs/"><u>Essential Tips for Effective Voice-to-Text in Google Docs</u></a></li>
+<li><a href="https://win-docs.techidaily.com/how-to-locate-the-drawing-recovery-manager-feature-within-autocad/"><u>How to Locate the Drawing Recovery Manager Feature Within Autocad?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/lelecteurdhistoriquedefichiers-reconnectez-et-gerez-vos-donnees-plus-facilement/"><u>LelecteurD'historiqueDeFichiers: Reconnectez Et Gérez Vos Données Plus Facilement!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-ai-assistance-from-chatgpt-for-customized-car-upgrades/"><u>Leverage AI Assistance From ChatGPT for Customized Car Upgrades</u></a></li>
+<li><a href="https://win-docs.techidaily.com/recuperacao-efetiva-de-informacoes-vitalicias-em-seu-iphone-solucao-detalhada-apos-um-redefinicao-total/"><u>Recuperação Efetiva De Informações Vitalícias Em Seu iPhone - Solução Detalhada Após Um Redefinição Total</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solutions-for-when-your-blue-yeti-mic-wont-work-expert-tips-and-tricks/"><u>Solutions For When Your Blue Yeti Mic Won’t Work: Expert Tips And Tricks</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-tutorial-crafting-a-quick-fix-disaster-prevention-tool-for-windows-users/"><u>Step-by-Step Tutorial: Crafting a Quick Fix Disaster Prevention Tool for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-vpn-services-of-2024-reviewed-by-professionals-zdnets-ultimate-guide/"><u>Top Free VPN Services of 2024 Reviewed by Professionals - ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wiederherstellung-nicht-gespeicherter-excel-daten-im-windows-11-entdecken-sie-vier-effektive-methoden/"><u>Wiederherstellung Nicht Gespeicherter Excel-Daten Im Windows 11 - Entdecken Sie Vier Effektive Methoden!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728485339553-windows-server-2012r2/"><u>Windows Server 2012(R2)の完全なリスタートガイド</u></a></li>
 </ul></div>
 
