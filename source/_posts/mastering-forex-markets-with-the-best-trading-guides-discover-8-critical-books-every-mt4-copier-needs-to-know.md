@@ -1,7 +1,7 @@
 ---
 title: Mastering Forex Markets with the Best Trading Guides - Discover 8 Critical Books Every MT4 Copier Needs to Know!
-date: 2024-10-16T21:12:39.883Z
-updated: 2024-10-19T19:17:53.970Z
+date: 2024-10-21T05:13:33.966Z
+updated: 2024-10-26T05:39:16.865Z
 tags:
   - forex
   - trades
@@ -71,16 +71,16 @@ Before delving into the list of recommended books, let’s first understand why 
 
 Forex trading books provide you with valuable insights, strategies, and techniques that can help you become a better trader. They cover a wide range of topics, from the fundamentals of forex trading to advanced strategies used by professionals.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Learning from the Experts
 
 The authors of these books are often seasoned forex traders or financial experts with years of experience. By reading their works, you gain access to the wisdom and experiences of these experts, allowing you to avoid common pitfalls and make informed decisions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Expanding Your Trading Toolbox
 
@@ -98,22 +98,16 @@ Knowledge is power in forex trading. The more you know, the more confident you b
 
 Many successful forex traders have shared their journeys and success stories in books. These stories can serve as a source of inspiration and motivation, reminding you that success in forex trading is achievable with dedication and discipline.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Top 8 Forex Trading Books
 
 Now that you understand the importance of reading forex trading books let’s explore some of the best titles available:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. “[Currency Trading for Dummies](https://www.amazon.com/Currency-Trading-Dummies-Kathleen-Brooks/dp/1118989805)” by Brian Dolan
 
@@ -125,6 +119,13 @@ This book is an excellent starting point for beginners in the world of forex tra
 * Provides practical tips and strategies for risk management.
 * Offers a solid foundation for those new to forex trading.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. “[Japanese Candlestick Charting Techniques](https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Second/dp/0735201811)” by Steve Nison
 
 Steve Nison’s book is a classic in the world of [technical analysis](https://tools.techidaily.com/mt4copier/products/). It focuses on candlestick chart patterns, a crucial aspect of reading price movements in forex and other financial markets. Nison explains how to identify and interpret various [candlestick patterns](https://tools.techidaily.com/mt4copier/products/) for effective trading decisions.
@@ -135,13 +136,6 @@ Steve Nison’s book is a classic in the world of [technical analysis](https://t
 * Practical guidance on using candlestick patterns in your trading strategy.
 * An essential resource for traders interested in technical analysis.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. “[Market Wizards](https://www.amazon.com/Market-Wizards-Updated-Interviews-Traders/dp/1118273052)” by Jack D. Schwager
 
 “Market Wizards” is a collection of interviews with some of the most successful traders in the financial world. Jack D. Schwager explores their trading philosophies, strategies, and experiences. This book offers a glimpse into the minds of these trading legends, providing valuable lessons in [trading psychology](https://www.investopedia.com/terms/t/trading-psychology.asp).
@@ -151,13 +145,6 @@ Steve Nison’s book is a classic in the world of [technical analysis](https://t
 * Real-life stories and trading experiences from successful traders.
 * Insights into various trading styles and strategies.
 * Emphasizes the importance of discipline and mindset in trading.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. “[The Little Book of Currency Trading](https://www.amazon.com/Little-Book-Currency-Trading-Profits/dp/047077035X)” by Kathy Lien
 
@@ -179,6 +166,13 @@ While not exclusively about forex trading, Nassim Nicholas Taleb’s “The Blac
 * Encourages traders to develop strategies to mitigate the impact of black swan events.
 * Offers a unique perspective on market dynamics.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. “[Reminiscences of a Stock Operator](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884)” by Edwin Lefèvre
 
 This classic book is not specific to forex trading but is a timeless resource for traders. It presents the fictionalized biography of Jesse Livermore, one of the most famous stock traders in history. Through Livermore’s experiences, readers gain insights into trading psychology, market sentiment, and speculation.
@@ -188,13 +182,6 @@ This classic book is not specific to forex trading but is a timeless resource fo
 * Provides valuable lessons in trading mindset and strategy.
 * Offers historical context and anecdotes from the world of trading.
 * Emphasizes the importance of discipline and adaptability.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. “[Day Trading and Swing Trading the Currency Market](https://www.amazon.com/Day-Trading-Swing-Currency-Market/dp/0470377364)” by Kathy Lien
 
@@ -206,6 +193,13 @@ Kathy Lien’s book is tailored for traders interested in short-term trading str
 * Strategies for identifying entry and exit points in intraday and swing trading.
 * Focuses on managing risk in fast-paced trading environments.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. “[The New Trading for a Living](https://www.amazon.com/New-Trading-Living-Psychology-Discipline/dp/1118443926)” by Dr. Alexander Elder
 
 Dr. Alexander Elder’s book is a comprehensive guide that covers various aspects of trading. It delves into trading psychology, [risk management](https://tools.techidaily.com/mt4copier/products/), technical analysis, and more. This book is suitable for traders looking to improve their overall trading skills and develop a holistic trading approach.
@@ -216,13 +210,6 @@ Dr. Alexander Elder’s book is a comprehensive guide that covers various aspect
 * Emphasizes the importance of trader psychology and discipline.
 * Provides insights into technical analysis and risk control.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In the competitive world of forex trading, continuous learning is the key to success. Reading forex trading books offers a wealth of knowledge, insights, and strategies that can give you a significant edge in the market. Whether you’re just starting or have been trading for years, there’s always something new to learn.
@@ -232,10 +219,10 @@ As you embark on your journey to master the art of forex trading, remember that 
 ## FAQ’s
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Are these books suitable for beginners?
@@ -251,21 +238,22 @@ Ans. No, you can choose the books that align with your trading style and goals. 
 Ans. Yes, most of these books are available in digital formats, making them easily accessible on e-readers and tablets.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Can these books replace formal forex trading education?
 
 Ans. While these books offer valuable insights, formal education and practice are also essential for forex trading success.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Where can I purchase these books?
 
@@ -293,24 +281,24 @@ Ans. You can find these books on popular online book retailers, local bookstores
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-charting-new-territories-innovations-in-office-spaces-for-enhanced-output/"><u>[New] Charting New Territories Innovations in Office Spaces for Enhanced Output</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stepwise-guide-for-broadcasting-google-meet-on-youtube/"><u>[New] Stepwise Guide for Broadcasting Google Meet on YouTube</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-resolving-net-framework-40-error-code-0x800c0006-on-windows/"><u>1. Resolving .NET Framework 4.0 Error Code 0X800C0006 on Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-moons-a-guide-to-proper-night-photography-techniques/"><u>2024 Approved Capturing Moons A Guide to Proper Night Photography Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/e-avenue-a-million-paths-in-play-for-2024/"><u>Arcade Avenue A Million Paths in Play for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/chart-topping-photos-origins-explored/"><u>Chart-Topping Photos Origins Explored</u></a></li>
-<li><a href="https://win-docs.techidaily.com/comment-recouvrer-votre-contenu-sur-une-cle-usb-designee-comme-introuvable/"><u>Comment Recouvrer Votre Contenu Sur Une Clé USB Désignée Comme Introuvable</u></a></li>
-<li><a href="https://win-docs.techidaily.com/easy-steps-for-viewing-personal-files-on-a-windows-1011-hard-drive/"><u>Easy Steps for Viewing Personal Files on a Windows 10/11 Hard Drive</u></a></li>
-<li><a href="https://win-docs.techidaily.com/fehlerfrei-dateiubertragungen-gewahrleisten-losungen-fur-das-abrufen-in-windows-10/"><u>Fehlerfrei Dateiübertragungen Gewährleisten: Lösungen Für Das Abrufen in Windows 10</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guida-rapida-creazione-multipla-di-backup-windows-1011-con-metodi-semplici/"><u>Guida Rapida: Creazione Multipla Di Backup Windows 10/11 Con Metodi Semplici</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-expert-filigree-alterations/"><u>In 2024, Expert Filigree Alterations</u></a></li>
-<li><a href="https://win-docs.techidaily.com/krasser-vs-samsung-ssd-die-optimale-wahl-fur-ihre-speicheranforderungen/"><u>Krasser Vs. Samsung SSD - Die Optimale Wahl Für Ihre Speicheranforderungen</u></a></li>
-<li><a href="https://win-docs.techidaily.com/locating-your-saved-screenshots-on-windows-and-ios-devices/"><u>Locating Your Saved Screenshots on Windows and iOS Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/networking-tips-for-windows-11-how-to-manage-your-devices-discovery-settings/"><u>Networking Tips for Windows 11: How to Manage Your Device's Discovery Settings</u></a></li>
-<li><a href="https://win-docs.techidaily.com/strategies-pour-gerer-les-limites-de-capacite-ssd-lors-du-transfert-dun-os/"><u>Stratégies Pour Gérer Les Limites De Capacité SSD Lors Du Transfert D'un OS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-netgear-orbi-rbs50y-transforming-backyard-wi-fi-experience/"><u>The Ultimate Review: Netgear Orbi RBS50Y - Transforming Backyard Wi-Fi Experience</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-4-solutions-to-persistent-windows-update-files-in-windows-11/"><u>Top 4 Solutions to Persistent Windows Update Files in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-pop-7-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Pop 7 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapp-pushes-back-may-deadline-for-policy-changes/"><u>WhatsApp Pushes Back May Deadline for Policy Changes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools-for-2024/"><u>[New] Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlocking-fast-track-on-friend-finding-in-facebook-land/"><u>[Updated] 2024 Approved Unlocking Fast Track on Friend-Finding in Facebook Land</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-warriors-of-cyberspace-top-ten-female-youtubers/"><u>[Updated] Warriors of Cyberspace Top Ten Female YouTubers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigate-the-social-sphere-10-techniques-for-triumphant-fb-growth/"><u>2024 Approved Navigate the Social Sphere 10 Techniques for Triumphant FB Growth</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-to-smiles-and-laughter-your-snapchat-gif-tutorial/"><u>2024 Approved Step-by-Step to Smiles and Laughter Your Snapchat Gif Tutorial</u></a></li>
+<li><a href="https://win-docs.techidaily.com/beginners-guide-to-the-top-3-free-backup-solutions-on-windows-11/"><u>Beginner's Guide to the Top 3 Free Backup Solutions on Windows 11</u></a></li>
+<li><a href="https://win-docs.techidaily.com/best-seo-companies-in-amsterdam-comprehensive-ranking-guide-and-expert-service-comparisons/"><u>Best SEO Companies in Amsterdam: Comprehensive Ranking Guide & Expert Service Comparisons</u></a></li>
+<li><a href="https://win-docs.techidaily.com/email-marketing-mastery-for-todays-digital-landscape-exploring-core-concepts-and-techniques-using-massmail-suite-introduction-to-series-1/"><u>Email Marketing Mastery for Today's Digital Landscape: Exploring Core Concepts and Techniques Using MassMail Suite - Introduction to Series #1</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/engaging-viewers-with-unique-square-videography-techniques/"><u>Engaging Viewers with Unique Square Videography Techniques</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ensuring-success-in-bulk-email-outreach-warm-up-tips-from-the-experts-at-mmsws-massmail-blog-insights/"><u>Ensuring Success in Bulk Email Outreach: Warm Up Tips From the Experts at MMSW's Massmail | Blog Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860520330-in-2024-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>In 2024, Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10).</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-a14-4g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy A14 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/losungen-und-tipps-wie-schaltet-man-den-energiesparmodus-auf-dem-iphone-aus/"><u>Lösungen Und Tipps: Wie Schaltet Man Den Energiesparmodus Auf Dem iPhone Aus?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mt4-forex-duplicator-tutorials-for-newbies-unlocking-profitable-trade-copies/"><u>MT4 Forex Duplicator Tutorials for Newbies: Unlocking Profitable Trade Copies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-cinema-experience-get-and-use-popcorn-time-on-your-mac-for-hassle-free-film-viewing/"><u>Seamless Cinema Experience: Get and Use Popcorn Time on Your Mac for Hassle-Free Film Viewing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-strategies-for-accessing-nfl-games-online/"><u>Top 10 Strategies for Accessing NFL Games Online</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ultimate-guide-to-social-media-blogging-strategies-from-beginning-to-expertise-with-massmail-solutions/"><u>Ultimate Guide to Social Media Blogging Strategies - From Beginning to Expertise with MassMail Solutions</u></a></li>
+<li><a href="https://win-docs.techidaily.com/magiya-seo-pervye-resursy-v-ispanii-s-powersuite-plyusom-luchshie-optimizatory-dlya-vashej-biznes-platformy/"><u>Магия SEO: Первые Ресурсы В Испании С PowerSuite Плюсом - Лучшие Оптимизаторы Для Вашей Бизнес-Платформы</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effektivnye-sposoby-uvelicheniya-veb-vidimosti-s-pomoshyu-seo-specialistov-majami/"><u>Эффективные Способы Увеличения Веб-Видимости С Помощью SEO Специалистов Майами</u></a></li>
 </ul></div>
 
