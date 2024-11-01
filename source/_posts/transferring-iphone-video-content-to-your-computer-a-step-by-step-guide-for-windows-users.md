@@ -1,7 +1,7 @@
 ---
 title: "Transferring iPhone Video Content to Your Computer: A Step-by-Step Guide for Windows Users"
-date: 2024-10-20T04:42:52.801Z
-updated: 2024-10-26T05:25:00.574Z
+date: 2024-10-26T18:24:38.032Z
+updated: 2024-10-31T20:47:44.401Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd1c8126cb50df85aef146e19.jpg
@@ -46,10 +46,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -73,10 +73,10 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -99,13 +99,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -114,16 +107,16 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -132,6 +125,26 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -148,6 +161,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -173,13 +193,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -189,13 +202,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,20 +218,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-breathtaking-tiled-photographic-artistry/"><u>2024 Approved Crafting Breathtaking Tiled Photographic Artistry</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-android-photography-alterations/"><u>2024 Approved Premium Android Photography Alterations</u></a></li>
-<li><a href="https://win-docs.techidaily.com/advanced-techniques-in-building-premium-email-audiences-masterclass-series-by-massmail-software/"><u>Advanced Techniques in Building Premium Email Audiences: Masterclass Series by MassMail Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-joy-of-melodic-brain-teasers-a-fresh-take-on-daily-song-quizzes/"><u>Discover the Joy of Melodic Brain Teasers - A Fresh Take on Daily Song Quizzes!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-discreet-ai-chatting-with-duckduckgo-connect-securely-using-gpt-and-advanced-tools/"><u>Explore Discreet AI Chatting with DuckDuckGo - Connect Securely Using GPT and Advanced Tools!</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-pour-la-restauration-efficace-des-dossiers-windowsold-effaces-sur-votre-pc/"><u>Guide Pour La Restauration Efficace Des Dossiers 'Windows.old' Effacés Sur Votre PC.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-dell-xps-15-experience-a-comprehensive-guide-to-installing-the-latest-windows-drivers/"><u>Improve Your Dell XPS 15 Experience: A Comprehensive Guide to Installing the Latest Windows Drivers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-a56s-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo A56s 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leading-the-charge-in-modern-presentation-recordings/"><u>In 2024, Leading the Charge in Modern Presentation Recordings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-maximizing-profits-on-youtube-the-latest-policy/"><u>In 2024, Maximizing Profits on YouTube The Latest Policy</u></a></li>
-<li><a href="https://win-docs.techidaily.com/is-mac-pop-up-software-harmful-learn-how-to-safely-remove-them-and-protect-your-system-with-advice-from-malwarefox/"><u>Is Mac Pop-Up Software Harmful? Learn How to Safely Remove Them and Protect Your System with Advice From MalwareFox</u></a></li>
-<li><a href="https://win-docs.techidaily.com/laptop-ssd-austausch-und-bsd-neuinstallierung-eine-schritt-fur-schritt-anleitung/"><u>Laptop SSD Austausch Und BSD Neuinstallierung: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-docs.techidaily.com/massmail-pro-comprehensive-internet-and-email-analytics-report-yearly-digest-2012/"><u>MassMail Pro: Comprehensive Internet & Email Analytics Report - Yearly Digest 2012</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-guide-to-retrieving-accidentally-deleted-data-without-using-windows-11s-recycle-bin/"><u>Step-by-Step Guide to Retrieving Accidentally Deleted Data Without Using Windows 11'S Recycle Bin</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728507388641-windows-pc/"><u>Windows PC檔案重建法：尋回失去的文件指南</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again-for-2024/"><u>[New] [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fb-video-experience-the-top-10-listed-tools/"><u>[New] 2024 Approved FB Video Experience The Top 10 Listed Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-critical-analysis-of-luminances-role-in-hdr-development/"><u>[Updated] 2024 Approved A Critical Analysis of Luminance's Role in HDR Development</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-from-minuscule-to-monumental-a-tiktok-guide-for-oversized-characters/"><u>2024 Approved From Minuscule to Monumental A TikTok Guide for Oversized Characters</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/expert-tips-for-crafting-compelling-emails-master-the-art-with-massmail-tool/"><u>Expert Tips for Crafting Compelling Emails: Master the Art with MassMail Tool</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/restauracion-del-estado-anterior-en-windows-11-con-facilidad-tecnicas-y-pasos-resumidos/"><u>Restauración Del Estado Anterior en Windows 11 Con Facilidad: Técnicas Y Pasos Resumidos</u></a></li>
+<li><a href="https://win-docs.techidaily.com/safe-cloning-of-hard-drive-onto-ssd-in-windows-10-best-practices/"><u>Safe Cloning of Hard Drive Onto SSD in Windows 10 - Best Practices</u></a></li>
+<li><a href="https://win-docs.techidaily.com/the-essential-role-of-sitemaps-in-seo-success-discover-how/"><u>The Essential Role of Sitemaps in SEO Success - Discover How!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998543954-the-mystery-of-missing-l-a-noire-for-pc-its-here-and-ready-to-play/"><u>The Mystery of Missing L. A. Noire for PC? It's Here and Ready to Play!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ultimate-guide-how-to-take-control-of-your-icloud-storage-and-settings/"><u>Ultimate Guide: How to Take Control of Your iCloud Storage and Settings</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-bingbot-role-and-impact-on-seo-strategies-powerseo-insights/"><u>Understanding Bingbot: Role & Impact on SEO Strategies | PowerSEO Insights</u></a></li>
 </ul></div>
 

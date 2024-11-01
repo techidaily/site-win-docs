@@ -1,7 +1,7 @@
 ---
 title: Windows 11 修復 USB 設備的建立指南 - 觀看兩種不同的方法
-date: 2024-10-18T18:28:53.008Z
-updated: 2024-10-26T03:47:25.831Z
+date: 2024-10-27T21:44:51.907Z
+updated: 2024-10-31T17:45:00.064Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf2936a8b4a71d20d4455d103fb.jpg
@@ -42,32 +42,26 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About winload.efi file
@@ -85,6 +79,13 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **3\. Partition Modifications**: Incorrectly modifying disk partitions or using third-party tools to update antivirus software can corrupt the system's boot process, causing the winload.efi error.  
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Fix winload.efi missing
 
@@ -118,13 +119,6 @@ After creating bootable media (just a few minutes), boot your computer from this
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2\. Disable Secure Boot
 
 To address the winload.efi error linked to Safe/Secure Boot, follow these steps to disable Secure Boot in the UEFI configuration:
@@ -142,6 +136,13 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -162,13 +163,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -192,13 +186,20 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Exercise caution to avoid potential system errors when using this command.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
@@ -251,13 +252,6 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 ## Conclusion
@@ -275,13 +269,6 @@ Was the provided information useful? Your vote is important to us!
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -304,10 +291,16 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
@@ -317,6 +310,19 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -335,22 +341,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-list-of-6-instagram-reel-enhancers/"><u>[New] 2024 Approved The Ultimate List of 6 Instagram Reel Enhancers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-revenue-realms-of-youtube-from-virtual-viewership-to-banknotes/"><u>[Updated] In 2024, Revenue Realms of YouTube From Virtual Viewership to Banknotes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-income-journey-on-youtube-start-here-with-8-tips/"><u>[Updated] Income Journey on YouTube - Start Here with 8 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-obs-editing-software-how-to-remove-watermarks-from-your-recordings/"><u>Best OBS Editing Software - How to Remove Watermarks From Your Recordings</u></a></li>
-<li><a href="https://win-docs.techidaily.com/elevate-your-career-with-these-six-proven-methods-guided-by-massmail/"><u>Elevate Your Career with These Six Proven Methods (Guided by Massmail)</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-optimize-for-indexability-comprehensive-guide-and-essential-seo-techniques-from-the-experts-at-seo-powersuite/"><u>How to Optimize for Indexability: Comprehensive Guide & Essential SEO Techniques From the Experts at SEO PowerSuite</u></a></li>
-<li><a href="https://win-docs.techidaily.com/humorous-marketing-tales-and-witty-promotional-anecdotes-with-massmail-tools/"><u>Humorous Marketing Tales & Witty Promotional Anecdotes with MassMail Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-12-hacks-to-find-and-download-the-best-free-stock-photography/"><u>In 2024, 12 Hacks to Find and Download the Best Free Stock Photography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-protect-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>In 2024, Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-the-meta-search-realm-key-definitions-and-advanced-seo-techniques-for-optimized-visibility/"><u>Mastering the Meta Search Realm: Key Definitions and Advanced SEO Techniques for Optimized Visibility</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-troubleshooting-your-ultimate-resource-on-stop-codes-and-bsods/"><u>Mastering Troubleshooting: Your Ultimate Resource on Stop Codes and BSODs</u></a></li>
-<li><a href="https://win-docs.techidaily.com/secure-hard-drive-formatting-techniques-on-windows-11-a-comprehensive-guide/"><u>Secure Hard Drive Formatting Techniques on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-mac-capture-techniques-overview-char-limit-156/"><u>Top Mac Capture Techniques Overview (Char Limit 156)</u></a></li>
-<li><a href="https://win-docs.techidaily.com/windows-schijfproblem-bepaalde-hartigheid-fractueerd-oplossingsadvies-hieronder/"><u>Windows-Schijfproblem: Bepaalde Hartigheid Fractueerd, Oplossingsadvies Hieronder</u></a></li>
-<li><a href="https://win-docs.techidaily.com/osnovnye-specialisty-po-optimizacii-dlya-poiskovyh-sistem-iz-manamy-bahrejn-prevoshodstvo-cherez-servisy-seo-powersuite/"><u>Основные Специалисты По Оптимизации Для Поисковых Систем Из Манамы, Бахрейн: Превосходство Через Сервисы SEO PowerSuite</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-5-agentstv-po-optimizacii-dlya-google-v-dubae-obuedinennye-arabskie-emiraty-povyste-onlajn-vidimost-s-pomoshyu-seo-powersuite/"><u>Топ-5 Агентств По Оптимизации Для Google В Дубае, Объединенные Арабские Эмираты - Повысьте Онлайн Видимость С Помощью SEO PowerSuite</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-groundbreaking-advice-points-from-successful-marketers-online/"><u>5 Groundbreaking Advice Points From Successful Marketers Online</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728500170133-windows-7-ssd/"><u>簡單方法保全数据：无损Windows 7 SSD复制技巧</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/belly-laughs-list-ultimate-guide-to-free-memes/"><u>Belly Laughs List Ultimate Guide to Free Memes</u></a></li>
+<li><a href="https://win-docs.techidaily.com/elevate-your-campaigns-effective-email-marketing-tactics-for-timely-engagement-using-massmail-tools-2011-edition/"><u>Elevate Your Campaigns: Effective Email Marketing Tactics for Timely Engagement Using MassMail Tools (2011 Edition)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-strategy-for-professional-gopro-filming/"><u>In 2024, The Ultimate Strategy for Professional Gopro Filming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphonepc/"><u>IPhoneからPCへ写真インポート失敗:原因と解決策</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-insights/"><u>Navigating the World of Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-docs.techidaily.com/streamline-communication-and-elevate-client-satisfaction-using-massmail-technology/"><u>Streamline Communication and Elevate Client Satisfaction Using MassMail Technology.</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-solutions-de-restauration-des-ssd-pour-ameliorer-les-performances-et-la-duree-de-vie/"><u>Top Solutions De Restauration Des SSD Pour Améliorer Les Performances Et La Durée De Vie</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-indexability-key-definitions-and-seo-strategies-with-powersuite-insights/"><u>Understanding Indexability: Key Definitions and SEO Strategies with PowerSuite Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unfollower-detection-on-instagram/"><u>Unfollower Detection on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unrivaled-script-authority-place-for-2024/"><u>Unrivaled Script Authority Place for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728498188983-windows-11/"><u>Windows 11易學：使用两种不同方法创建系统还原点</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726227811368-f4v-movavi/"><u>오픈소스 속도를 위해 F4V 모티보드 무료 전환 - MovaVi</u></a></li>
 </ul></div>
 

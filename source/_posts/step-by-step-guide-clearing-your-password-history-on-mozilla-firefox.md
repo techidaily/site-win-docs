@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox"
-date: 2024-10-22T02:22:42.533Z
-updated: 2024-10-26T01:14:02.267Z
+date: 2024-10-25T16:11:44.709Z
+updated: 2024-10-31T17:06:00.384Z
 tags:
   - product
   - antivirus
@@ -56,6 +56,13 @@ That’s it you have now cleared all passwords from the Firefox.
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2 – Delete Saved Passwords in Firefox using Windows Explorer
 
 In this method, you can remove the passwords directly from the Windows explorer. Though, it won’t let you delete single passwords. It will remove all the passwords at once. When you save your password in Firefox, it stores them on your hard drive somewhere. It is usually stored in the Profile folder with the name of logins.jason or signons.sqlite. If you delete this file, all your saved passwords will be gone.
@@ -69,53 +76,46 @@ Now click on **Troubleshooting Information**.
 ![Delete Saved Password Firefox 2-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you will see the details that are essential in case of troubleshooting. On this page, you will find the location of **Profile Folder**. Click on **Open Folder** to open it directly.
 
 ![Delete Saved Password Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now locate the **logins.jason** file and **Delete** it.
 
 ![Delete Saved Password Firefox 2-4](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 That’s it, all the saved password from Firefox is gone.
 
 [How to Block Trackers in FireFox](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1 thought on “How to Delete Saved Passwords in Firefox”
 
 1. ![](https://secure.gravatar.com/avatar/1da8faddc392b0ffd65948fa3cc7324e?s=50&d=mm&r=g)  
 multumescmult  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [January 5, 2021 at 7:50 pm](https://tools.techidaily.com/malwarefox/products/)  
 thank you very much.. method 2 was what ı was looking for..  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -142,15 +142,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate-for-2024/"><u>[New] In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-laptops-your-go-to-machine-for-expert-video-editing/"><u>[New] Ultimate Laptops Your Go-To Machine for Expert Video Editing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-critical-analysis-the-innovations-in-dji-phantom-3-professional/"><u>[Updated] Critical Analysis The Innovations in DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/effortless-image-bending-in-adobe/"><u>Effortless Image Bending in Adobe</u></a></li>
-<li><a href="https://win-docs.techidaily.com/essential-stats-and-figures-mastering-your-email-marketing-strategy-with-massmail/"><u>Essential Stats & Figures: Mastering Your Email Marketing Strategy with MassMail</u></a></li>
-<li><a href="https://win-docs.techidaily.com/evolving-with-pandemic-times-transformations-in-email-marketing-since-covid-19-analysis-by-massmail-software/"><u>Evolving with Pandemic Times: Transformations in Email Marketing Since Covid-19 | Analysis by Massmail Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/leading-replacements-to-semrush-in-seo-discover-the-most-effective-digital-marketing-tools-and-unlock-your-potential-with-seo-powersuite/"><u>Leading Replacements to SEMrush in SEO: Discover the Most Effective Digital Marketing Tools and Unlock Your Potential with SEO PowerSuite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-overcoming-persistent-crash-issues-with-effective-fixes/"><u>Team Fortress 2 Stability: Overcoming Persistent Crash Issues with Effective Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-perplexing-case-of-unexpected-video-aspects-in-instagram-for-2024/"><u>The Perplexing Case of Unexpected Video Aspects in Instagram for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-10-seo-agentstv-kuvejta-2024-goda-uluchshite-svoj-onlajn-profil-s-pomoshyu-professionalnyh-seo-uslug/"><u>Топ-10 SEO-Агентств Кувейта 2024 Года: Улучшите Свой Онлайн-Профиль С Помощью Профессиональных SEO-Услуг</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-explorations-reward-6-innovative-minecraft-residences-for-2024/"><u>[New] Exploration's Reward 6 Innovative Minecraft Residences for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-food-filmmakers-blueprint-techniques-and-tricks-for-2024/"><u>[New] The Food Filmmaker’s Blueprint Techniques and Tricks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-mac-system-all-in-one-screen-and-sound-capture-tool-for-2024/"><u>[New] Ultimate Mac System All-in-One Screen & Sound Capture Tool for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/npacking-youtubes-financial-framework-shifts/"><u>[New] Unpacking YouTube’s Financial Framework Shifts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728489315396-windows-11/"><u>【実用的レシピ】Windows 11のリサイクルビンからデータを安全に再生する方法</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effective-strategies-and-pitfalls-in-mobile-advertising-mastering-campaigns-with-massmail/"><u>Effective Strategies & Pitfalls in Mobile Advertising: Mastering Campaigns with MassMail</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-p20-pro-review/"><u>Huawei P20 Pro Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speedy-shot-techniques-to-boost-home-filmmaking/"><u>In 2024, Speedy Shot Techniques to Boost Home Filmmaking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unmatched-technique-to-fuse-gopro-clips-into-immersive-360-movies/"><u>In 2024, Unmatched Technique to Fuse GoPro Clips Into Immersive 360 Movies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-facebook-searches-unveil-key-strategies-to-find-anyone-fast/"><u>Mastering Facebook Searches: Unveil Key Strategies to Find Anyone Fast</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mastering-the-art-of-online-selling-through-pop-ups-the-ultimate-massmail-technique/"><u>Mastering the Art of Online Selling Through Pop-Ups: The Ultimate MassMail Technique</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mastering-the-art-of-seo-understanding-search-intent-and-effective-techniques-via-seo-powersuite-expertise/"><u>Mastering the Art of SEO: Understanding Search Intent and Effective Techniques via SEO PowerSuite Expertise</u></a></li>
+<li><a href="https://win-docs.techidaily.com/seamless-automated-client-communication-with-atomic-autoresponders-leveraging-massmails-innovative-solutions/"><u>Seamless Automated Client Communication with Atomic Autoresponders: Leveraging MassMail's Innovative Solutions</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-5-data-driven-techniques-to-boost-marketing-automation-with-massmail/"><u>Top 5 Data-Driven Techniques to Boost Marketing Automation with MassMail</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ultimate-guide-to-optimizing-your-online-presence-best-windowspc-seo-tools-and-apps-tailored-for-successful-search-engine-rankings/"><u>Ultimate Guide to Optimizing Your Online Presence: Best Windows/PC SEO Tools & Apps Tailored for Successful Search Engine Rankings</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ischerpyvayushij-spisok-luchshih-specialistov-po-seo-iz-liverpulya-velikobritaniya-rukovodstvo-dlya-2024-goda/"><u>Исчерпывающий Список Лучших Специалистов По SEO Из Ливерпуля, Великобритания: Руководство Для 2024 Года</u></a></li>
 </ul></div>
 

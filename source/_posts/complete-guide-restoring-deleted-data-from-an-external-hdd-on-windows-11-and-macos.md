@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Restoring Deleted Data From an External HDD on Windows 11 and macOS"
-date: 2024-10-23T18:12:33.808Z
-updated: 2024-10-25T22:37:03.723Z
+date: 2024-10-24T23:32:12.673Z
+updated: 2024-11-01T00:29:03.069Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44e5497cff1919865c9f50ec3.jpg
@@ -61,6 +61,13 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -82,10 +89,10 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -93,10 +100,10 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
@@ -120,17 +127,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -153,6 +153,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -173,13 +180,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -189,10 +189,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -212,22 +212,15 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-delving-into-the-world-of-mukbang-videos/"><u>[New] 2024 Approved Delving Into the World of Mukbang Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-vidma-screen-recorder-review/"><u>[New] In 2024, Vidma Screen Recorder Review</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-dissecting-shake-control-does-it-truly-enhance-editing-results/"><u>[Updated] 2024 Approved Dissecting Shake Control Does It Truly Enhance Editing Results?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-on-screen-capture-aid-for-2024/"><u>[Updated] On-Screen Capture Aid for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/"><u>How to Use Create a GPT to Create a Customized Version of ChatGPT</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-the-psychology-of-profit-essential-strategies-for-successful-mt4-swing-trading/"><u>Mastering the Psychology of Profit: Essential Strategies for Successful MT4 Swing Trading</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-your-unique-fashion-voice/"><u>Mastering Your Unique Fashion Voice</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-startup-hiccups-for-pathfinder-wrath-of-the-righteous-a-comprehensive-guide/"><u>Overcoming Startup Hiccups for Pathfinder: Wrath of the Righteous - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-docs.techidaily.com/protecting-your-business-from-data-breaches-expert-tips-on-preventing-information-leaks-with-massmail/"><u>Protecting Your Business From Data Breaches: Expert Tips on Preventing Information Leaks with MassMail</u></a></li>
-<li><a href="https://win-docs.techidaily.com/quick-guide-duplicating-your-progress-in-black-myth-wukong-two-simple-save-backup-strategies/"><u>Quick Guide: Duplicating Your Progress in Black Myth: Wukong - Two Simple Save-Backup Strategies</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-a-stolen-iphone-essential-steps-and-tips/"><u>Recovering a Stolen iPhone: Essential Steps & Tips</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-strategies-for-free-access-to-recover-my-files-v521-comprehensive-software-cracking-tutorials/"><u>Step-by-Step Strategies for Free Access to Recover My Files v5.2.1 Comprehensive Software Cracking Tutorials</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/strategie-efficaci-per-la-generazione-delle-immagini-di-sistema-su-windows-server/"><u>Strategie Efficaci per La Generazione Delle Immagini Di Sistema Su Windows Server</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-rated-seo-agencies-in-san-francisco-usa-your-comprehensive-guide-with-seo-powersuite/"><u>Top Rated SEO Agencies in San Francisco (USA) : Your Comprehensive Guide with SEO PowerSuite</u></a></li>
-<li><a href="https://win-docs.techidaily.com/trova-rapidamente-tutte-le-fotografie-sul-tuo-pc-con-windows-10-una-guida-completa/"><u>Trova Rapidamente Tutte Le Fotografie Sul Tuo PC Con Windows 10: Una Guida Completa</u></a></li>
-<li><a href="https://win-docs.techidaily.com/understanding-the-impact-of-job-market-statistics-on-forex-exchange-rates-with-metatrader-4-copier/"><u>Understanding the Impact of Job Market Statistics on Forex Exchange Rates with MetaTrader 4 Copier</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unveiling-the-secret-of-meta-descriptions-for-superior-search-engine-optimization-techniques/"><u>Unveiling the Secret of Meta Descriptions for Superior Search Engine Optimization Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-techniques-for-enhancing-your-instagram-videos/"><u>[Updated] In 2024, Essential Techniques for Enhancing Your Instagram Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategic-game-plays-with-top-casters-for-2024/"><u>[Updated] Strategic Game Plays with Top Casters for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effective-strategies-and-techniques-for-automating-sms-campaigns-real-world-examples-with-massmail/"><u>Effective Strategies & Techniques for Automating SMS Campaigns: Real-World Examples with MassMail</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-canoscan-lide-220-software-and-driver-installation-guide/"><u>Latest CanoScan LiDE 220 Software and Driver Installation Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-mpeg2-files-smaller-a-step-by-step-guide-with-virtualdub/"><u>New Make MPEG2 Files Smaller A Step-by-Step Guide with VirtualDub</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/solved-identifying-and-restoring-access-to-elusive-system-reserved-disk-space-on-windows-systems/"><u>Solved: Identifying and Restoring Access to Elusive 'System Reserved' Disk Space on Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-meta-quest-price-predictions-expected-arrival-date-and-insider-info-on-tech-specs/"><u>The Future of Meta Quest: Price Predictions, Expected Arrival Date, and Insider Info on Tech Specs</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-3-artificial-intelligence-based-tools-for-flawless-data-restoration-the-complete-handbook/"><u>Top 3 Artificial Intelligence-Based Tools for Flawless Data Restoration: The Complete Handbook</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unveiling-the-role-of-dns-in-search-engine-optimization-insights-and-uses/"><u>Unveiling the Role of DNS in Search Engine Optimization: Insights & Uses</u></a></li>
 </ul></div>
 
