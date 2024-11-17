@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Sales Through Thankfulness: The Impact of Polite Gestures on Profit Growth Using MassMail Tech"
-date: 2024-11-01T19:02:41.686Z
-updated: 2024-11-06T18:25:25.860Z
+date: 2024-11-09T21:58:51.728Z
+updated: 2024-11-16T19:46:24.962Z
 tags:
   - product
 categories:
@@ -22,6 +22,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,13 +38,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -70,10 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -89,16 +89,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -113,37 +107,37 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -173,16 +167,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-discovering-the-hidden-truth-behind-youtubes-viewer-numbers/"><u>[New] 2024 Approved Discovering the Hidden Truth Behind YouTube's Viewer Numbers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-ad-videos-made-easy-utilize-free-video-making-kit-for-2024/"><u>[Updated] FB Ad Videos Made Easy Utilize Free Video-Making Kit for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>[Updated] In 2024, Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-overview-of-various-cameras-used-in-film-and-tv/"><u>[Updated] Overview of Various Cameras Used in Film & TV</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-digital-diaries-blending-visuals-with-audio-threads/"><u>2024 Approved Digital Diaries Blending Visuals with Audio Threads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-methods-for-dividing-your-audiobook-into-chapters-a-comprehensive-guide/"><u>Best Methods for Dividing Your Audiobook Into Chapters - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-docs.techidaily.com/best-seo-companies-in-san-jose-california-usa-2024-rankings-with-seo-powersuite/"><u>Best SEO Companies in San Jose, California (USA) - 2024 Rankings with SEO PowerSuite</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/download-made-easy-master-the-art-of-using-ifunny-memes/"><u>Download Made Easy Master the Art of Using iFunny Memes</u></a></li>
-<li><a href="https://win-docs.techidaily.com/massmailer-software-a-comprehensive-analysis-of-email-campaigns-predictions-and-stats-from-2cuatries-to-quinceaneras-2010-2014/"><u>MassMailer Software: A Comprehensive Analysis of Email Campaigns, Predictions & Stats From 2Cuatries to Quinceañeras (2010-2014)</u></a></li>
-<li><a href="https://win-docs.techidaily.com/maximizing-your-sites-ranking-mastery-of-domain-authority-and-effective-seo-techniques-explained/"><u>Maximizing Your Site's Ranking: Mastery of Domain Authority and Effective SEO Techniques Explained</u></a></li>
-<li><a href="https://win-docs.techidaily.com/secure-your-virtual-environments-mastering-vm-backups-with-the-power-of-aomei-software/"><u>Secure Your Virtual Environments: Mastering VM Backups with the Power of AOMEI Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-top-tweet-talent-social-medias-10-gems/"><u>[Updated] 2024 Approved Top Tweet Talent Social Media’s 10 Gems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-mac-screen-recorders-a-comprehensive-guide/"><u>Best Mac Screen Recorders A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-honor-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Honor Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-15-essential-gaming-capture-programs/"><u>In 2024, 15 Essential Gaming Capture Programs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>In 2024, From Video to Music YouTube to MP3 on MacOS</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-seo-firms-in-stockholm-the-top-picks-of-2024-featuring-seo-powersuite/"><u>Leading SEO Firms in Stockholm: The Top Picks of 2024 Featuring SEO PowerSuite</u></a></li>
+<li><a href="https://win-docs.techidaily.com/protecting-windows-11-data-made-easy-with-top-freeware-apps-for-complete-file-and-os-backups/"><u>Protecting Windows 11 Data Made Easy with Top Freeware Apps for Complete File and OS Backups</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-art-into-nfts-top-7-tools-explored-for-2024/"><u>Revolutionizing Art Into NFTs - Top 7 Tools Explored for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-exclusive-game-deals-during-octobers-prime-day-save-up-to-1000-before-time-runs-out-get-insights-today/"><u>Snag Exclusive Game Deals During October's Prime Day: Save Up To $1,000 Before Time Runs Out | Get Insights Today!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/solved-identifying-and-restoring-access-to-elusive-system-reserved-disk-space-on-windows-systems/"><u>Solved: Identifying and Restoring Access to Elusive 'System Reserved' Disk Space on Windows Systems</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-5-essential-tactics-to-fortify-your-gmail-security-against-cyber-attacks/"><u>Top 5 Essential Tactics to Fortify Your Gmail Security Against Cyber Attacks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/virtual-realms-for-practicality-for-2024/"><u>Virtual Realms for Practicality for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-microsoft-should-prioritize-refinement-in-its-xbox-point-system/"><u>Why Microsoft Should Prioritize Refinement in Its Xbox Point System</u></a></li>
 </ul></div>
 
