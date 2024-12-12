@@ -1,7 +1,7 @@
 ---
 title: The Truth Behind Current Credit Scoring Practices Explained by MassMail Tech
-date: 2024-11-29T18:35:01.458Z
-updated: 2024-12-06T07:16:07.787Z
+date: 2024-12-07T22:15:39.827Z
+updated: 2024-12-12T04:42:13.757Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -54,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -66,20 +70,20 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -94,10 +98,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -106,16 +106,12 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-mastering-minute-by-minute-srt-conversion-to-text-txt-for-2024/"><u>[New] Mastering Minute-by-Minute SRT Conversion to Text (TXT) for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/2012s-return-to-lead-generating-fundamentals-unveiling-the-best-15-techniques-with-massmail-software/"><u>2012'S Return to Lead-Generating Fundamentals - Unveiling the Best 15 Techniques with Massmail Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/iphone6/"><u>解決iPhone無法連結電腦共享儲存問題：6個有效方法</u></a></li>
-<li><a href="https://win-docs.techidaily.com/como-borrar-archivos-no-necesarios-para-mejorar-el-almacenamiento-en-windows-11/"><u>Cómo Borrar Archivos No Necesarios Para Mejorar El Almacenamiento en Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-12-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Without Passcode Now</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-best-practices-for-capturing-streamed-television/"><u>In 2024, Best Practices for Capturing Streamed Television</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-g24-power-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola G24 Power Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/latest-updates-on-movavi-video-converter-enhanced-features-and-performance/"><u>Latest Updates on Movavi Video Converter: Enhanced Features & Performance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-must-have-apps-for-real-time-video-translation/"><u>New 2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-iphone-contact-application-3-proven-methods-to-get-it-working-again/"><u>Reviving iPhone Contact Application: 3 Proven Methods to Get It Working Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/snapchat-troubleshooting-solving-no-input-from-camera-device/"><u>Snapchat Troubleshooting - Solving No Input From Camera Device</u></a></li>
-<li><a href="https://win-docs.techidaily.com/solving-the-issue-of-missing-local-music-files-in-spotify-app-on-ios-devices/"><u>Solving the Issue of Missing Local Music Files in Spotify App on iOS Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ultimate-window-to-world-class-video-playback/"><u>Ultimate Window to World-Class Video Playback</u></a></li>
-<li><a href="https://win-docs.techidaily.com/wie-sie-ihre-iphone-daten-nahtlos-auf-ein-anderes-gerat-ubertragen-konnen-ohne-zugriff-auf-icloud/"><u>Wie Sie Ihre iPhone Daten Nahtlos Auf Ein Anderes Gerät Übertragen Können - Ohne Zugriff Auf iCloud</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-file-management-the-top-six-tips-for-your-windows-11-mov-files/"><u>[New] In 2024, Streamlining File Management - The Top Six Tips for Your Windows 11 MOV Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-summit-masterpiece-lab-check/"><u>[New] Summit Masterpiece Lab Check</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-precision-video-correction-eradicating-fish-eye-from-gopro-for-2024/"><u>[Updated] Precision Video Correction Eradicating Fish Eye From GoPro for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/anticipated-release-upcoming-additions-to-arm-powered-linux-notebooks/"><u>Anticipated Release: Upcoming Additions to ARM-Powered Linux Notebooks</u></a></li>
+<li><a href="https://win-docs.techidaily.com/bestimmt-das-perfekte-cloning-programm-freie-alternativen-fur-windows-7810-nutzer/"><u>Bestimmt Das Perfekte Cloning-Programm: Freie Alternativen Für Windows 7/8/10 Nutzer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-make-your-time-lagged-footage-shine-with-easy-android-tricks/"><u>In 2024, Make Your Time-Lagged Footage Shine with Easy Android Tricks</u></a></li>
+<li><a href="https://win-docs.techidaily.com/klonen-von-bootfahigem-usb-flashdrive-unter-windows-7-8-und-10-schritt-fur-schritt/"><u>Klonen Von Bootfähigem USB-Flashdrive Unter Windows 7, 8 Und 10 - Schritt Für Schritt</u></a></li>
+<li><a href="https://win-docs.techidaily.com/navigating-the-not-found-issue-understanding-and-fixing-404-pages/"><u>Navigating the 'Not Found' Issue: Understanding and Fixing 404 Pages</u></a></li>
+<li><a href="https://win-docs.techidaily.com/nullen-auf-ihre-seagate-festplatte-schreiben-hier-sind-zwei-unkomplizierte-wege-dazu/"><u>Nullen Auf Ihre Seagate-Festplatte Schreiben? Hier Sind Zwei Unkomplizierte Wege Dazu.</u></a></li>
+<li><a href="https://win-docs.techidaily.com/quick-fixes-for-itunes-error-code-3194-top-strategies-for-windows-users/"><u>Quick Fixes for iTunes Error Code 3194: Top Strategies for Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionary-devices-for-deep-dreamy-nights-your-guide-to-better-zzzs/"><u>Revolutionary Devices for Deep, Dreamy Nights: Your Guide to Better Zzz's</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-benefits-for-mastering-languages-post-fifty/"><u>Top Benefits for Mastering Languages Post-Fifty</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-1087-ssd/"><u>Windows 10/8/7 SSD上使用安全启动将驱动器复制至本机 - 磁碟克隆</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/winning-with-windows-videos-tips-for-enhancing-vimeo-feeds-for-2024/"><u>Winning with Windows Videos Tips for Enhancing Vimeo Feeds for 2024</u></a></li>
 </ul></div>
 

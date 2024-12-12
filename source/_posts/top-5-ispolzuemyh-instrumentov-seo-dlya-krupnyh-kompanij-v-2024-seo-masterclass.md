@@ -1,7 +1,7 @@
 ---
 title: Топ-5 Используемых Инструментов Сео Для Крупных Компаний В 2024 - SEO MasterClass
-date: 2024-12-02T23:52:04.240Z
-updated: 2024-12-05T22:13:46.862Z
+date: 2024-12-11T02:15:56.425Z
+updated: 2024-12-12T04:59:57.222Z
 tags:
   - articles
 categories:
@@ -196,12 +196,20 @@ SEO PowerSuite предлагает комплексный набор инстр
 * Подробный анализ конкурентов
 * Честное ценообразование
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Конс:
 
 * Для новичков может оказаться сложным в освоении.
 * Некоторые функции в бесплатной версии ограничены
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/rt-1024x538.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Трекер рангов
 
@@ -243,7 +251,7 @@ WebSite Auditor - это наш инструмент для проведения
 Инструмент предоставляет подробный обзор состояния вашего сайта, выделяя области для улучшения и предлагая практические рекомендации. Пользователи могут визуализировать структуру сайта, проанализировать внутренние ссылки и оптимизировать страницы для улучшения показателей в поисковых системах. WebSite Auditor идеально подходит для веб-мастеров, SEO-агентств и владельцев бизнеса, желающих улучшить SEO-функции своего сайта.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ценовые планы:
@@ -339,10 +347,6 @@ LinkAssistant - это наш инструмент для автоматизац
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Google-Search-Consol.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Поисковая консоль Google
 
 Google Search Console - обязательный инструмент для любого владельца сайта. Он дает представление о том, как Google воспринимает ваш сайт, и помогает отслеживать его присутствие в результатах поиска Google. Среди основных функций - отчеты о производительности, охват индекса и информация о мобильном юзабилити. Инструмент также предупреждает вас о любых проблемах, которые могут повлиять на видимость вашего сайта, например, об ошибках сканирования или проблемах безопасности. Понимая и решая эти проблемы, вы сможете улучшить SEO и общую производительность вашего сайта.
@@ -415,6 +419,10 @@ Ubersuggest, разработанный Нилом Пателем, - это уд
 
 План Enterprise по цене $40 в месяц предназначен для крупных компаний и агентств, управляющих 8-15 веб-сайтами. Он включает 900 поисковых запросов в день, 15 доменов, 300 отслеживаемых ключевых слов на домен, 15 конкурентов на домен, 10 000 сканирований страниц на домен и 5 пользователей.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Плюсы:
 
 * Простота в использовании
@@ -427,10 +435,6 @@ Ubersuggest, разработанный Нилом Пателем, - это уд
 * Точность данных может варьироваться
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Yoast-SEO-.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Yoast SEO
 
@@ -452,10 +456,6 @@ Yoast SEO Premium стоит 99 евро в год (без учета НДС) и
 
 Эта подписка, доступная по цене 229 евро в год (без учета НДС), включает все функции Yoast SEO Premium, а также плагины Yoast WooCommerce SEO, Yoast Local SEO, Yoast News SEO и Yoast Video SEO. Этот тарифный план идеально подходит для пользователей, которым нужны комплексные SEO-решения для различных типов контента и предприятий.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Плюсы:
 
 * Простота в использовании
@@ -468,10 +468,6 @@ Yoast SEO Premium стоит 99 евро в год (без учета НДС) и
 * Некоторые дополнительные функции требуют премиум-подписки
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/SE-Ranking--1024x269.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Рейтинг SE
 
@@ -530,6 +526,10 @@ BuzzSumo отлично справляется с исследованием к�
 
 План Enterprise стоит $999 в месяц и предоставляет комплексный доступ для известных брендов и агентств. Он включает 30 пользователей, неограниченный поиск и 50 оповещений. Дополнительные возможности включают RSS-канал, поиск по местоположению и ранний доступ к новым функциям.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Плюсы:
 
 * Отлично справляется с исследованием контента и аналитикой социальных сетей
@@ -537,7 +537,7 @@ BuzzSumo отлично справляется с исследованием к�
 * Удобный интерфейс
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Конс:
@@ -679,10 +679,6 @@ SpyFu отлично подходит для изучения конкурент
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/RankMath-.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 16\. RankMath
 
 RankMath - это популярный SEO-плагин для WordPress, который предлагает ряд функций для оптимизации вашего сайта. Он включает в себя инструменты для отслеживания ключевых слов, постраничного SEO-анализа и создания карты сайта. RankMath также предоставляет подробную информацию о производительности вашего сайта, помогая вам определить области для улучшения. Удобный интерфейс плагина позволяет легко оптимизировать контент и отслеживать SEO-усилия. Кроме того, RankMath интегрируется с Google Search Console, предоставляя еще больше ценных данных.
@@ -703,15 +699,15 @@ RankMath - это популярный SEO-плагин для WordPress, кот
 
 Агентский план стоимостью $49,99 в месяц предназначен для владельцев агентств, работающих с большими объемами. Он поддерживает до 750 клиентских сайтов, отслеживает до 75 000 ключевых слов и включает мощный генератор схем. Подписчики получают бесплатную пробную версию Content AI с 30,0 тыс. кредитов и круглосуточную приоритетную поддержку. Этот тарифный план идеально подходит для агентств, которым требуются надежные инструменты SEO и широкие возможности отслеживания для управления потребностями клиентов.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Плюсы:
 
 * Всеобъемлющие SEO-функции
 * Удобный интерфейс
 * Доступна бесплатная версия
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Конс:
 
@@ -747,7 +743,7 @@ BrightLocal предлагает различные тарифные планы,
 Для компаний, управляющих более чем 50 офисами, BrightLocal предлагает индивидуальные тарифные планы. Эти планы полностью адаптированы под конкретные потребности бизнеса и включают индивидуальные функции и лимиты данных. Предприятия могут напрямую связаться с BrightLocal для разработки плана, который соответствует их целям и предоставляет необходимые инструменты и поддержку для масштабных усилий по локальному SEO. Индивидуальные планы гарантируют, что крупные предприятия получат индивидуальное решение, разработанное с учетом сложности и масштаба их требований к локальному SEO.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Плюсы:
@@ -762,6 +758,10 @@ BrightLocal предлагает различные тарифные планы,
 * Дорого для малых предприятий
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Ahrefs-1-1.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 18\. Ahrefs
 
@@ -809,6 +809,10 @@ Google Analytics - важнейший инструмент для пониман
 ### Ценовые планы:
 
 * Бесплатно
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Плюсы:
 
@@ -880,10 +884,6 @@ Moz Pro предлагает набор инструментов для улуч
 
 План Large по цене $299 в месяц или $239 в месяц при годовой оплате идеально подходит для компаний и агентств, серьезно относящихся к поиску. Он предлагает 25 кампаний, 3 000 ранжирований ключевых слов, 1 250 000 просмотренных страниц в неделю, 500 отслеживаемых URL и 15 000 запросов по ключевым словам в месяц.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Плюсы:
 
 * Простой в использовании интерфейс
@@ -916,22 +916,19 @@ Moz Pro предлагает набор инструментов для улуч
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revolutionizing-vr-experiences-with-newest-game-engines/"><u>[Updated] In 2024, Revolutionizing VR Experiences with Newest Game Engines</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-secure-and-convenient-a-windowsmac-downloading-guide-for-igtv-videos/"><u>[Updated] In 2024, Secure and Convenient A Windows/Mac Downloading Guide for IGTV Videos</u></a></li>
-<li><a href="https://win-docs.techidaily.com/44cm44ow44o844oi6kit5a6a44ov44kh44kk44or44ks6zal44gp44gu44ks5psv5oplus044gz44kl6kmz57sw44gq6kej5rg65oml6acg44cn/"><u>「ブート設定ファイルを開くのを支援する詳細な解決手順」</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-free-online-offer-enjoy-a-gallery-of-50-youtube-banners-now/"><u>2024 Approved Free Online Offer Enjoy a Gallery of 50 YouTube Banners Now</u></a></li>
-<li><a href="https://win-docs.techidaily.com/achieve-email-marketing-excellence-the-comprehensive-guide-to-effective-brand-placement-using-massmail-tools/"><u>Achieve Email Marketing Excellence: The Comprehensive Guide to Effective Brand Placement Using MassMail Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/achieving-fluidity-in-audio-blending-using-audacity-tools-for-2024/"><u>Achieving Fluidity in Audio Blending Using Audacity Tools for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/bildwiederherstellung-auf-defekten-sd-karten-verschaffe-dir-die-fotos-kostenfrei-zuruck/"><u>Bildwiederherstellung Auf Defekten SD-Karten – Verschaffe Dir Die Fotos Kostenfrei Zurück!</u></a></li>
-<li><a href="https://win-docs.techidaily.com/budget-friendly-web-traffic-solutions-discover-the-best-four-techniques-with-massmail-in-2009/"><u>Budget-Friendly Web Traffic Solutions: Discover the Best Four Techniques with MassMail in 2009</u></a></li>
-<li><a href="https://facebook.techidaily.com/colliding-realms-diving-into-metaverse-potentialities/"><u>Colliding Realms: Diving Into Metaverse Potentialities</u></a></li>
-<li><a href="https://win-docs.techidaily.com/effiziente-verschiebung-von-kontakten-wegweiser-zur-ubertragung-ihrer-android-adressenbuchseiten-auf-ihr-iphone/"><u>Effiziente Verschiebung Von Kontakten - Wegweiser Zur Übertragung Ihrer Android-Adressenbuchseiten Auf Ihr iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/flight-path-perfection-essential-insights-for-drone-racers-and-top-5-models/"><u>Flight Path Perfection Essential Insights for Drone Racers & Top 5 Models</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-complet-sur-comment-reformer-correctement-le-systeme-dexploitation-windows-10/"><u>Guide Complet Sur Comment Réformer Correctement Le Système D'Exploitation Windows 10</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-effortlessly-copy-your-hdd-to-an-msata-ssd-with-windows-operating-systems-windows-111087/"><u>How to Effortlessly Copy Your HDD to an mSATA SSD with Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-cross-reality-shopping-experiences/"><u>In 2024, Cross-Reality Shopping Experiences</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211341263-9782384553426-the-reality-of-prayer/"><u>The Reality of Prayer | Free Book</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unveiling-the-basics-of-lead-scraping-definitions-and-consequences-with-massmail-tech/"><u>Unveiling the Basics of Lead Scraping: Definitions & Consequences with MassMail Tech</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-to-stellar-youtube-intros-for-2024/"><u>Unveiling the Secrets to Stellar YouTube Intros for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-3dr-one-persons-guide-to-a-futuristic-tech/"><u>[New] 2024 Approved '3DR' One Person’s Guide to a Futuristic Tech</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-comprehensive-review-camera-lenses-for-youtube/"><u>[New] A Comprehensive Review Camera Lenses for YouTube</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-erstellt-ihr-laptop-backup-auf-einem-dell-computer-mit-windows-11-schritt-fur-schritt-anleitung/"><u>1. Erstellt Ihr Laptop-Backup Auf Einem Dell Computer Mit Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-techniques-in-documentary-scripting/"><u>2024 Approved Pioneering Techniques in Documentary Scripting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unleashing-the-power-of-youtube-finding-and-creating-partnerships/"><u>2024 Approved Unleashing the Power of YouTube Finding and Creating Partnerships</u></a></li>
+<li><a href="https://win-docs.techidaily.com/cifrado-rapido-para-archivos-de-imagenes-y-copias-de-respaldo-en-almacenamiento-digital/"><u>Cifrado Rápido Para Archivos De Imágenes Y Copias De Respaldo en Almacenamiento Digital</u></a></li>
+<li><a href="https://win-docs.techidaily.com/come-eseguire-il-backup-dei-tuoi-file-di-sistema-utilizzando-la-funzione-unita-di-ripristino-due-metodi-distinti/"><u>Come Eseguire Il Backup Dei Tuoi File Di Sistema Utilizzando La Funzione Unità Di Ripristino: Due Metodi Distinti</u></a></li>
+<li><a href="https://win-docs.techidaily.com/easy-tutorial-making-a-rufus-bootable-usb-stick-using-windows-10-software/"><u>Easy Tutorial: Making a Rufus Bootable USB Stick Using Windows 10 Software</u></a></li>
+<li><a href="https://win-docs.techidaily.com/i-migliori-strumenti-per-il-recupero-partizioni-in-varie-versioni-di-windows-dallo-11-al-l87/"><u>I Migliori Strumenti per Il Recupero Partizioni in Varie Versioni Di Windows: Dallo 11 Al L'8/7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-redesigned-look-at-s3700-sony-entertainment/"><u>In 2024, Redesigned Look at S3700 Sony Entertainment</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-right-sound-the-right-mic-top-recommendations-for-diverse-online-presence/"><u>In 2024, The Right Sound, The Right Mic Top Recommendations for Diverse Online Presence</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/the-ultimate-guide-to-crafting-strong-and-easy-to-remember-secure-passwords-3-proven-techniques/"><u>The Ultimate Guide to Crafting Strong & Easy-to-Remember Secure Passwords: 3 Proven Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-9-tips-and-tricks-that-will-help-improve-your-spoken-english/"><u>Top 9 Tips and Tricks That Will Help Improve Your Spoken English</u></a></li>
 </ul></div>
 

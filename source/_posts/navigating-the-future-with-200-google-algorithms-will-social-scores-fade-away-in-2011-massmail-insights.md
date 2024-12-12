@@ -1,7 +1,7 @@
 ---
 title: Navigating the Future with 200 Google Algorithms - Will Social Scores Fade Away in 2011? | Massmail Insights
-date: 2024-11-24T16:16:18.955Z
-updated: 2024-11-25T22:46:45.104Z
+date: 2024-12-05T00:00:22.860Z
+updated: 2024-12-11T20:23:21.545Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -47,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,41 +74,33 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -122,6 +114,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-deciphering-the-block-code-on-snapchat-for-2024/"><u>[New] Deciphering the Block Code on Snapchat for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-definition-ready-enabling-av1-on-youtube/"><u>[New] In 2024, High Definition Ready Enabling AV1 on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-blueprint-of-youtubes-innovative-shorts-economy-model/"><u>[New] The Blueprint of YouTube's Innovative Shorts Economy Model</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-your-guide-to-cost-free-android-screenshots-for-2024/"><u>[New] Your Guide to Cost-Free Android Screenshots for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics-for-2024/"><u>[Updated] IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-digital-collage-creator-8x-for-2024/"><u>[Updated] Ultimate Digital Collage Creator 8X for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-resolving-net-framework-40-error-code-0x800c0006-on-windows/"><u>1. Resolving .NET Framework 4.0 Error Code 0X800C0006 on Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-video-potential-top-9-tips-for-vr-storytelling/"><u>2024 Approved Unlocking Video Potential Top 9 Tips for VR Storytelling</u></a></li>
-<li><a href="https://win-docs.techidaily.com/6-facons-de-resoudre-les-problemes-avec-le-service-mise-a-jour-windows-en-touche-de-reinitialisation-ou-de-restauration-dans-windows-1011/"><u>6 Façons De Résoudre Les Problèmes Avec Le Service Mise À Jour Windows en Touche De Réinitialisation Ou De Restauration Dans Windows 10/11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-mp3-transformation-from-mov-files-for-desktop-and-portable-device-users/"><u>Effortless MP3 Transformation From MOV Files for Desktop and Portable Device Users</u></a></li>
-<li><a href="https://win11.techidaily.com/embarking-on-the-journey-setting-up-outlook-preview-in-windows-11/"><u>Embarking on the Journey: Setting Up Outlook Preview in Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/fehlerfrei-dateiubertragungen-gewahrleisten-losungen-fur-das-abrufen-in-windows-10/"><u>Fehlerfrei Dateiübertragungen Gewährleisten: Lösungen Für Das Abrufen in Windows 10</u></a></li>
-<li><a href="https://win-docs.techidaily.com/probleme-mit-dem-iphone-das-nach-ios-16-upgrade-keine-anrufe-entgegennimmt-erfolgreich-behoben/"><u>Probleme Mit Dem iPhone, Das Nach iOS 16-Upgrade Keine Anrufe Entgegennimmt - Erfolgreich Behoben</u></a></li>
-<li><a href="https://win-docs.techidaily.com/resolved-issue-with-software-update-verification-now-fixed/"><u>Resolved: Issue with Software Update Verification Now Fixed</u></a></li>
-<li><a href="https://win-docs.techidaily.com/the-art-of-seamless-duplication-perfecting-robocopy-techniques-for-ultimate-synchronization-satisfaction/"><u>The Art of Seamless Duplication: Perfecting Robocopy Techniques for Ultimate Synchronization Satisfaction</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-4-solutions-to-persistent-windows-update-files-in-windows-11/"><u>Top 4 Solutions to Persistent Windows Update Files in Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/vsphere-8-unveiled-a-comprehensive-guide-to-its-must-know-eight-functionalities/"><u>VSphere 8 Unveiled: A Comprehensive Guide to Its Must-Know Eight Functionalities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-easily-create-compelling-fb-video-ads-with-no-cost-kit-for-2024/"><u>[Updated] Easily Create Compelling FB Video Ads with No-Cost Kit for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-render-images-with-radial-light-diffusion-technique/"><u>[Updated] Render Images with Radial Light Diffusion Technique</u></a></li>
+<li><a href="https://win-docs.techidaily.com/5zub5asn6kej5rg65oqa5ben77ya5pos5yi25lim5lplusu5b6p56qb5aac5yw25l6g55qe5l2c5qwt6loh5paz5lin6kal5lml6kyoic0gwpluswfqomdouamhpluswnl10/"><u>四大解決技巧：擒制並修復突如其來的作業資料不見之謎 - [全面指南]</u></a></li>
+<li><a href="https://win-docs.techidaily.com/cle-usb-de-sauvegarde-la-plus-performante-pour-windows-11-logiciels-et-solutions-top-en-securite/"><u>Clé USB De Sauvegarde La Plus Performante Pour Windows 11: Logiciels Et Solutions Top en Sécurité</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-cyberpunk-2077-freeze-issues-expert-tips-and-solutions/"><u>Dealing with Cyberpunk 2077 Freeze Issues - Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effizientes-systemmigrationsmanagement-einfuhrung-in-die-3-schritt-methode/"><u>Effizientes Systemmigrationsmanagement: Einführung in Die 3-Schritt-Methode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sudden-sound-drops-in-windows-11-simple-troubleshooting-steps/"><u>Fixing Sudden Sound Drops in Windows 11 - Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-6-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 6 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-ace-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus Ace 3 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/losungshinweise-fur-den-iphone-synchronisierungsfehler-54-mit-praktischen-tipps/"><u>Lösungshinweise Für Den iPhone-Synchronisierungsfehler 54 Mit Praktischen Tipps</u></a></li>
+<li><a href="https://win-docs.techidaily.com/pasos-faciles-para-respaldar-su-disco-duro-externo-tecnicas-y-consejos-efectivos/"><u>Pasos Fáciles Para Respaldar Su Disco Duro Externo: Técnicas Y Consejos Efectivos</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-g310-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of G310 on Mac</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-to-making-a-clone-of-your-boot-drive-for-windows-versions-11-10-8-7/"><u>Step-by-Step Guide to Making a Clone of Your Boot Drive for Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/superior-bitlocker-passworters-wiedergabesoftware-fur-windows-11-8-und-7-bestenliste/"><u>Superior BITLocker Passworters Wiedergabesoftware Für Windows 11, 8 Und 7 - Bestenliste</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-three-ai-battles-chatgpt-microsoft-bing-ai-and-google-bard/"><u>Top Three AI Battles: ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-ranked-toshiba-ssd-duplication-programs-compatible-with-windows-windows-11-10-8-and/"><u>Top-Ranked Toshiba SSD Duplication Programs Compatible with Windows: Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728499459843-windows-hdd/"><u>Windows HDD蘊藏的失去資料回收手冊：五位掌握技術者分享</u></a></li>
 </ul></div>
 

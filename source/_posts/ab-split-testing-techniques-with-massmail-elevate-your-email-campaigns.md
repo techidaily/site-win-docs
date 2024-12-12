@@ -1,7 +1,7 @@
 ---
 title: "A/B Split Testing Techniques with MassMail: Elevate Your Email Campaigns"
-date: 2024-11-21T11:27:19.929Z
-updated: 2024-11-25T22:36:25.904Z
+date: 2024-12-10T22:28:06.603Z
+updated: 2024-12-11T23:00:38.144Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -43,6 +39,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -70,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -85,10 +81,6 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -103,20 +95,32 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-impressive-image-sequence-on-instagram-for-2024/"><u>[Updated] Impressive Image Sequence on Instagram for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/3-techniques-pratiques-pour-le-transfert-de-donnees-pc-vers-une-carte-sd/"><u>3 Techniques Pratiques Pour Le Transfert De Données PC Vers Une Carte SD</u></a></li>
-<li><a href="https://win-docs.techidaily.com/5y2z5pmc6kej5rg65pa55qgi77ya5aac5l2v5bplusr6ycf5lplusu5q2jicfno4hnoplplhmlyjmnkrlij3lp4vljjyn5zwp6agm/"><u>即時解決方案：如何快速修正 '磁碟失效未初始化'問題</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mkv-windows-10-7/"><u>無限自由下載：最佳MKV播放器適用 Windows 10 / 7 - 免費上網版本</u></a></li>
-<li><a href="https://win-docs.techidaily.com/aomei-techs-secure-data-retrieval-terms-of-service/"><u>AOMEI Tech's Secure Data Retrieval Terms of Service</u></a></li>
-<li><a href="https://win-docs.techidaily.com/best-zero-cost-malware-scrubbers-comprehensive-guide-to-keeping-your-devices-clean-with-malwarefox-and-others/"><u>Best Zero-Cost Malware Scrubbers : Comprehensive Guide to Keeping Your Devices Clean with MalwareFox and Others</u></a></li>
-<li><a href="https://fox-info.techidaily.com/cam-clash-sj6-legend-versus-yi-4k-visionary/"><u>Cam Clash SJ6 Legend Versus Yi 4K Visionary</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-fix-cannot-install-windows-on-this-disk-mbr-error-in-windows-11/"><u>How to Fix 'Cannot Install Windows on This Disk MBR' Error in Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-10-steps-to-perfect-youtube-reactions-a-trio-guide/"><u>In 2024, 10 Steps to Perfect YouTube Reactions – A Trio Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-magic-6-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Magic 6 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-low-cost-recorders-guide-to-webcasting-wisdom/"><u>In 2024, Low-Cost Recorder's Guide to Webcasting Wisdom</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ripara-con-successo-il-tuo-sistema-windows-11-usando-la-funzione-system-file-checker-sfc-un-tutorial-dettagliato-passo-per-passo/"><u>Ripara Con Successo Il Tuo Sistema Windows 11 Usando La Funzione System File Checker (SFC) - Un Tutorial Dettagliato Passo per Passo</u></a></li>
-<li><a href="https://win-docs.techidaily.com/schritt-fur-schritt-anleitung-deaktivierung-von-icloud-auf-dem-iphone/"><u>Schritt-Für-Schritt-Anleitung: Deaktivierung Von iCloud Auf Dem iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-enhancing-frame-rates-and-cutting-down-latency-issues-in-fall-guys/"><u>Ultimate Guide to Enhancing Frame Rates & Cutting Down Latency Issues in Fall Guys</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whats-new-with-chatgpt-unpacking-the-latest-feature-set-for-users/"><u>What’s New with ChatGPT? Unpacking the Latest Feature Set for Users</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728494643790-windows/"><u>Windows免費照片查看工具无法正常显示的全方位指南</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>[New] 2024 Approved The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-the-potential-of-screenshotting-your-android-device-for-2024/"><u>[Updated] Unlocking the Potential of Screenshotting Your Android Device for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-analysis-highest-quality-video-snappers/"><u>2024 Approved Expert Analysis Highest Quality Video Snappers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-framing-your-story-with-effective-titles/"><u>2024 Approved Framing Your Story with Effective Titles</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728489320955-windows-11/"><u>進行成功的 Windows 11 安裝: 常見問題及解決之道</u></a></li>
+<li><a href="https://win-docs.techidaily.com/cifrado-rapido-para-archivos-de-imagenes-y-copias-de-respaldo-en-almacenamiento-digital/"><u>Cifrado Rápido Para Archivos De Imágenes Y Copias De Respaldo en Almacenamiento Digital</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effective-solutions-when-your-c-drive-is-at-capacity-in-windows-11/"><u>Effective Solutions When Your C Drive Is at Capacity in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-13-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/successfully-restored-troubleshooting-and-repairing-windows-11s-stagnant-start-menu-and-dysfunctional-taskbar/"><u>Successfully Restored: Troubleshooting and Repairing Windows 11'S Stagnant Start Menu and Dysfunctional Taskbar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlocking-secrets-your-complete-overview-of-stardew-and-ginger-isle/"><u>Unlocking Secrets Your Complete Overview of Stardew and Ginger Isle</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-1011nvme-ssd/"><u>Windows 10/11システムをNVMe SSDに高速移行する方法</u></a></li>
 </ul></div>
 

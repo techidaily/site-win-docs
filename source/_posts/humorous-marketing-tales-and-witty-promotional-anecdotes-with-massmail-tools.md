@@ -1,7 +1,7 @@
 ---
 title: Humorous Marketing Tales & Witty Promotional Anecdotes with MassMail Tools
-date: 2024-11-29T04:43:32.629Z
-updated: 2024-12-05T17:37:56.156Z
+date: 2024-12-05T06:43:40.270Z
+updated: 2024-12-12T02:04:41.977Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,12 +36,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -55,6 +55,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -73,6 +77,10 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -94,17 +102,9 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-viewership-victors-the-worlds-top-10-video-content-makers/"><u>[New] In 2024, Viewership Victors The World's Top 10 Video Content Makers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-harnessing-youtubes-power-for-maximum-earnings-via-adsense/"><u>[Updated] 2024 Approved Harnessing YouTube's Power for Maximum Earnings via AdSense</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-simplify-storytelling-transform-vimeo-into-captivating-gifs/"><u>[Updated] 2024 Approved Simplify Storytelling Transform Vimeo Into Captivating GIFs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-youtube-count-views-its-not-as-simple-as-you-think-for-2024/"><u>[Updated] How Does YouTube Count Views? It's Not as Simple as You Think for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728498187227-google/"><u>完全なGoogleドライブの消去からデータを取り戻す、簡単なガイド</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-laptop-with-essential-ports-now-at-affordable-price-shop-walmarts-deal-only-250/"><u>Asus Laptop with Essential Ports Now at Affordable Price - Shop Walmart's Deal: Only $250!</u></a></li>
-<li><a href="https://win-docs.techidaily.com/complete-guide-eliminate-android-malware-effectively-in-just-4-simple-steps/"><u>Complete Guide: Eliminate Android Malware Effectively in Just 4 Simple Steps</u></a></li>
-<li><a href="https://win-docs.techidaily.com/complete-step-by-step-guide-to-restoring-your-ipad-using-icloud-or-itunes-backups/"><u>Complete Step-by-Step Guide to Restoring Your iPad Using iCloud or iTunes Backups</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-advanced-display-settings-on-nvidia-graphics/"><u>Enabling Advanced Display Settings on NVIDIA Graphics</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-artificial-intelligence-endeavors-the-pioneering-project-gemini/"><u>Google's Artificial Intelligence Endeavors – The Pioneering Project Gemini</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-evolving-narratives-in-virtual-cinema-landscapes/"><u>In 2024, Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
-<li><a href="https://win-docs.techidaily.com/iphone-update-probleme-beheben-nicht-langer-drucken-der-home-taste/"><u>IPhone Update-Probleme Beheben: Nicht Länger Drücken Der Home-Taste</u></a></li>
-<li><a href="https://win-docs.techidaily.com/notice-unable-to-locate-the-requested-online-document/"><u>Notice: Unable To Locate The Requested Online Document</u></a></li>
-<li><a href="https://win-docs.techidaily.com/preventing-data-loss-steps-to-securely-protect-your-disk-during-format-in-windows-11-8-and-7/"><u>Preventing Data Loss: Steps to Securely Protect Your Disk During Format in Windows 11, 8, and 7</u></a></li>
-<li><a href="https://win-docs.techidaily.com/sicheres-kopieren-von-windows-1011-ssds-auf-externe-hdds-eine-detaillierte-anleitung/"><u>Sicheres Kopieren Von Windows 10/11-SSDs Auf Externe HDDs: Eine Detaillierte Anleitung</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/tips-for-effective-youtube-end-screen-usage/"><u>Tips for Effective YouTube End Screen Usage</u></a></li>
-<li><a href="https://win-docs.techidaily.com/transferer-efficacement-vos-donnees-vers-un-ssd-samsung-mt3-gratuit-le-meilleur-logiciel-disponible-en-ligne/"><u>Transférer Efficacement Vos Données Vers Un SSD Samsung M.t3 Gratuit : Le Meilleur Logiciel Disponible en Ligne</u></a></li>
-<li><a href="https://win-docs.techidaily.com/wie-sie-mit-windows-11-ihre-wichtigen-daten-vorubergehend-auf-eine-externe-festplatte-sichern-und-wiederherstellen-konnen-3-strategien/"><u>Wie Sie Mit Windows 11 Ihre Wichtigen Daten Vorübergehend Auf Eine Externe Festplatte Sichern Und Wiederherstellen Können (3 Strategien)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-content-the-secrets-to-increased-subscribers/"><u>[New] In 2024, Elevate Your Content The Secrets to Increased Subscribers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-virtual-racing-masterclass-our-five-favorite-games/"><u>[New] In 2024, Virtual Racing Masterclass Our Five Favorite Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-professional-video-finishing-touches-device-based-filters-for-2024/"><u>[New] Professional Video Finishing Touches Device-Based Filters for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-how-to-use-picture-in-picture-mode-on-youtube-ios-for-2024/"><u>[Updated] How to Use Picture-In-Picture Mode on YouTube (iOS) for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wdc5/"><u>「WDCデータ回復ツールのトップ5 - 西部電機最新テクノロジーガイド」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-powered-video-enhancement-scaling-stabilizing-converting-and-editing-advanced-video-and-image-improvement/"><u>AI-Powered Video Enhancement: Scaling, Stabilizing, Converting & Editing - Advanced Video and Image Improvement</u></a></li>
+<li><a href="https://win-docs.techidaily.com/configurar-con-exito-el-servidor-pxe-desde-cero-una-guia-paso-a-paso-para-sistemas-windows/"><u>Configurar Con Éxito El Servidor PXE Desde Cero: Una Guía Paso a Paso Para Sistemas Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-tricks-for-fixing-face-mislabels-within-the-apple-photos-app/"><u>Easy Tricks for Fixing Face Mislabels Within the Apple Photos App</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-extraction-de-donnees-sur-une-memoire-sd-incompatible-avec-le-systeme-comment-proceder-efficacement/"><u>Guide: Extraction De Données Sur Une Mémoire SD Incompatible Avec Le Système - Comment Procéder Efficacement?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-narzo-n55-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme Narzo N55 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/intensive-analysis-sonys-high-def-action-cam/"><u>Intensive Analysis Sony's High-Def Action Cam</u></a></li>
+<li><a href="https://win-docs.techidaily.com/las-mejores-soluciones-para-evitar-copias-de-correo-electronico-en-outlook-20192016/"><u>Las Mejores Soluciones Para Evitar Copias De Correo Electrónico en Outlook 2019/2016</u></a></li>
+<li><a href="https://win-docs.techidaily.com/nuovi-trucchi-e-risoluzioni-per-superare-il-blocco-del-trasferimento-sul-tuo-nuovo-ipad/"><u>Nuovi Trucchi E Risoluzioni per Superare Il Blocco Del Trasferimento Sul Tuo Nuovo iPad</u></a></li>
+<li><a href="https://win-docs.techidaily.com/resoudre-les-problemes-demail-non-envoyes-dans-outlook-techniques-simplifiees-pour-une-communication-sans-obstacles/"><u>Résoudre Les Problèmes D'Email Non Envoyés Dans Outlook - Techniques Simplifiées Pour Une Communication Sans Obstacles</u></a></li>
+<li><a href="https://win-docs.techidaily.com/secure-your-files-with-simple-encryption-a-guide-to-enabling-windows-10-backup-security/"><u>Secure Your Files with Simple Encryption: A Guide to Enabling Windows 10 Backup Security</u></a></li>
+<li><a href="https://win-docs.techidaily.com/shift-left-for-each-subsequent-digit-in-the-bottom-number-and-add-partial-products-together-to-get-the-final-result/"><u>Shift Left for Each Subsequent Digit in the Bottom Number and Add Partial Products Together to Get the Final Result.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-imaging-editing-solution/"><u>Superior Imaging Editing Solution</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728466309980-windows-server/"><u>Windows Server バックアップ管理 - 古いバックアップの削除方法修正</u></a></li>
 </ul></div>
 

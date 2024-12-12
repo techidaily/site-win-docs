@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox"
-date: 2024-11-30T20:12:56.433Z
-updated: 2024-12-05T21:07:58.090Z
+date: 2024-12-05T05:26:25.701Z
+updated: 2024-12-11T17:29:20.531Z
 tags:
   - product
   - antivirus
@@ -44,25 +44,25 @@ It is the simplest method to delete saved passwords. Click on the **Menu** butto
 
 ![Delete Saved Password Firefox 1-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you will see the Saved Logins Window with the list of all usernames and passwords. You can select single users and click on the **Remove** button to remove them. Also, if you want to delete all passwords in one go, then click on **Remove All** button.
 
 ![Delete Saved Password Firefox 1-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When you delete the single password, it won’t ask anything, but when you eliminate all the passwords, it confirms the action. So click on **Yes** to remove all passwords from your Firefox.
 
 ![Delete Saved Password Firefox 1-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 That’s it you have now cleared all passwords from the Firefox.
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2 – Delete Saved Passwords in Firefox using Windows Explorer
 
@@ -77,33 +77,33 @@ Now click on **Troubleshooting Information**.
 ![Delete Saved Password Firefox 2-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you will see the details that are essential in case of troubleshooting. On this page, you will find the location of **Profile Folder**. Click on **Open Folder** to open it directly.
 
 ![Delete Saved Password Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now locate the **logins.jason** file and **Delete** it.
 
 ![Delete Saved Password Firefox 2-4](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s it, all the saved password from Firefox is gone.
 
 [How to Block Trackers in FireFox](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 thought on “How to Delete Saved Passwords in Firefox”
 
 1. ![](https://secure.gravatar.com/avatar/1da8faddc392b0ffd65948fa3cc7324e?s=50&d=mm&r=g)  
 multumescmult  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [January 5, 2021 at 7:50 pm](https://tools.techidaily.com/malwarefox/products/)  
 thank you very much.. method 2 was what ı was looking for..  
@@ -134,24 +134,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-creating-compelling-solo-videos-on-a-budget/"><u>[New] In 2024, Creating Compelling Solo Videos on a Budget</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cut-to-impact-in-depth-youtube-video-editing-mastery/"><u>[New] In 2024, Cut to Impact In-Depth Youtube Video Editing Mastery</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-eye-on-the-social-scene-top-tweets-of-2023/"><u>[Updated] 2024 Approved Eye on the Social Scene Top Tweets of 2023</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-6-pasos-utiles-mover-fotografias-del-iphone-1415-a-tu-ordenador-con-facilidad/"><u>1. [6 Pasos Útiles] Mover Fotografías Del iPhone 14/15 a Tu Ordenador Con Facilidad</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-discover-15-cost-effective-online-photo-editing-platforms/"><u>2024 Approved Discover 15 Cost-Effective Online Photo Editing Platforms</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>2024 Approved Streamline Your Media Files 8 Pro Convertors, Sub to Srt Style</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728494712452-windows-11ssd/"><u>无需复制，在Windows 11上直接转移SSD到新机器指南</u></a></li>
-<li><a href="https://win-docs.techidaily.com/best-seo-solutions-in-tehamr-iran-elite-agencies-reviewed-with-seo-powersuites-recommendations/"><u>Best SEO Solutions in Tehamr, Iran: Elite Agencies Reviewed with SEO PowerSuite's Recommendations</u></a></li>
-<li><a href="https://win-docs.techidaily.com/effective-article-promotion-strategies-and-link-building-methods-with-massmail-solutions/"><u>Effective Article Promotion Strategies & Link-Building Methods with MassMail Solutions</u></a></li>
-<li><a href="https://win-docs.techidaily.com/email-platform-evolution-a-detailed-look-at-mobile-and-desktop-preferences-in-20122013-forecasting-future-patterns-with-massmails-data/"><u>Email Platform Evolution - A Detailed Look at Mobile and Desktop Preferences in 2012/2013, Forecasting Future Patterns with MassMail's Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-windows-11-gaming-experience-with-the-asus-aura-interface-download/"><u>Enhance Your Windows 11 Gaming Experience with the ASUS Aura Interface Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-functionality-a-comprehensive-guide-to-keyboard-resets/"><u>Expert Tips for Restoring Functionality - A Comprehensive Guide to Keyboard Resets</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/free-mobile-image-editing-tools-top-10-overlay-app-list/"><u>Free Mobile Image Editing Tools - Top 10 Overlay App List</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-k11-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo K11 5Gwith/without a PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/immerse-yourself-in-vivid-colors-discover-how-our-small-sized-highly-luminous-mini-led-tv-enhances-home-entertainment/"><u>Immerse Yourself in Vivid Colors: Discover How Our Small-Sized, Highly Luminous Mini LED TV Enhances Home Entertainment</u></a></li>
-<li><a href="https://win-docs.techidaily.com/leading-detroit-seo-firms-expert-agency-reviews-and-top-choices/"><u>Leading Detroit SEO Firms: Expert Agency Reviews & Top Choices</u></a></li>
-<li><a href="https://win-docs.techidaily.com/maximizing-marketing-impact-crafting-custom-videos-via-massmails-innovative-tools-and-tips/"><u>Maximizing Marketing Impact: Crafting Custom Videos via MassMail's Innovative Tools and Tips</u></a></li>
-<li><a href="https://win-docs.techidaily.com/minimize-customer-refund-requests-using-these-six-tactics-from-massmail-software/"><u>Minimize Customer Refund Requests Using These Six Tactics From MassMail Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/understanding-keyword-density-in-seo-a-comprehensive-guide-with-practical-strategies/"><u>Understanding Keyword Density in SEO: A Comprehensive Guide with Practical Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-anatomy-of-an-anti-viewer-cutting-edge-strategies-for-reversed-youtube-videos/"><u>[New] In 2024, Anatomy of an Anti-Viewer Cutting Edge Strategies for Reversed YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>[Updated] In 2024, Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-iphone-xs-advanced-photography-tools/"><u>[Updated] Unveiling iPhone X's Advanced Photography Tools</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-ultimate-guide-to-crafting-effective-email-templates-with-massmail-streamline-your-communication/"><u>1. Ultimate Guide to Crafting Effective Email Templates with MassMail: Streamline Your Communication</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-enable-or-disable-the-windows-spotlight-images-on-the-lock-screen/"><u>3 Ways to Enable or Disable the Windows Spotlight Images on the Lock Screen</u></a></li>
+<li><a href="https://win-docs.techidaily.com/6ygo5y6744gu44or44k944kz44oz5oof5acx5ymk6zmk5pa55rov77ya5b655bqv55qe44gq44oh44o844k5rsx5rwe5oml6acg/"><u>過去のパソコン情報削除方法：徹底的なデータ洗浄手順</u></a></li>
+<li><a href="https://win-docs.techidaily.com/advanced-strategies-for-rsi-analysis-in-forex-mastery-of-timing-entryexit-with-mt4-and-mt5-trade-copy-tools/"><u>Advanced Strategies for RSI Analysis in Forex - Mastery of Timing Entry/Exit with MT4 & MT5 Trade Copy Tools</u></a></li>
+<li><a href="https://win-docs.techidaily.com/les-techniques-derivees-pour-sauvegarder-un-ssd-m2-nvme-de-haut-niveau-en-2024/"><u>Les Techniques Dérivées Pour Sauvegarder Un SSD M.2 NVMe De Haut-Niveau en 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/page-cannot-be-displayed-http-404/"><u>Page Cannot Be Displayed (HTTP 404)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplified-hdr-an-in-depth-examination-for-2024/"><u>Simplified HDR An In-Depth Examination for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-apple-tv-a-step-by-step-strategy/"><u>Unlock the Full Potential of Apple TV: A Step-by-Step Strategy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-new-era-youtube-hits-past-vidcon-for-2024/"><u>Unveiling New Era YouTube Hits Past VidCon for 2024</u></a></li>
 </ul></div>
 
