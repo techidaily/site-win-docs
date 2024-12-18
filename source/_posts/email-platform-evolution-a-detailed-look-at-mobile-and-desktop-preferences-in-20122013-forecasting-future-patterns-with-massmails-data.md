@@ -1,7 +1,7 @@
 ---
 title: Email Platform Evolution - A Detailed Look at Mobile and Desktop Preferences in 2012/2013, Forecasting Future Patterns with MassMail's Data
-date: 2024-11-24T16:21:26.157Z
-updated: 2024-11-26T13:27:07.158Z
+date: 2024-12-14T11:31:21.879Z
+updated: 2024-12-18T09:30:31.378Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -54,10 +58,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -70,13 +70,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -86,13 +86,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -101,6 +101,10 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -111,16 +115,12 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,21 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[New] Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphone-ringtones-a-guide-to-personalized-sound-choices/"><u>[Updated] IPhone Ringtones A Guide to Personalized Sound Choices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-quicktweet-clip-iphone-friendly-video-download-tool/"><u>[Updated] QuickTweet Clip IPhone-Friendly Video Download Tool</u></a></li>
-<li><a href="https://win-docs.techidaily.com/como-habilitar-y-verificar-la-proteccion-tpm-version-20-para-el-correcto-funcionamiento-de-windows-11/"><u>Cómo Habilitar Y Verificar La Protección TPM Versión 2.0 Para El Correcto Funcionamiento De Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/comprehensive-windows-11-restoration-tutorial-and-free-downloads-top-strategies/"><u>Comprehensive Windows 11 Restoration Tutorial & Free Downloads: Top Strategies</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-facilite-a-la-depannage-des-cartes-sd-incompatibles-avec-windows-11-solutions-effectives/"><u>Guide Facilité À La Dépannage Des Cartes SD Incompatibles Avec Windows 11 - Solutions Effectives.</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-webcammastery-practicalrecordingsteps/"><u>In 2024, WebCamMastery PracticalRecordingSteps</u></a></li>
-<li><a href="https://win-docs.techidaily.com/installing-aomei-backupper-for-linux-tips-and-tricks-for-easy-setup/"><u>Installing AOMEI Backupper for Linux - Tips & Tricks for Easy Setup</u></a></li>
-<li><a href="https://win-docs.techidaily.com/los-mejores-5-softwares-free-backup-and-proteccion-de-datos-para-windows-11/"><u>Los Mejores 5 Softwares Free Backup & Protección De Datos Para Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-complex-world-of-lipos-for-drones-for-2024/"><u>Navigating the Complex World of LiPos for Drones for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211476485-9781839388712-rosicrucianism/"><u>Rosicrucianism | Free Book</u></a></li>
-<li><a href="https://win-docs.techidaily.com/schritt-fur-schritt-anleitung-zum-sicherungsskripting-einer-linux-festplatte-kein-datenerhalt-verlieren/"><u>Schritt-Für-Schritt-Anleitung Zum Sicherungsskripting Einer Linux Festplatte - Kein Datenerhalt Verlieren</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correcting-the-youtube-audio-renderer-malfunction-on-your-windows-10-computer/"><u>Step-by-Step Guide to Correcting the Youtube Audio Renderer Malfunction on Your Windows 10 Computer</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/forming-raw-footage-into-polished-youtube-videos-with-finalcut/"><u>Transforming Raw Footage Into Polished YouTube Videos with FinalCut</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-windows-11-disk-clean-up-issues-a-7-step-guide/"><u>Troubleshooting Windows 11 Disk Clean-Up Issues: A 7 Step Guide</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ultimate-guide-how-to-easily-keep-your-devices-in-tandem-without-spending-a-penny/"><u>Ultimate Guide: How to Easily Keep Your Devices in Tandem without Spending a Penny</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-leading-macos-sierra-choices-for-file-conversion/"><u>[New] In 2024, Leading MacOS Sierra Choices for File Conversion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-profit-from-publishing-shopping-reviews/"><u>[Updated] 2024 Approved Profit From Publishing Shopping Reviews?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>[Updated] Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-schritt-fur-schritt-guide-zum-sichern-ihrer-festplatte-mit-powershell-zwei-methoden-revisited/"><u>1. Schritt-Für-Schritt-Guide Zum Sichern Ihrer Festplatte Mit PowerShell: Zwei Methoden Revisited</u></a></li>
+<li><a href="https://extra-information.techidaily.com/15-pioneering-youtube-tutorials-for-flawless-product-reviews-for-2024/"><u>15 Pioneering YouTube Tutorials for Flawless Product Reviews for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-pop-culture-with-a-click-using-kinemaster/"><u>2024 Approved Pop Culture with a Click Using KineMaster</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-a-lyric-video-pro-a-lyric-video-makers-journey-for-2024/"><u>Becoming a Lyric Video Pro A Lyric Video Maker's Journey for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/bildwiederherstellung-auf-defekten-sd-karten-verschaffe-dir-die-fotos-kostenfrei-zuruck/"><u>Bildwiederherstellung Auf Defekten SD-Karten – Verschaffe Dir Die Fotos Kostenfrei Zurück!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/budget-friendly-web-traffic-solutions-discover-the-best-four-techniques-with-massmail-in-2009/"><u>Budget-Friendly Web Traffic Solutions: Discover the Best Four Techniques with MassMail in 2009</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-complet-sur-comment-reformer-correctement-le-systeme-dexploitation-windows-10/"><u>Guide Complet Sur Comment Réformer Correctement Le Système D'Exploitation Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-i-uninstall-default-apps-on-my-iphone-device/"><u>How Do I Uninstall Default Apps on My iPhone Device?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pro-tips-record-your-macs-display/"><u>Pro Tips Record Your Mac's Display</u></a></li>
+<li><a href="https://win-docs.techidaily.com/recuperacion-rapida-de-informacion-tecnicas-efectivas-para-desmontar-y-rescatar-contenido-de-un-disco-duro-borrado/"><u>Recuperación Rápida De Información: Técnicas Efectivas Para Desmontar Y Rescatar Contenido De Un Disco Duro Borrado</u></a></li>
+<li><a href="https://win-docs.techidaily.com/solution-rapide-pour-laffichage-dune-piece-jointes-manquantes-sur-outlook-decouvrez-ces-techniques-utiles/"><u>Solution Rapide Pour L'Affichage D’une Pièce Jointes Manquantes Sur Outlook - Découvrez Ces Techniques Utiles!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-the-google-blacklist-what-it-means-and-how-to-avoid-it-comprehensive-guide-with-top-seo-tips/"><u>Understanding the Google Blacklist: What It Means and How to Avoid It - Comprehensive Guide with Top SEO Tips</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wie-reconstructiere-ich-verlorene-dateien-auf-einer-olympus-und-sony-voice-kamera/"><u>Wie Reconstructiere Ich Verlorene Dateien Auf Einer Olympus Und Sony Voice-Kamera?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-10-blue-screen-dilemma-fixing-the-notorious-error-code-0xc19001e1-effectively/"><u>Windows 10 Blue Screen Dilemma: Fixing the Notorious Error Code 0Xc19001e1 Effectively</u></a></li>
 </ul></div>
 

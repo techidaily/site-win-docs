@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Sales Through Thankfulness: The Impact of Polite Gestures on Profit Growth Using MassMail Tech"
-date: 2024-12-08T06:51:59.795Z
-updated: 2024-12-12T02:56:37.455Z
+date: 2024-12-12T01:21:06.975Z
+updated: 2024-12-18T03:47:02.534Z
 tags:
   - product
 categories:
@@ -50,10 +50,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -66,37 +62,41 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,21 +106,17 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-secret-techniques-in-ps-for-first-timers/"><u>[New] Secret Techniques in PS for First-Timers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlimited-screen-capture-tool/"><u>[Updated] Unlimited Screen Capture Tool</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-insider-tips-for-facebook-cover-video-mastery/"><u>2024 Approved Insider Tips for Facebook Cover Video Mastery</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/exploring-forex-trading-as-a-part-time-venture-pros-cons-and-potential-returns/"><u>Exploring Forex Trading as a Part-Time Venture: Pros, Cons & Potential Returns</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-mastery-harness-the-power-of-your-youtube-content-on-mobile/"><u>In 2024, Monetizing Mastery Harness the Power of Your YouTube Content on Mobile</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-g54-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola G54 5G</u></a></li>
-<li><a href="https://win-docs.techidaily.com/is-mac-pop-up-software-harmful-learn-how-to-safely-remove-them-and-protect-your-system-with-advice-from-malwarefox/"><u>Is Mac Pop-Up Software Harmful? Learn How to Safely Remove Them and Protect Your System with Advice From MalwareFox</u></a></li>
-<li><a href="https://win-docs.techidaily.com/laptop-ssd-austausch-und-bsd-neuinstallierung-eine-schritt-fur-schritt-anleitung/"><u>Laptop SSD Austausch Und BSD Neuinstallierung: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-docs.techidaily.com/reinitialiser-la-date-du-pc-avec-windows-11-deux-strategies-faciles-dutilisation-pour-un-rollback-efficace/"><u>Réinitialiser La Date Du PC Avec Windows 11 : Deux Stratégies Faciles D'utilisation Pour Un Rollback Efficace</u></a></li>
-<li><a href="https://win-docs.techidaily.com/reviving-your-external-disks-memories-expert-tips-for-successful-file-restoration-techniques/"><u>Reviving Your External Disk's Memories: Expert Tips for Successful File Restoration Techniques</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-guide-to-retrieving-accidentally-deleted-data-without-using-windows-11s-recycle-bin/"><u>Step-by-Step Guide to Retrieving Accidentally Deleted Data Without Using Windows 11'S Recycle Bin</u></a></li>
-<li><a href="https://win-docs.techidaily.com/steps-to-successfully-retrieve-lost-data-from-your-acer-laptop-discover-6-solutions/"><u>Steps to Successfully Retrieve Lost Data From Your Acer Laptop: Discover 6 Solutions</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728474627468-windows-11usb/"><u>Windows 11のデータバックアップ:無料ツールでUSBメモリへ転送手順</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-essential-tutorial-infusing-motion-blur-into-faces-using-picsart/"><u>[New] 2024 Approved The Essential Tutorial Infusing Motion Blur Into Faces Using Picsart</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cutting-edge-content-tips-for-excelling-in-facebook-video-sharing/"><u>[New] In 2024, Cutting-Edge Content Tips for Excelling in Facebook Video Sharing</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-transferir-archivos-pst-a-gmail-de-manera-efectiva-con-y-sin-el-uso-de-outlook/"><u>1. Transferir Archivos PST a Gmail De Manera Efectiva: Con Y Sin El Uso De Outlook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaiety-media-download-review/"><u>2024 Approved Gaiety Media Download Review</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728474260805-ssd-ssd/"><u>如何利用免费 SSD 图形编辑器制作高效能 SSD 视频 - 详细指南</u></a></li>
+<li><a href="https://win-docs.techidaily.com/automate-your-outlook-top-2-methods-for-effortless-pst-file-backups/"><u>Automate Your Outlook: Top 2 Methods for Effortless PST File Backups</u></a></li>
+<li><a href="https://win-docs.techidaily.com/datensicherungstechniken-mithilfe-von-sql-server-management-studio-erfahren-sie-mehr/"><u>Datensicherungstechniken Mithilfe Von SQL Server Management Studio – Erfahren Sie Mehr!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/die-besten-methoden-effiziente-datentransfer-von-windows-7-zu-windows-11/"><u>Die Besten Methoden: Effiziente Datentransfer Von Windows 7 Zu Windows 11</u></a></li>
+<li><a href="https://win-docs.techidaily.com/discovering-covert-surveillance-a-step-by-step-guide-to-detecting-undercover-spyware-on-your-android-device/"><u>Discovering Covert Surveillance: A Step-by-Step Guide to Detecting Undercover Spyware on Your Android Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/emphasizing-the-tutorial-aspect-and-inclusivity-of-various-windows-versions-indicates-a-detailed-walkthrough-which-can-attract-learners/"><u>Emphasizing the Tutorial Aspect and Inclusivity of Various Windows Versions Indicates a Detailed Walkthrough Which Can Attract Learners</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guia-paso-a-paso-para-transferir-archivos-a-tu-nuevo-computador-con-una-unidad-externa/"><u>Guía Paso a Paso Para Transferir Archivos a Tu Nuevo Computador Con Una Unidad Externa</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-12-proplus-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme 12 Pro+ 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-keep-it-burning-ensuring-an-everlasting-snapchat-connection/"><u>In 2024, Keep It Burning Ensuring an Everlasting Snapchat Connection</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211082522-9781623154981-meditation-now/"><u>Meditation Now | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-forced-reboots-instead-of-properly-closing-on-windows-11-systems/"><u>Solving the Problem of Forced Reboots Instead of Properly Closing on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-tozo-t6-software-on-windows-11/"><u>Troubleshooting Guide: Resolving Issues with Tozo T6 Software on Windows 11</u></a></li>
+<li><a href="https://win-docs.techidaily.com/troubleshooting-windows-11-how-to-fix-backup-0-bytes-issue/"><u>Troubleshooting Windows 11 - How To Fix 'Backup 0 Bytes' Issue</u></a></li>
 </ul></div>
 

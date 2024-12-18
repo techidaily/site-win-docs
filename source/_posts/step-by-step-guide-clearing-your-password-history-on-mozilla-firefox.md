@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox"
-date: 2024-12-05T05:26:25.701Z
-updated: 2024-12-11T17:29:20.531Z
+date: 2024-12-15T07:04:00.004Z
+updated: 2024-12-18T14:51:51.372Z
 tags:
   - product
   - antivirus
@@ -45,7 +45,7 @@ It is the simplest method to delete saved passwords. Click on the **Menu** butto
 ![Delete Saved Password Firefox 1-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you will see the Saved Logins Window with the list of all usernames and passwords. You can select single users and click on the **Remove** button to remove them. Also, if you want to delete all passwords in one go, then click on **Remove All** button.
@@ -56,13 +56,13 @@ When you delete the single password, it won’t ask anything, but when you elimi
 
 ![Delete Saved Password Firefox 1-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s it you have now cleared all passwords from the Firefox.
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 – Delete Saved Passwords in Firefox using Windows Explorer
 
@@ -76,20 +76,20 @@ Now click on **Troubleshooting Information**.
 
 ![Delete Saved Password Firefox 2-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you will see the details that are essential in case of troubleshooting. On this page, you will find the location of **Profile Folder**. Click on **Open Folder** to open it directly.
 
 ![Delete Saved Password Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now locate the **logins.jason** file and **Delete** it.
 
 ![Delete Saved Password Firefox 2-4](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s it, all the saved password from Firefox is gone.
@@ -102,7 +102,7 @@ That’s it, all the saved password from Firefox is gone.
 multumescmult  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [January 5, 2021 at 7:50 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -134,17 +134,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-anatomy-of-an-anti-viewer-cutting-edge-strategies-for-reversed-youtube-videos/"><u>[New] In 2024, Anatomy of an Anti-Viewer Cutting Edge Strategies for Reversed YouTube Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>[Updated] In 2024, Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-iphone-xs-advanced-photography-tools/"><u>[Updated] Unveiling iPhone X's Advanced Photography Tools</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-ultimate-guide-to-crafting-effective-email-templates-with-massmail-streamline-your-communication/"><u>1. Ultimate Guide to Crafting Effective Email Templates with MassMail: Streamline Your Communication</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-enable-or-disable-the-windows-spotlight-images-on-the-lock-screen/"><u>3 Ways to Enable or Disable the Windows Spotlight Images on the Lock Screen</u></a></li>
-<li><a href="https://win-docs.techidaily.com/6ygo5y6744gu44or44k944kz44oz5oof5acx5ymk6zmk5pa55rov77ya5b655bqv55qe44gq44oh44o844k5rsx5rwe5oml6acg/"><u>過去のパソコン情報削除方法：徹底的なデータ洗浄手順</u></a></li>
-<li><a href="https://win-docs.techidaily.com/advanced-strategies-for-rsi-analysis-in-forex-mastery-of-timing-entryexit-with-mt4-and-mt5-trade-copy-tools/"><u>Advanced Strategies for RSI Analysis in Forex - Mastery of Timing Entry/Exit with MT4 & MT5 Trade Copy Tools</u></a></li>
-<li><a href="https://win-docs.techidaily.com/les-techniques-derivees-pour-sauvegarder-un-ssd-m2-nvme-de-haut-niveau-en-2024/"><u>Les Techniques Dérivées Pour Sauvegarder Un SSD M.2 NVMe De Haut-Niveau en 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/page-cannot-be-displayed-http-404/"><u>Page Cannot Be Displayed (HTTP 404)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simplified-hdr-an-in-depth-examination-for-2024/"><u>Simplified HDR An In-Depth Examination for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-apple-tv-a-step-by-step-strategy/"><u>Unlock the Full Potential of Apple TV: A Step-by-Step Strategy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-new-era-youtube-hits-past-vidcon-for-2024/"><u>Unveiling New Era YouTube Hits Past VidCon for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[New] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-guide-to-global-exploration-by-channel/"><u>[Updated] 2024 Approved The Ultimate Guide to Global Exploration, By Channel</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-spark-20c-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Spark 20C System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/5zub5asn6kej5rg65oqa5ben77ya5pos5yi25lim5lplusu5b6p56qb5aac5yw25l6g55qe5l2c5qwt6loh5paz5lin6kal5lml6kyoic0gwpluswfqomdouamhpluswnl10/"><u>四大解決技巧：擒制並修復突如其來的作業資料不見之謎 - [全面指南]</u></a></li>
+<li><a href="https://win-docs.techidaily.com/choosing-between-windows-11-and-windows-10-key-features-benefits-and-comparison/"><u>Choosing Between Windows 11 and Windows 10: Key Features, Benefits, and Comparison</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-c53-by-drfone-android/"><u>Full Guide to Unlock Your Realme C53</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-world-of-videomosaic-androids-8-freepaid-selection/"><u>Navigating the World of Videomosaic Android's #8-Free/Paid Selection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/reviewing-the-action-realm-with-t5s-thievery/"><u>Reviewing the Action Realm with T5's Thievery</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-to-making-a-clone-of-your-boot-drive-for-windows-versions-11-10-8-7/"><u>Step-by-Step Guide to Making a Clone of Your Boot Drive for Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-ranked-toshiba-ssd-duplication-programs-compatible-with-windows-windows-11-10-8-and/"><u>Top-Ranked Toshiba SSD Duplication Programs Compatible with Windows: Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-you-need-to-know-about-the-popular-messaging-app-telegram/"><u>What You Need to Know About the Popular Messaging App, Telegram?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wie-legen-sie-post-it-notizen-in-microsoft-windows-11-speichern-schritt-fur-schritt-anleitung/"><u>Wie Legen Sie Post-It-Notizen in Microsoft Windows 11 Speichern | Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Analyzing Reactions to Email Campaigns in 2
-date: 2024-11-20T23:34:58.474Z
-updated: 2024-11-25T17:04:18.946Z
+date: 2024-12-16T12:03:57.318Z
+updated: 2024-12-18T08:58:39.250Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -27,7 +27,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,13 +40,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -55,10 +55,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -78,6 +74,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -85,6 +85,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -95,7 +99,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -126,10 +130,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -149,20 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-make-your-mark-active-living-on-facebook-for-2024/"><u>[New] How to Make Your Mark Active Living on Facebook for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728489315396-windows-11/"><u>【実用的レシピ】Windows 11のリサイクルビンからデータを安全に再生する方法</u></a></li>
-<li><a href="https://fox-links.techidaily.com/a-deeper-dive-into-high-definition-online-visibility/"><u>A Deeper Dive Into High Definition Online Visibility</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-test-of-creativity-amongst-3-leading-chatbots-who-excelled/"><u>A Test of Creativity Amongst 3 Leading Chatbots - Who Excelled?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-tutorial-turning-on-and-installing-hyper-v-in-windows-11/"><u>Comprehensive Tutorial: Turning On and Installing Hyper-V in Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/effective-strategies-and-pitfalls-in-mobile-advertising-mastering-campaigns-with-massmail/"><u>Effective Strategies & Pitfalls in Mobile Advertising: Mastering Campaigns with MassMail</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-insiders-guide-to-time-lagged-masterpieces-with-your-android-phone/"><u>In 2024, The Insider's Guide to Time-Lagged Masterpieces with Your Android Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-the-art-of-seo-understanding-search-intent-and-effective-techniques-via-seo-powersuite-expertise/"><u>Mastering the Art of SEO: Understanding Search Intent and Effective Techniques via SEO PowerSuite Expertise</u></a></li>
-<li><a href="https://win-docs.techidaily.com/seamless-automated-client-communication-with-atomic-autoresponders-leveraging-massmails-innovative-solutions/"><u>Seamless Automated Client Communication with Atomic Autoresponders: Leveraging MassMail's Innovative Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-100-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor 100 for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-5-data-driven-techniques-to-boost-marketing-automation-with-massmail/"><u>Top 5 Data-Driven Techniques to Boost Marketing Automation with MassMail</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ultimate-guide-to-optimizing-your-online-presence-best-windowspc-seo-tools-and-apps-tailored-for-successful-search-engine-rankings/"><u>Ultimate Guide to Optimizing Your Online Presence: Best Windows/PC SEO Tools & Apps Tailored for Successful Search Engine Rankings</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ischerpyvayushij-spisok-luchshih-specialistov-po-seo-iz-liverpulya-velikobritaniya-rukovodstvo-dlya-2024-goda/"><u>Исчерпывающий Список Лучших Специалистов По SEO Из Ливерпуля, Великобритания: Руководство Для 2024 Года</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-brand-makeover-made-easy-revel-in-our-array-of-over-50-free-online-promotional-artwork-for-2024/"><u>[Updated] Brand Makeover Made Easy Revel in Our Array of over 50 Free Online Promotional Artwork for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-shuttered-brilliance-selecting-the-ultimate-cam-for-slow-speed-vids-for-2024/"><u>[Updated] Shuttered Brilliance Selecting the Ultimate Cam for Slow Speed Vids for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-video-vanishing-act-cutting-duration-on-youtube/"><u>[Updated] Video Vanishing Act Cutting Duration on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-vr-exercise-machines-the-leading-treadmills-uncovered/"><u>2024 Approved VR Exercise Machines The Leading Treadmills Uncovered</u></a></li>
+<li><a href="https://win-docs.techidaily.com/excel-9/"><u>如何恢复失去或丢失的 Excel 文件: 走向成功的 9 种方法</u></a></li>
+<li><a href="https://win-docs.techidaily.com/bestimmt-das-perfekte-cloning-programm-freie-alternativen-fur-windows-7810-nutzer/"><u>Bestimmt Das Perfekte Cloning-Programm: Freie Alternativen Für Windows 7/8/10 Nutzer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-100-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor 100 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-inside-obs-alternatives-for-professional-streamers/"><u>In 2024, Inside OBS Alternatives for Professional Streamers</u></a></li>
+<li><a href="https://win-docs.techidaily.com/klonen-von-bootfahigem-usb-flashdrive-unter-windows-7-8-und-10-schritt-fur-schritt/"><u>Klonen Von Bootfähigem USB-Flashdrive Unter Windows 7, 8 Und 10 - Schritt Für Schritt</u></a></li>
+<li><a href="https://win-docs.techidaily.com/richtlinien-zur-auswahl-der-besten-externen-verbrennungsprogramme/"><u>Richtlinien Zur Auswahl Der Besten Externen Verbrennungsprogramme</u></a></li>
+<li><a href="https://win-docs.techidaily.com/section-2c-similar-but-increasingly-complex-questions/"><u>Section 2C: Similar but Increasingly Complex Questions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210113183-9781916099524-the-wonder-of-stillness-meditation-for-children-a-practical-guide-for-parents-and-teachers/"><u>The Wonder of Stillness, Meditation for Children, A Practical Guide for Parents and Teachers | Free Book</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-1087-ssd/"><u>Windows 10/8/7 SSD上使用安全启动将驱动器复制至本机 - 磁碟克隆</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Richer Engagements: Volume Tips and Wins in SMS Advertising, Featuring Massmail Software Insights (Part 2)"
-date: 2024-12-05T05:54:57.697Z
-updated: 2024-12-12T05:18:38.376Z
+date: 2024-12-10T20:43:25.305Z
+updated: 2024-12-18T01:19:32.395Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -55,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -87,32 +87,32 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,21 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-guide-for-high-definition-enthusiasts-on-purchasing-a-monitor/"><u>[New] The Ultimate Guide for High-Definition Enthusiasts on Purchasing a Monitor</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/outube-versus-dailymention-identifying-key-gaps-for-2024/"><u>[New] YouTube Versus DailyMention Identifying Key Gaps for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-search-of-success-pivotal-youtube-gatherings-after-vidcon/"><u>[Updated] In Search of Success Pivotal YouTube Gatherings (After VidCon)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-easy-steps-to-change-fins-sounds-in-windows/"><u>2024 Approved Easy Steps to Change Fins' Sounds in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wmv-mp45/"><u>無料WMV-MP4変換技術トップ5ヒント</u></a></li>
-<li><a href="https://win-docs.techidaily.com/cle-usb-de-sauvegarde-la-plus-performante-pour-windows-11-logiciels-et-solutions-top-en-securite/"><u>Clé USB De Sauvegarde La Plus Performante Pour Windows 11: Logiciels Et Solutions Top en Sécurité</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-the-pinnacle-best-wired-earbuds-2024-edition/"><u>Discovering the Pinnacle: Best Wired Earbuds, 2024 Edition</u></a></li>
-<li><a href="https://win-docs.techidaily.com/expert-tips-for-effective-vmware-virtual-machine-and-storage-backup-solutions/"><u>Expert Tips for Effective VMware Virtual Machine & Storage Backup Solutions</u></a></li>
-<li><a href="https://win-docs.techidaily.com/introducing-zoey-a-glimpse-into-her-authors-journey-and-talents/"><u>Introducing Zoey - A Glimpse Into Her Authors Journey and Talents</u></a></li>
-<li><a href="https://win-docs.techidaily.com/losungshinweise-fur-den-iphone-synchronisierungsfehler-54-mit-praktischen-tipps/"><u>Lösungshinweise Für Den iPhone-Synchronisierungsfehler 54 Mit Praktischen Tipps</u></a></li>
-<li><a href="https://win-docs.techidaily.com/pasos-faciles-para-respaldar-su-disco-duro-externo-tecnicas-y-consejos-efectivos/"><u>Pasos Fáciles Para Respaldar Su Disco Duro Externo: Técnicas Y Consejos Efectivos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/soundscapes-for-social-scenarios-on-facebook/"><u>Soundscapes for Social Scenarios on Facebook</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-solution-changing-partition-scheme-on-your-usb-flash-failed-attempts/"><u>Step-by-Step Solution: Changing Partition Scheme on Your USB Flash Failed Attempts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-operations-the-journey-to-windows-11/"><u>Streamlining Operations The Journey to Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/superior-bitlocker-passworters-wiedergabesoftware-fur-windows-11-8-und-7-bestenliste/"><u>Superior BITLocker Passworters Wiedergabesoftware Für Windows 11, 8 Und 7 - Bestenliste</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-the-top-10-ai-avatar-generators/"><u>Updated 2024 Approved The Top 10 AI Avatar Generators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-best-compact-audio-capturers-for-ipads-and-macs/"><u>[New] 2024 Approved The Best Compact Audio Capturers for iPads and Macs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-uncover-the-best-10-online-vectors-collections/"><u>[New] 2024 Approved Uncover the Best 10 Online Vectors Collections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-gourmet-cookies-for-every-palate/"><u>[Updated] In 2024, The Ultimate Guide to Gourmet Cookies for Every Palate</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-strategies-for-bulk-tiktok-video-acquisition/"><u>[Updated] Strategies for Bulk TikTok Video Acquisition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-x100-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo X100</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-web-creators-with-chatgpts-essential-tools-and-strategies/"><u>Empower Web Creators with ChatGPT's Essential Tools and Strategies</u></a></li>
+<li><a href="https://win-docs.techidaily.com/expert-guide-to-server-backup-strategies-for-windows-2012-through-2022-best-practices-in-action/"><u>Expert Guide to Server Backup Strategies for Windows 2012 Through 2022 - Best Practices in Action</u></a></li>
+<li><a href="https://win-docs.techidaily.com/how-to-create-a-restore-point-on-windows-server-2012-r2/"><u>How to Create a Restore Point on Windows Server 2012 (R2)</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/schritt-fur-schritt-anleitung-zum-upgrade-von-windows-server-2019-auf-das-jahr-2022/"><u>Schritt-Für-Schritt-Anleitung Zum Upgrade Von Windows Server 2019 Auf Das Jahr 2022</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-5-free-network-drives-for-easy-pc-backup-on-windows-7-8-and-10/"><u>Top 5 Free Network Drives for Easy PC Backup on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/ultimate-mp4-media-synchronizer-to-fb/"><u>Ultimate MP4 Media Synchronizer to FB</u></a></li>
 </ul></div>
 

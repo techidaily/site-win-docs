@@ -1,7 +1,7 @@
 ---
 title: "A/B Split Testing Techniques with MassMail: Elevate Your Email Campaigns"
-date: 2024-12-10T22:28:06.603Z
-updated: 2024-12-11T23:00:38.144Z
+date: 2024-12-17T05:25:39.070Z
+updated: 2024-12-18T05:22:59.807Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -57,6 +53,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,6 +74,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -81,6 +85,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -95,32 +103,20 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>[New] 2024 Approved The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-the-potential-of-screenshotting-your-android-device-for-2024/"><u>[Updated] Unlocking the Potential of Screenshotting Your Android Device for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-analysis-highest-quality-video-snappers/"><u>2024 Approved Expert Analysis Highest Quality Video Snappers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-framing-your-story-with-effective-titles/"><u>2024 Approved Framing Your Story with Effective Titles</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728489320955-windows-11/"><u>進行成功的 Windows 11 安裝: 常見問題及解決之道</u></a></li>
-<li><a href="https://win-docs.techidaily.com/cifrado-rapido-para-archivos-de-imagenes-y-copias-de-respaldo-en-almacenamiento-digital/"><u>Cifrado Rápido Para Archivos De Imágenes Y Copias De Respaldo en Almacenamiento Digital</u></a></li>
-<li><a href="https://win-docs.techidaily.com/effective-solutions-when-your-c-drive-is-at-capacity-in-windows-11/"><u>Effective Solutions When Your C Drive Is at Capacity in Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-13-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/successfully-restored-troubleshooting-and-repairing-windows-11s-stagnant-start-menu-and-dysfunctional-taskbar/"><u>Successfully Restored: Troubleshooting and Repairing Windows 11'S Stagnant Start Menu and Dysfunctional Taskbar</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unlocking-secrets-your-complete-overview-of-stardew-and-ginger-isle/"><u>Unlocking Secrets Your Complete Overview of Stardew and Ginger Isle</u></a></li>
-<li><a href="https://win-docs.techidaily.com/windows-1011nvme-ssd/"><u>Windows 10/11システムをNVMe SSDに高速移行する方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-sequences-a-movie-maker-approach-to-animation/"><u>[New] Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>[New] Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
+<li><a href="https://win-docs.techidaily.com/acronis-true-image-risoluzione-dei-problemi-con-il-blocco-durante-la-clonazione/"><u>Acronis True Image: Risoluzione Dei Problemi Con Il Blocco Durante La Clonazione</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-audio-tuning-apps-mobiledesktop-edition/"><u>Advanced Audio Tuning Apps Mobile/Desktop Edition</u></a></li>
+<li><a href="https://win-docs.techidaily.com/aomei-centralized-backup/"><u>AOMEI Centralized Backup - 使い方詳しく解説します!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-the-dots-how-to-sync-ps-vr-headset-with-windows-or-macos/"><u>Connecting the Dots: How to Sync PS VR Headset with Windows or macOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-of-f4v-to-wmv-format-using-movavi/"><u>Free Online Conversion of F4V to WMV Format - Using Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-s24-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy S24</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-lava-yuva-2-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Lava Yuva 2 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/intraday-trading-mastery-effective-price-action-techniques-on-metatrader-4/"><u>Intraday Trading Mastery: Effective Price Action Techniques on MetaTrader 4</u></a></li>
+<li><a href="https://win-docs.techidaily.com/povyshenie-vashego-internet-vidimosti-vybor-luchshih-seo-specialistov-iz-hajfa-izrail-seo-powersuite/"><u>Повышение Вашего Интернет-Видимости - Выбор Лучших SEO Специалистов Из Хайфа, Израиль | SEO PowerSuite</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-5-seo-konsultacionnyh-agentstv-v-vashingtone-na-2024-kak-proizvesti-vybor/"><u>Топ-5 SEO Консультационных Агентств В Вашингтоне На 2024: Как Произвести Выбор</u></a></li>
 </ul></div>
 

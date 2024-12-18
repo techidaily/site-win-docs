@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Christmas Email Promotions: Tips & Tricks From MassMail Pros"
-date: 2024-12-05T04:56:46.673Z
-updated: 2024-12-11T21:57:40.244Z
+date: 2024-12-12T09:22:18.041Z
+updated: 2024-12-17T20:37:34.637Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -82,24 +82,28 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -115,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-lead-the-pack-identifying-the-best-facebook-timetabling-software/"><u>[Updated] In 2024, Lead the Pack Identifying the Best Facebook Timetabling Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/complete-step-by-step-instructions-on-integrating-gmail-into-outlook-with-a-valuable-extra-suggestion/"><u>Complete Step-by-Step Instructions on Integrating Gmail Into Outlook with a Valuable Extra Suggestion</u></a></li>
-<li><a href="https://win-docs.techidaily.com/descubra-o-aomei-backupper-guia-completa-de-introducao-e-configuracao/"><u>Descubra O AOMEI Backupper: Guia Completa De Introdução E Configuração</u></a></li>
-<li><a href="https://win-docs.techidaily.com/enhancing-sales-through-thankfulness-the-impact-of-polite-gestures-on-profit-growth-using-massmail-tech/"><u>Enhancing Sales Through Thankfulness: The Impact of Polite Gestures on Profit Growth Using MassMail Tech</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973712591-installation-guide-epson-ds-530-printer-drivers-for-windows-11-x64-get-your-software-now/"><u>Installation Guide: Epson DS-530 Printer Drivers for Windows 11 (X64) – Get Your Software Now!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 15 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/sea-to-sea-recording-best-action-cameras-for-anglers-for-2024/"><u>Sea-to-Sea Recording Best Action Cameras for Anglers for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/the-ultimate-guide-to-professional-seo-applications-boost-your-brands-visibility-successfully/"><u>The Ultimate Guide to Professional SEO Applications: Boost Your Brand's Visibility Successfully</u></a></li>
-<li><a href="https://win-docs.techidaily.com/understanding-meta-keywords-comprehensive-guide-with-essential-seo-strategies/"><u>Understanding Meta Keywords: Comprehensive Guide with Essential SEO Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-quantifying-a-days-video-consumption-in-gb/"><u>[New] Quantifying a Day's Video Consumption in GB</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-outro-checklist-for-youtube-success/"><u>[New] The Ultimate Outro Checklist for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unparalleled-video-intros-made-easy-with-online-tools/"><u>[New] Unparalleled Video Intros Made Easy with Online Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-guide-to-professional-fbx-game-capture-for-2024/"><u>[Updated] The Complete Guide to Professional FBX Game Capture for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-enhances-favorite-air-tracker-by-forecasting-flight-delays-discover-how-techbrief/"><u>AI Enhances Favorite Air Tracker by Forecasting Flight Delays: Discover How | TechBrief</u></a></li>
+<li><a href="https://win-docs.techidaily.com/best-seo-companies-in-san-jose-california-usa-2024-rankings-with-seo-powersuite/"><u>Best SEO Companies in San Jose, California (USA) - 2024 Rankings with SEO PowerSuite</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comment-recupere-t-on-des-fichiers-supprimes-dune-carte-sd-via-linterface-de-ligne-de-commande/"><u>Comment Récupère-T-On Des Fichiers Supprimés D'une Carte SD via L'interface De Ligne De Commande?</u></a></li>
+<li><a href="https://win-docs.techidaily.com/como-transferir-todos-los-datos-de-tu-disco-ssd-a-un-disco-hdd-en-windows-11-sin-coste-con-software-libre/"><u>Cómo Transferir Todos Los Datos De Tu Disco SSD a Un Disco HDD en Windows 11 Sin Coste Con Software Libre</u></a></li>
+<li><a href="https://win-docs.techidaily.com/depannage-complet-pour-lappareil-de-stockage-wd-my-book-non-affiche-dans-windows-10/"><u>Dépannage Complet Pour L'Appareil De Stockage WD My Book Non Affiché Dans Windows 10</u></a></li>
+<li><a href="https://win-docs.techidaily.com/discover-the-secrets-of-successful-arbitrage-choose-superior-resale-rights-products-for-higher-earnings-using-massmail-technology/"><u>Discover the Secrets of Successful Arbitrage: Choose Superior Resale Rights Products for Higher Earnings Using MassMail Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-might-digital-intelligence-secure-safety-in-remote-wilderness-settings/"><u>How Might Digital Intelligence Secure Safety In Remote Wilderness Settings?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-advanced-tips-for-nvidia-recorded-content/"><u>In 2024, Advanced Tips for NVIDIA Recorded Content</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insignia-ns-43df710na19-fire-tv-edition-review/"><u>Insignia NS-43DF710NA19 Fire TV Edition Review</u></a></li>
+<li><a href="https://win-docs.techidaily.com/massmailer-software-a-comprehensive-analysis-of-email-campaigns-predictions-and-stats-from-2cuatries-to-quinceaneras-2010-2014/"><u>MassMailer Software: A Comprehensive Analysis of Email Campaigns, Predictions & Stats From 2Cuatries to Quinceañeras (2010-2014)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximizing-your-sites-ranking-mastery-of-domain-authority-and-effective-seo-techniques-explained/"><u>Maximizing Your Site's Ranking: Mastery of Domain Authority and Effective SEO Techniques Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-iphones-obstacles-with-these-chatgpt-fixes/"><u>Overcome iPhone's Obstacles with These ChatGPT Fixes</u></a></li>
+<li><a href="https://win-docs.techidaily.com/secure-your-virtual-environments-mastering-vm-backups-with-the-power-of-aomei-software/"><u>Secure Your Virtual Environments: Mastering VM Backups with the Power of AOMEI Software</u></a></li>
+<li><a href="https://win-docs.techidaily.com/the-ultimate-list-of-leading-amman-seo-experts-powered-by-seo-powersuite/"><u>The Ultimate List of Leading Amman SEO Experts - Powered by SEO PowerSuite</u></a></li>
 </ul></div>
 
