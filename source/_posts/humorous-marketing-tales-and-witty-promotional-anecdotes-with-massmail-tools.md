@@ -1,7 +1,7 @@
 ---
 title: Humorous Marketing Tales & Witty Promotional Anecdotes with MassMail Tools
-date: 2024-12-15T11:22:46.656Z
-updated: 2024-12-18T09:02:02.353Z
+date: 2024-12-25T22:17:32.540Z
+updated: 2024-12-26T22:13:27.359Z
 tags:
   - product
 categories:
@@ -17,10 +17,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -40,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -59,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -82,12 +82,16 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -110,17 +114,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-docs.techidaily.com/2012s-return-to-lead-generating-fundamentals-unveiling-the-best-15-techniques-with-massmail-software/"><u>2012'S Return to Lead-Generating Fundamentals - Unveiling the Best 15 Techniques with Massmail Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/complete-guide-restoring-deleted-data-from-an-external-hdd-on-windows-11-and-macos/"><u>Complete Guide: Restoring Deleted Data From an External HDD on Windows 11 and macOS</u></a></li>
-<li><a href="https://win-docs.techidaily.com/comprehensive-tutorial-on-eradicating-newtab-virus-using-malwarefox-software/"><u>Comprehensive Tutorial on Eradicating NewTab Virus Using MalwareFox Software</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/descubre-como-transformar-tus-canciones-mp3-al-formato-mpeg-sin-costo-usando-movavi/"><u>Descubre Cómo Transformar Tus Canciones MP3 Al Formato MPEG Sin Costo Usando Movavi</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-lava-blaze-2-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Blaze 2 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/glasgows-elite-seo-providers-the-ultimate-guide-to-excellence-in-uk-digital-marketing-services/"><u>Glasgow's Elite SEO Providers - The Ultimate Guide to Excellence in UK Digital Marketing Services</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Bootloader Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-there-a-global-glitch-in-microsoft-teams-or-are-connectivity-woes-to-blame/"><u>Is There a Global Glitch in Microsoft Teams, or Are Connectivity Woes to Blame?</u></a></li>
-<li><a href="https://win-docs.techidaily.com/klucz-do-klonowania-napaju-na-windows-1110-poznaj-5-poprawkowych-metod/"><u>Klucz Do Klonowania Napaju Na Windows 11/10: Poznaj 5 Poprawkowych Metod</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/notrace-remover-ultimate-background-cleanse/"><u>NoTrace Remover Ultimate Background Cleanse</u></a></li>
-<li><a href="https://win-docs.techidaily.com/solving-the-issue-of-missing-local-music-files-in-spotify-app-on-ios-devices/"><u>Solving the Issue of Missing Local Music Files in Spotify App on iOS Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-download-of-updated-canon-mp560-printer-drivers/"><u>Step-by-Step Download of Updated Canon MP560 Printer Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformation-gratuite-dun-fichier-mp3-vers-le-format-mov-en-ligne-avec-movavi/"><u>Transformation Gratuite D'un Fichier MP3 Vers Le Format MOV en Ligne Avec Movavi</u></a></li>
-<li><a href="https://win-docs.techidaily.com/wie-sie-ihre-iphone-daten-nahtlos-auf-ein-anderes-gerat-ubertragen-konnen-ohne-zugriff-auf-icloud/"><u>Wie Sie Ihre iPhone Daten Nahtlos Auf Ein Anderes Gerät Übertragen Können - Ohne Zugriff Auf iCloud</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-live-stream-to-instagram-from-obs/"><u>[New] 2024 Approved Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-deep-dive-into-metaverse-gear-top-8-recommendations/"><u>[New] A Deep Dive Into Metaverse Gear Top 8 Recommendations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-conversion-guide-top-8-picks-for-avi-enthusiasts/"><u>2024 Approved YouTube Conversion Guide Top 8 Picks for AVI Enthusiasts</u></a></li>
+<li><a href="https://discover-best.techidaily.com/dvd-libero-dalla-regione-come-eseguire-il-bypass-del-codice-di-area-geografica/"><u>DVD Libero Dalla Regione: Come Eseguire Il Bypass Del Codice Di Area Geografica</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-not-found-d3d-errors-handling-d3dx924dll-issues-effectively/"><u>Fixing Not Found D3D Errors: Handling d3dx9_24.dll Issues Effectively</u></a></li>
+<li><a href="https://win-docs.techidaily.com/hunter-and-whois-explorer-the-latest-updates-on-top-email-scraping-tools-from-massmail-software/"><u>Hunter & Whois Explorer: The Latest Updates on Top Email Scraping Tools From MassMail Software</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728473670968-ps4/"><u>PS4內置硬碟更換解析:保持数据完好無損地變更</u></a></li>
+<li><a href="https://win-docs.techidaily.com/sicherungskonzepte-fur-windows-11-partitionierung-und-speicherung-auf-nfs-systemen-und-nas-geraten-drei-wege/"><u>Sicherungskonzepte Für Windows 11: Partitionierung Und Speicherung Auf NFS-Systemen Und NAS-Geräten (Drei Wege)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/usb-to-iphone-melody-migration-a-tutorial-on-beats-bypassing-itunes/"><u>USB to iPhone Melody Migration - A Tutorial on Beats Bypassing iTunes</u></a></li>
 </ul></div>
 
