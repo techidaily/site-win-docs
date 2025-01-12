@@ -1,7 +1,7 @@
 ---
 title: "Creating a Successful Online Boutique with MassMail: A Step-by-Step Guide"
-date: 2024-12-30T16:03:16.890Z
-updated: 2025-01-05T16:11:40.801Z
+date: 2025-01-04T16:36:52.693Z
+updated: 2025-01-11T20:28:47.460Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -36,17 +36,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -55,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -87,7 +83,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -98,17 +94,25 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-visuals-to-mp3s-simplified-transformation-process-for-2024/"><u>[New] Instagram Visuals to Mp3s - Simplified Transformation Process for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-instagram-presence-with-professional-video-editing-skills-for-2024/"><u>[Updated] Elevate Instagram Presence with Professional Video Editing Skills for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ishowu-audio-capture-review-for-2024/"><u>[Updated] IShowU Audio Capture Review for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/advanced-techniques-in-building-premium-email-audiences-masterclass-series-by-massmail-software/"><u>Advanced Techniques in Building Premium Email Audiences: Masterclass Series by MassMail Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/analyzing-reactions-to-email-campaigns-in-2/"><u>Analyzing Reactions to Email Campaigns in 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-black-background-for-windows-calculator/"><u>Configuring Black Background for Windows Calculator</u></a></li>
-<li><a href="https://win-docs.techidaily.com/erfahren-sie-wie-sie-ihr-outlook-konto-vor-komplikationen-schutzen-und-bei-bedarf-wiederherstellen-konnen/"><u>Erfahren Sie, Wie Sie Ihr Outlook Konto Vor Komplikationen Schützen Und Bei Bedarf Wiederherstellen Können.</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-pour-la-restauration-efficace-des-dossiers-windowsold-effaces-sur-votre-pc/"><u>Guide Pour La Restauration Efficace Des Dossiers 'Windows.old' Effacés Sur Votre PC.</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-a59-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo A59 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-8-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 8 in the Best Ways</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-review-unveiling-the-full-potential-of-android-lightroom/"><u>In 2024, Master Review Unveiling the Full Potential of Android Lightroom</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-of-captivating-imagery-puzzles/"><u>In 2024, Unveiling the Secrets of Captivating Imagery Puzzles</u></a></li>
-<li><a href="https://win-docs.techidaily.com/is-mac-pop-up-software-harmful-learn-how-to-safely-remove-them-and-protect-your-system-with-advice-from-malwarefox/"><u>Is Mac Pop-Up Software Harmful? Learn How to Safely Remove Them and Protect Your System with Advice From MalwareFox</u></a></li>
-<li><a href="https://win-docs.techidaily.com/massmail-pro-comprehensive-internet-and-email-analytics-report-yearly-digest-2012/"><u>MassMail Pro: Comprehensive Internet & Email Analytics Report - Yearly Digest 2012</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-artists-companion-a-curated-list-of-8-premier-iphone-drawing-tools/"><u>The Artist's Companion A Curated List of 8 Premier iPhone Drawing Tools</u></a></li>
-<li><a href="https://win-docs.techidaily.com/the-role-of-relnoopener-in-seo-detailed-insights-and-expert-tips-for-enhanced-ranking-performance/"><u>The Role of Rel=noopener in SEO: Detailed Insights and Expert Tips for Enhanced Ranking Performance</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728507388641-windows-pc/"><u>Windows PC檔案重建法：尋回失去的文件指南</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-seriya-seo-agentstv-v-amsterdame-luchshie-uslugi-dlya-2024-goda-seo-powersuite/"><u>Топ-Серия SEO Агентств В Амстердаме: Лучшие Услуги Для 2024 Года - SEO PowerSuite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-prime-free-images-hosts-ensure-picture-longevity/"><u>[Updated] 10 Prime Free Images Hosts, Ensure Picture Longevity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-secrets-of-youtube-link-driven-growth-for-content-creators/"><u>[Updated] In 2024, Secrets of YouTube Link-Driven Growth for Content Creators</u></a></li>
+<li><a href="https://win-docs.techidaily.com/clonezilla-mbr-gpt/"><u>修正Clonezilla MBR-GPT不匹配錯誤，無限期解決方法</u></a></li>
+<li><a href="https://win-docs.techidaily.com/aomei-image-deployer-the-ultimate-free-image-management-solution/"><u>AOMEI Image Deployer: The Ultimate Free Image Management Solution</u></a></li>
+<li><a href="https://article-posts.techidaily.com/embrace-metaverse-laughter-your-pathway-to-memetic-fame/"><u>Embrace Metaverse Laughter - Your Pathway to Memetic Fame</u></a></li>
+<li><a href="https://win-docs.techidaily.com/expert-strategies-for-winning-back-access-to-your-locked-or-banned-tiktok-profile/"><u>Expert Strategies for Winning Back Access to Your Locked or Banned TikTok Profile</u></a></li>
+<li><a href="https://win-docs.techidaily.com/expert-tips-for-data-recovery-on-flash-drives-after-accidental-deletion/"><u>Expert Tips for Data Recovery on Flash Drives After Accidental Deletion</u></a></li>
+<li><a href="https://win-docs.techidaily.com/hdd-8/"><u>HDDの故障を解消する: 最新トップ8修理手法と安全なデータバックアップ方法</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-c67-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme C67 5G Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterful-methods-to-log-lol-bouts/"><u>In 2024, Masterful Methods to Log LOL Bouts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-weekly-must-see-elite-igtv-talents/"><u>In 2024, Weekly Must-See Elite IGTV Talents</u></a></li>
+<li><a href="https://win-docs.techidaily.com/la-solution-ideale-a-chercher-comme-successeur-de-diskgenius-pour-une-sauvegarde-fiable-des-donnees/"><u>La Solution Idéale À Chercher Comme Successeur De DiskGenius Pour Une Sauvegarde Fiable Des Données</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-3-tips-voor-het-creeren-van-een-back-up-op-windows-11-scherpe-inleiding/"><u>Top 3 Tips Voor Het Creëren Van Een Back-Up Op Windows 11: Scherpe Inleiding</u></a></li>
+<li><a href="https://win-docs.techidaily.com/tutorial-facile-e-rapido-per-clonazione-hard-drive-in-sistemi-operativi-windows/"><u>Tutorial Facile E Rapido per Clonazione Hard Drive in Sistemi Operativi Windows</u></a></li>
 </ul></div>
 

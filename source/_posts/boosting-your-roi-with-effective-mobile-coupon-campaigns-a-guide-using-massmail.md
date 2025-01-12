@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your ROI with Effective Mobile Coupon Campaigns: A Guide Using Massmail"
-date: 2025-01-04T16:03:17.967Z
-updated: 2025-01-05T16:16:30.639Z
+date: 2025-01-07T16:21:58.708Z
+updated: 2025-01-11T22:15:20.153Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -67,7 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -78,29 +78,25 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -109,6 +105,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,14 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-5-youtube-video-editor-alternatives/"><u>[Updated] In 2024, Top 5 YouTube Video Editor Alternatives</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-professional-thumbnails-for-engaging-igtv-posts/"><u>[Updated] Professional Thumbnails for Engaging IGTV Posts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleashing-creativity-in-ar-a-comprehensive-guide-to-lut-tools/"><u>[Updated] Unleashing Creativity in AR A Comprehensive Guide to LUT Tools</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-cutting-edge-mommy-skills-innovative-approaches-to-parenting-with-the-latest-apps-and-gadgets-essential-resources/"><u>1. Cutting-Edge Mommy Skills : Innovative Approaches to Parenting with the Latest Apps & Gadgets | Essential Resources</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/discover-the-start-of-the-chinese-civil-war-insights-from-yl-computings-historical-analysis/"><u>Discover the Start of the Chinese Civil War: Insights From YL Computing's Historical Analysis</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-ultra-details-in-minecraft-games/"><u>In 2024, Unveiling Ultra Details in Minecraft Games</u></a></li>
-<li><a href="https://win-docs.techidaily.com/pariss-premier-seo-firms-for-enhanced-online-visibility-discover-the-best-of-seo-powersuite/"><u>Paris's Premier SEO Firms for Enhanced Online Visibility - Discover the Best of SEO PowerSuite</u></a></li>
-<li><a href="https://win-docs.techidaily.com/solving-the-dell-0xc000021a-blue-screen-error-effective-strategies-and-essential-advice/"><u>Solving the Dell 0xC000021A Blue Screen Error: Effective Strategies and Essential Advice</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unlocking-the-secrets-to-effective-campaigns-a-deep-dive-into-email-engagement-rates-for-2n08-n09-via-massmail-solutions/"><u>Unlocking the Secrets to Effective Campaigns: A Deep Dive Into Email Engagement Rates for 2N08-N09 via Massmail Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-wayfinders-guide-your-path-to-youtube-video-mastery-hub/"><u>[Updated] In 2024, The Wayfinder’s Guide Your Path to YouTube Video Mastery Hub</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/commanders-canvas-painting-victory-in-the-top-7-total-wars-for-2024/"><u>Commanders' Canvas Painting Victory in the Top 7 Total Wars for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/experience-premium-seo-solutions-in-edinburgh-top-ranking-strategies-with-seo-powersuite/"><u>Experience Premium SEO Solutions in Edinburgh – Top Ranking Strategies with SEO PowerSuite</u></a></li>
+<li><a href="https://win-docs.techidaily.com/explore-top-web-analytics-platforms-beyond-similarweb-find-your-perfect-match-with-our-seo-toolset-comparison/"><u>Explore Top Web Analytics Platforms Beyond SimilarWeb - Find Your Perfect Match with Our SEO Toolset Comparison</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/get-aomei-unifiedbackault-secure-your-files-with-a-single-solutions-for-centralized-backup/"><u>Get AOMEI UnifiedBackault - Secure Your Files with a Single Solutions for Centralized Backup</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web/"><u>New In 2024, The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web</u></a></li>
+<li><a href="https://win-docs.techidaily.com/scegliere-il-miglior-programma-clonatore-una-panoramica-dettagliata-di-come-funziona-aomei-per-ogni-settore-tecnico/"><u>Scegliere Il Miglior Programma Clonatore: Una Panoramica Dettagliata Di Come Funziona AOMEI per Ogni Settore Tecnico</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/struggling-with-ipad-and-iphone-contact-sync-issues-discover-these-11-essential-solutions/"><u>Struggling with IPad & iPhone Contact Sync Issues? Discover These 11 Essential Solutions</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-10-seo-prilozhenij-dlya-ecommerce-v-2n4-bogataya-strategiya-dlya-uspeha/"><u>Топ-10 SEO-Приложений Для Ecommerce В 2N4: Богатая Стратегия Для Успеха</u></a></li>
 </ul></div>
 

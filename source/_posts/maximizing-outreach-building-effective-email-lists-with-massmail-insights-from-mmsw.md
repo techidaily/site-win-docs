@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Outreach: Building Effective Email Lists with Massmail - Insights From MMSW"
-date: 2024-12-30T16:19:06.186Z
-updated: 2025-01-05T16:31:28.854Z
+date: 2025-01-06T16:27:49.172Z
+updated: 2025-01-12T07:49:26.651Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -36,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -51,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,10 +78,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -95,12 +87,16 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -111,7 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-keywords-in-the-realm-of-virtual-reality/"><u>[New] In 2024, Keywords in the Realm of Virtual Reality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-the-essentials-a-comprehensive-guide-to-telegram-web-usage/"><u>2024 Approved Mastering the Essentials A Comprehensive Guide to Telegram Web Usage</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-photo-editing-potential-with-these-clever-pixlr-techniques/"><u>2024 Approved Unlock Photo Editing Potential with These Clever Pixlr Techniques</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728493031234-windows6/"><u>重新获取：如何在Windows的回收站里找到并撤消删除的文件（6种简单方法）</u></a></li>
-<li><a href="https://win-docs.techidaily.com/die-effizientesten-windows-pc-datenwiederherstellungssoftware-ihre-ultimative-liste-zur-rettung-verlorener-informationen/"><u>Die Effizientesten Windows-PC-Datenwiederherstellungssoftware: Ihre Ultimative Liste Zur Rettung Verlorener Informationen</u></a></li>
-<li><a href="https://win-docs.techidaily.com/dropboxs-intelligent-synchronization-malfunctioning-discover-these-6-reliable-workarounds/"><u>Dropbox's Intelligent Synchronization Malfunctioning? Discover These 6 Reliable Workarounds!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012108904-expert-tips-for-a-smooth-experience-with-hearts-of-iron-4-eliminate-bugs/"><u>Expert Tips for a Smooth Experience with Hearts of Iron 4 - Eliminate Bugs</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-pour-effacer-de-maniere-securisee-un-disque-ssd-wd-sous-windows-11-methodes-et-astuces/"><u>Guide Pour Effacer De Manière Sécurisée Un Disque SSD WD Sous Windows 11 : Méthodes Et Astuces</u></a></li>
-<li><a href="https://win-docs.techidaily.com/harnessing-dvd-restoration-tools-ensuring-long-term-data-protection-with-cutting-edge-software/"><u>Harnessing DVD Restoration Tools: Ensuring Long-Term Data Protection with Cutting-Edge Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-aomei-cloud-manages-long-term-data-preservation-policies/"><u>How AOMEI Cloud Manages Long-Term Data Preservation Policies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-digital-frontier-with-nightshade-for-authenticity-protection/"><u>Navigating the Digital Frontier with Nightshade for Authenticity Protection</u></a></li>
-<li><a href="https://win-docs.techidaily.com/scambiare-immagini-da-iphone-al-tuo-pc-senza-cavo-metodi-rapidi-ed-efficaci/"><u>Scambiare Immagini Da iPhone Al Tuo PC Senza Cavo: Metodi Rapidi Ed Efficaci</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unleash-your-inner-athlete-discover-how-the-apple-airpods-pros-heart-rate-monitoring-can-transform-your-workouts-techradar/"><u>Unleash Your Inner Athlete: Discover How the Apple AirPods Pro's Heart Rate Monitoring Can Transform Your Workouts | TechRadar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-livestream-selector-pick-between-virusmix-and-castpro/"><u>[New] Professional Livestream Selector Pick Between VirusMix and CastPro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exploring-the-lost-stories-of-facebook-tech-savvy-approach/"><u>[Updated] Exploring the Lost Stories of Facebook Tech-Savvy Approach</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-free-template-libraries-for-aspiring-ae-artists/"><u>[Updated] Top FREE Template Libraries for Aspiring AE Artists</u></a></li>
+<li><a href="https://win-docs.techidaily.com/as-of-2011-a-comprehensive-guide-with-massmail-techniques/"><u>As of 2011 - A Comprehensive Guide with Massmail Techniques</u></a></li>
+<li><a href="https://win-docs.techidaily.com/bcm20702a0windows-113/"><u>BCM20702A0在Windows 11上修复驱动错误:您需要知道的3个简单技巧</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-zero-30-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Zero 30 5G</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/and-inexpensive-techniques-for-youtube-cards-for-2024/"><u>Easy and Inexpensive Techniques for YouTube Cards for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/efficient-steps-for-updating-birth-yearmonth-on-fb-platform/"><u>Efficient Steps for Updating Birth Year/Month on FB Platform</u></a></li>
+<li><a href="https://win-docs.techidaily.com/facile-recuperation-de-lelement-volet-gauche-disparu-dans-votre-navigateur-deux-solutions-saisissantes/"><u>Facile Récupération De L'Élément Volet Gauche Disparu Dans Votre Navigateur : Deux Solutions Saisissantes</u></a></li>
+<li><a href="https://win-docs.techidaily.com/fixing-the-issue-top-7-solutions-when-your-windows-10-desktop-goes-blank/"><u>Fixing the Issue: Top 7 Solutions When Your Windows 10 Desktop Goes Blank</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-ultimate-list-best-asmr-on-smartphones/"><u>In 2024, Ultimate List Best ASMR on Smartphones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g73-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G73 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-chatbot-subscriptions-7-tips-for-optimal-choice-and-satisfaction/"><u>Navigating AI Chatbot Subscriptions: 7 Tips for Optimal Choice and Satisfaction</u></a></li>
+<li><a href="https://win-docs.techidaily.com/seamless-iphone-to-ipad-cloning-a-comprehensive-walkthrough-of-three-methods/"><u>Seamless iPhone-to-iPad Cloning: A Comprehensive Walkthrough of Three Methods</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-10-strategies-to-boost-b2b-sales-in-email-marketing-with-massmail-latest-trends/"><u>Top 10 Strategies to Boost B2B Sales in Email Marketing with Massmail - Latest Trends</u></a></li>
 </ul></div>
 

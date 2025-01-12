@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Christmas Email Promotions: Tips & Tricks From MassMail Pros"
-date: 2024-12-29T16:01:01.209Z
-updated: 2025-01-05T16:25:28.365Z
+date: 2025-01-05T02:57:29.494Z
+updated: 2025-01-11T21:40:46.617Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,12 +32,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -58,10 +58,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -74,17 +70,21 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -94,6 +94,10 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
@@ -101,10 +105,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-comprehensive-review-top-vehicle-monitoring-devices/"><u>[New] In 2024, Comprehensive Review TOP Vehicle Monitoring Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-spectrasafe-uv-censor-webcam-shield/"><u>[New] In 2024, SpectraSafe UV-Censor Webcam Shield</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streamline-your-workflow-with-aiseesoft-recording-tools/"><u>[New] Streamline Your Workflow with Aiseesoft Recording Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-echoes-of-excellence-learning-the-art-of-fading-in-audition-for-2024/"><u>[Updated] Echoes of Excellence Learning the Art of Fading in Audition for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-extract-unlimited-photographic-content-from-esteemed-4-video-channels/"><u>2024 Approved Extract Unlimited Photographic Content From Esteemed 4 Video Channels</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/cle-usb-de-sauvegarde-la-plus-performante-pour-windows-11-logiciels-et-solutions-top-en-securite/"><u>Clé USB De Sauvegarde La Plus Performante Pour Windows 11: Logiciels Et Solutions Top en Sécurité</u></a></li>
-<li><a href="https://win-docs.techidaily.com/effizientes-systemmigrationsmanagement-einfuhrung-in-die-3-schritt-methode/"><u>Effizientes Systemmigrationsmanagement: Einführung in Die 3-Schritt-Methode</u></a></li>
-<li><a href="https://win-docs.techidaily.com/expert-tips-for-effective-vmware-virtual-machine-and-storage-backup-solutions/"><u>Expert Tips for Effective VMware Virtual Machine & Storage Backup Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/garmin-vivoactive-3-music-work-out-tune-in/"><u>Garmin Vivoactive 3 Music: Work Out, Tune In</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/introducing-zoey-a-glimpse-into-her-authors-journey-and-talents/"><u>Introducing Zoey - A Glimpse Into Her Authors Journey and Talents</u></a></li>
-<li><a href="https://win-docs.techidaily.com/losungshinweise-fur-den-iphone-synchronisierungsfehler-54-mit-praktischen-tipps/"><u>Lösungshinweise Für Den iPhone-Synchronisierungsfehler 54 Mit Praktischen Tipps</u></a></li>
-<li><a href="https://win-docs.techidaily.com/pasos-faciles-para-respaldar-su-disco-duro-externo-tecnicas-y-consejos-efectivos/"><u>Pasos Fáciles Para Respaldar Su Disco Duro Externo: Técnicas Y Consejos Efectivos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photoshop-simplified-beginner-friendly-editing-secrets-for-2024/"><u>Photoshop Simplified Beginner-Friendly Editing Secrets for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-solution-changing-partition-scheme-on-your-usb-flash-failed-attempts/"><u>Step-by-Step Solution: Changing Partition Scheme on Your USB Flash Failed Attempts</u></a></li>
-<li><a href="https://win-docs.techidaily.com/superior-bitlocker-passworters-wiedergabesoftware-fur-windows-11-8-und-7-bestenliste/"><u>Superior BITLocker Passworters Wiedergabesoftware Für Windows 11, 8 Und 7 - Bestenliste</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728499459843-windows-hdd/"><u>Windows HDD蘊藏的失去資料回收手冊：五位掌握技術者分享</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-apowersoft-screen-recorder-for-pc-review/"><u>[New] 2024 Approved Apowersoft Screen Recorder for PC Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-skyrocket-your-brands-visibility-with-these-top-video-marketing-approaches/"><u>[New] 2024 Approved Skyrocket Your Brand's Visibility with These Top Video Marketing Approaches</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-automate-your-fb-posts-no-cost-maximized-impact-2023/"><u>[Updated] 2024 Approved Automate Your FB Posts - No Cost, Maximized Impact 2023</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-crafting-compelling-stories-unveiling-the-secrets-to-winning-facebook-bios/"><u>[Updated] 2024 Approved Crafting Compelling Stories Unveiling the Secrets to Winning Facebook Bios</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-captivating-conversations-opening-lines-in-audios/"><u>[Updated] In 2024, Captivating Conversations Opening Lines in Audios</u></a></li>
+<li><a href="https://win-docs.techidaily.com/business-world-alert-openai-launches-the-new-chatgpt-pro-spotlight-by-zdnet/"><u>Business World Alert: OpenAI Launches the New ChatGPT Pro - Spotlight by ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-reno-11-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Reno 11 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-enhance-your-experience-with-mi-11-screen-capture-guide/"><u>In 2024, Enhance Your Experience with Mi 11 Screen Capture Guide</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximizing-value-for-money-how-my-decision-to-opt-for-the-economical-surface-pro-could-pay-off-according-to-zdnet-experts/"><u>Maximizing Value for Money: How My Decision to Opt for the Economical Surface Pro Could Pay Off, According to ZDNet Experts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/microsoft-intensifies-restrictions-on-windows-11-update-delivery-for-incompatible-systems-technews/"><u>Microsoft Intensifies Restrictions on Windows 11 Update Delivery for Incompatible Systems | TechNews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/one-week-on-an-ergo-split-board-how-my-comfortable-keypad-ruined-everything-else/"><u>One Week on an Ergo-Split Board: How My Comfortable Keypad Ruined Everything Else</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/professional-step-by-step-manual-for-optimal-bios-configuration-on-windows-platforms/"><u>Professional Step-by-Step Manual for Optimal BIOS Configuration on Windows Platforms</u></a></li>
+<li><a href="https://win-docs.techidaily.com/whats-next-for-microsoft-surface-user-preferences-and-anticipated-innovations-explored-by-zdnet-experts/"><u>What's Next for Microsoft Surface? User Preferences & Anticipated Innovations Explored by ZDNet Experts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/zdnet-reports-on-microsofts-innovative-approach-to-elevate-the-meeting-experience-to-new-heights-of-difficulty/"><u>ZDNet Reports on Microsoft's Innovative Approach to Elevate the Meeting Experience to New Heights of Difficulty</u></a></li>
 </ul></div>
 
