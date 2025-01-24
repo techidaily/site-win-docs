@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Strategies to Spot and Eradicate Bogus AV Protection Programs
-date: 2025-01-15T17:49:48.709Z
-updated: 2025-01-17T20:18:54.830Z
+date: 2025-01-21T16:58:16.596Z
+updated: 2025-01-23T20:00:34.290Z
 tags:
   - product
   - antivirus
@@ -21,23 +21,23 @@ According to [Statista](https://www.statista.com/statistics/617136/digital-popul
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Can You Get a Fake Antivirus
 
 Fake antivirus programs infiltrate computer systems like any malicious software do. Email attachments are one of the most common culprits. People tend to trust and download email attachments without the same vigilance as most do when downloading files from other online sources. Moreover, there are [different methods of hacking into your system](https://tools.techidaily.com/malwarefox/products/) which most criminals employ. Another method of installing a fake antivirus in your machine is through torrent downloads or other peer-to-peer networks. Files from these sources from these sources are typically unchecked by any security expert. You may be able to download legitimate files through torrent, but some may come with malicious applications. Pop-up alerts and advertisements are also common methods of compelling users to install fake security programs. Some malicious websites may trigger pop-ups that warn users of threats in their computers. It relies on scare tactics to compel you to click and install their fake antivirus program.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Detect Fake Antivirus
 
 Fake antivirus programs can imitate popular security programs which makes it quite believable. It may also use its own branding and appear legitimate. Gone are the days of the funky looking interface which can give the fake antivirus away. Cyber-criminals spend time and effort to make their software appear as legitimate as possible.![](https://www.malwarefox.com/wp-content/uploads/2018/11/Fake-Antivirus-Windows-10.png)Fake antivirus programs often have fake system alerts. These are typically triggered by a [Trojan](https://tools.techidaily.com/malwarefox/products/). More often than not, alerts from these malicious programs are quite aggressive possibly to overcompensate its ineffectiveness. Some fake antivirus actually infects computers during its installation. An increase of pop-ups and other alerts also come with the fake antivirus. The malware uses valuable system resources every time it creates a pop-up. Your system will significantly slow down even with very few applications running. Check your Task Manager to confirm all the running programs. If you cannot access your Task Manager from the [usual methods](https://www.windowschimp.com/windows-10-tutorials-36-how-to-access-the-task-manager/), then it is a clear sign that your computer is infected with a virus or malware. A significant decrease in network speed is also a sign of infection. Malicious software, such as fake antivirus programs, constantly communicate with third-party servers to wait for instructions. You can use [Internet monitoring tools](https://www.windowschimp.com/internet-traffic-monitoring-tools/) to best see which programs are consuming the most bandwidth. Lastly, an increase of adverts while browsing the Internet can be a sign of infection. Additionally, if your homepage changed without you deliberately modifying it in the browser settings may indicate malicious threats in your computer. You may be redirected to websites that you haven’t visited in the past. Typically, these websites will convince you to download more applications, enter your personal information, and even mimic other legitimate websites to gather more information about you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove and Protect Against Fake Antivirus
@@ -45,7 +45,7 @@ Fake antivirus programs can imitate popular security programs which makes it qui
 Running anti-malware programs, such as MalwareFox, can remove any traces of malicious files and applications in your system. It can neutralize any potential fake antivirus software in your system. Do not uninstall your security suite until you are certain that it is fake. You will open your computer to further attacks if you remove antivirus software without confirming that it is a malicious application. Better yet, download toolkits from popular security providers to specifically scan your computer of fake antivirus. [Stinger](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/stinger.html) by McAfee, Norton’s [Power Eraser](https://us.norton.com/support/tools/npe.html?lcid=1033), TrendMicro’s [FakeAV Removal Tool](https://success.trendmicro.com/solution/1056510-fake-antivirus-fakeav-removal-tool-for-enterprise#collapseOne), and Malwarebytes’ [Chameleon](https://www.malwarebytes.com/chameleon/) are some of the tools that you can use to target fake antivirus. Moreover, make sure that your [firewall](https://www.windowschimp.com/best-firewall-programs/) is properly set-up and installed. [Windows Defender](https://www.windowschimp.com/windows-10-tutorials-152-windows-defender-real-time-protection/) works well when it is properly set-up. Never download email attachments from unknown sources. Also, do not trust pop-ups telling you that your computer is at risk. Run your security program if in doubt. Only purchase software from reputable sources. A quick Google search will reveal if an antivirus is fake or not. Freeware is enticing, but scan the installer using your antivirus and anti-malware programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Final Thoughts
@@ -53,10 +53,6 @@ Running anti-malware programs, such as MalwareFox, can remove any traces of mali
 Experts and the online community typically review popular and reputable security programs. These are typically effective indicators. Moreover, apply [basic security rules](https://tools.techidaily.com/malwarefox/products/) when going online. Using common sense is your first line of defense against threats looming on the Internet.
 
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
 
@@ -71,6 +67,10 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 ✔️ 30 Day Money-Back
 
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -97,22 +97,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-knowledge-the-dos-and-donts-on-youtube/"><u>[New] In 2024, Essential Knowledge The Do's and Don'ts on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-windows-users-take-note-camcorders-guide-ahead/"><u>[New] In 2024, Windows Users, Take Note Camcorders Guide Ahead</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-your-constant-aerial-companion-choices/"><u>[New] Your Constant Aerial Companion Choices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-igniting-online-frenzy-essential-trending-hashes/"><u>[Updated] Igniting Online Frenzy Essential Trending Hashes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-panzoid-leaders-choice-best-newcomer-lists/"><u>[Updated] Panzoid Leaders' Choice Best Newcomer Lists</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-brightness-and-hd-in-harmony-a-fit-for-hdr/"><u>2024 Approved Brightness and HD in Harmony A Fit for HDR?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-interactive-solutions-with-vr/"><u>2024 Approved Interactive Solutions with VR</u></a></li>
-<li><a href="https://win-docs.techidaily.com/como-habilitar-y-verificar-la-proteccion-tpm-version-20-para-el-correcto-funcionamiento-de-windows-11/"><u>Cómo Habilitar Y Verificar La Protección TPM Versión 2.0 Para El Correcto Funcionamiento De Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/comprehensive-windows-11-restoration-tutorial-and-free-downloads-top-strategies/"><u>Comprehensive Windows 11 Restoration Tutorial & Free Downloads: Top Strategies</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-facilite-a-la-depannage-des-cartes-sd-incompatibles-avec-windows-11-solutions-effectives/"><u>Guide Facilité À La Dépannage Des Cartes SD Incompatibles Avec Windows 11 - Solutions Effectives.</u></a></li>
-<li><a href="https://win-docs.techidaily.com/installing-aomei-backupper-for-linux-tips-and-tricks-for-easy-setup/"><u>Installing AOMEI Backupper for Linux - Tips & Tricks for Easy Setup</u></a></li>
-<li><a href="https://win-docs.techidaily.com/los-mejores-5-softwares-free-backup-and-proteccion-de-datos-para-windows-11/"><u>Los Mejores 5 Softwares Free Backup & Protección De Datos Para Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/schritt-fur-schritt-anleitung-zum-sicherungsskripting-einer-linux-festplatte-kein-datenerhalt-verlieren/"><u>Schritt-Für-Schritt-Anleitung Zum Sicherungsskripting Einer Linux Festplatte - Kein Datenerhalt Verlieren</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-modifying-microsoft-excel-files-on-your-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying Microsoft Excel Files on Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://win-docs.techidaily.com/tecnicas-de-uso-e-alternativas-ao-rsync-no-windows-11-guia-abrangente/"><u>Técnicas De Uso E Alternativas Ao Rsync No Windows 11 - Guia Abrangente</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-narzo-n53-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme Narzo N53 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-docs.techidaily.com/ultimate-guide-how-to-easily-keep-your-devices-in-tandem-without-spending-a-penny/"><u>Ultimate Guide: How to Easily Keep Your Devices in Tandem without Spending a Penny</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-all-encompassing-kinetic-review-2023/"><u>[New] 2024 Approved All-Encompassing Kinetic Review 2023</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-slow-your-roll-thriving-in-the-world-of-sluggish-youtube-content-52-chars/"><u>[New] 2024 Approved Slow Your Roll Thriving in the World of Sluggish YouTube Content (52 Chars)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-instagram-reel-playbook/"><u>2024 Approved The Ultimate Instagram Reel Playbook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/easy-steps-to-free-online-and-offline-animation/"><u>Easy Steps to Free Online & Offline Animation</u></a></li>
+<li><a href="https://win-docs.techidaily.com/elevate-your-career-with-these-six-proven-methods-guided-by-massmail/"><u>Elevate Your Career with These Six Proven Methods (Guided by Massmail)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/how-to-optimize-for-indexability-comprehensive-guide-and-essential-seo-techniques-from-the-experts-at-seo-powersuite/"><u>How to Optimize for Indexability: Comprehensive Guide & Essential SEO Techniques From the Experts at SEO PowerSuite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-seamlessly-integrate-free-subtitles-into-your-films-with-these-top-sites/"><u>How To Seamlessly Integrate Free Subtitles Into Your Films With These Top Sites</u></a></li>
+<li><a href="https://win-docs.techidaily.com/humorous-marketing-tales-and-witty-promotional-anecdotes-with-massmail-tools/"><u>Humorous Marketing Tales & Witty Promotional Anecdotes with MassMail Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>In 2024, The Power Play Joining a Music Company Network in the Age of Streaming</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-12-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 12 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-docs.techidaily.com/losung-fur-die-reparatur-von-windows-wenn-keine-wiederherstellungspunkte-vorhanden-sind/"><u>Lösung Für Die Reparatur Von Windows, Wenn Keine Wiederherstellungspunkte Vorhanden Sind</u></a></li>
+<li><a href="https://win-docs.techidaily.com/mastering-the-meta-search-realm-key-definitions-and-advanced-seo-techniques-for-optimized-visibility/"><u>Mastering the Meta Search Realm: Key Definitions and Advanced SEO Techniques for Optimized Visibility</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y27-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y27 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-launch-long-growth-the-10-best-youtube-business-channels-for-2024/"><u>Quick Launch, Long Growth The 10 Best YouTube Business Channels for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/secure-hard-drive-formatting-techniques-on-windows-11-a-comprehensive-guide/"><u>Secure Hard Drive Formatting Techniques on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-lock-issues-preventing-spotify-app-from-freezing/"><u>Solving iPhone Lock Issues: Preventing Spotify App From Freezing</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wie-omschrijkt-het-weglaten-van-contacts-op-iphone-1314-de-herleidingsprocedure/"><u>Wie Omschrijkt Het Weglaten Van Contacts Op iPhone 13/14 - De Herleidingsprocedure</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-schijfproblem-bepaalde-hartigheid-fractueerd-oplossingsadvies-hieronder/"><u>Windows-Schijfproblem: Bepaalde Hartigheid Fractueerd, Oplossingsadvies Hieronder</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-5-agentstv-po-optimizacii-dlya-google-v-dubae-obuedinennye-arabskie-emiraty-povyste-onlajn-vidimost-s-pomoshyu-seo-powersuite/"><u>Топ-5 Агентств По Оптимизации Для Google В Дубае, Объединенные Арабские Эмираты - Повысьте Онлайн Видимость С Помощью SEO PowerSuite</u></a></li>
 </ul></div>
 

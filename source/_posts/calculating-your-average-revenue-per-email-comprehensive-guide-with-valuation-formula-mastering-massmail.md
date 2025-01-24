@@ -1,7 +1,7 @@
 ---
 title: "Calculating Your Average Revenue per Email: Comprehensive Guide with Valuation Formula | Mastering MassMail"
-date: 2025-01-15T20:56:55.881Z
-updated: 2025-01-17T17:45:08.080Z
+date: 2025-01-20T04:32:36.579Z
+updated: 2025-01-24T02:48:56.106Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -55,7 +63,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,10 +82,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -87,7 +91,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -97,6 +101,10 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -110,17 +118,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,22 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-build-and-launch-youtube-video-ads-on-budget-for-2024/"><u>[New] Build & Launch YouTube Video Ads on Budget for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-explore-cheap-video-call-alternatives-compatible-with-windows-and-mac/"><u>[Updated] Explore Cheap Video Call Alternatives Compatible With Windows & Mac</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-double-down-on-youtube-visibility-2-quick-methods/"><u>2024 Approved Double Down on YouTube Visibility (2 Quick Methods)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-top-free-sources-discovering-copyright-free-soundtracks/"><u>2024 Approved The Top Free Sources Discovering Copyright-Free Soundtracks</u></a></li>
-<li><a href="https://win-docs.techidaily.com/disabling-site-alerts-in-your-browser-tips-for-chrome-firefox-and-edge-users/"><u>Disabling Site Alerts in Your Browser: Tips for Chrome, Firefox & Edge Users</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728503910199-hddpc/"><u>HDDから消去されたデータの回復:ノートPCで実践ガイド</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-gt-10-pro-by-drfone-android/"><u>How to Bypass FRP on Infinix GT 10 Pro?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/instantgrabbed-extendedcapture-for-2024/"><u>InstantGrabbed ExtendedCapture for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/meme-mastery-the-top-10-apps-for-android-and-ios-users/"><u>Meme Mastery The Top 10 Apps for Android and iOS Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/nier-automata-stability-improvements-no-more-crashes/"><u>NieR: Automata Stability Improvements - No More Crashes</u></a></li>
-<li><a href="https://win-docs.techidaily.com/resolving-the-encryption-mode-must-be-activated-host-warning/"><u>Resolving the 'Encryption Mode Must Be Activated' Host Warning</u></a></li>
-<li><a href="https://win-docs.techidaily.com/say-goodbye-to-pesky-pop-ups-four-ultimate-methods-to-remove-them-from-your-chrome-experience/"><u>Say Goodbye to Pesky Pop-Ups: Four Ultimate Methods to Remove Them From Your Chrome Experience</u></a></li>
-<li><a href="https://win-docs.techidaily.com/soluciones-faciles-hacer-que-tu-ordenador-comience-con-un-disco-o-dvd-en-windows-11/"><u>Soluciones Fáciles: Hacer Que Tu Ordenador Comience Con Un Disco O DVD en Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/troubleshooting-guide-resolving-hulus-error-message-p-ts201/"><u>Troubleshooting Guide: Resolving Hulu's Error Message - P-TS201</u></a></li>
-<li><a href="https://win-docs.techidaily.com/troubleshooting-steps-enabling-the-task-manager-in-windows-11-after-its-been-disabled/"><u>Troubleshooting Steps: Enabling the Task Manager in Windows 11 After It's Been Disabled</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-save-big-on-final-cut-pro-education-bundle-deals-inside-for-2024/"><u>Updated Save Big on Final Cut Pro Education Bundle Deals Inside for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mbrgpthdd/"><u>データ保護：MBR/GPTドライブ、外付けHDDをバックアップする手順</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comment-regenerer-avec-ease-your-pc-sous-windows-10-solution-gratuite-et-essentielle/"><u>Comment Régénérer Avec Ease Your PC Sous Windows 10 - Solution Gratuite Et Essentielle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-why-this-lenovo-thinkpad-stands-out-as-an-almost-ideal-ultraportable-notebook-review/"><u>Discover Why This Lenovo ThinkPad Stands Out as an Almost Ideal Ultraportable Notebook Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-reno-9a-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Oppo Reno 9A.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-live-broadcast-tech-for-industry-experts/"><u>In 2024, Top Live Broadcast Tech for Industry Experts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/las-premier-seo-experts-elevate-visibility-and-traffic-tailored-online-growth-solutions/"><u>L.A.'s Premier SEO Experts: Elevate Visibility & Traffic - Tailored Online Growth Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leveraging-windows-11-for-professional-grade-video-crafting/"><u>Leveraging Windows 11 for Professional-Grade Video Crafting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-essential-factors-to-evaluate-when-shopping-for-a-smart-television/"><u>Top 7 Essential Factors to Evaluate When Shopping for a Smart Television</u></a></li>
+<li><a href="https://win-docs.techidaily.com/ultimate-tutorial-creating-impactful-advertising-emails-seamlessly-with-massmail-tools/"><u>Ultimate Tutorial: Creating Impactful Advertising Emails Seamlessly with Massmail Tools</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unlocking-the-secrets-of-serp-snippets-for-superior-search-engine-optimization-techniques/"><u>Unlocking the Secrets of SERP Snippets for Superior Search Engine Optimization Techniques</u></a></li>
 </ul></div>
 
