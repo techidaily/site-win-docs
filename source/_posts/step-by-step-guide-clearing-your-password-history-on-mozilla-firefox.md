@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox"
-date: 2025-01-16T21:42:33.742Z
-updated: 2025-01-17T18:05:03.104Z
+date: 2025-01-24T16:53:44.823Z
+updated: 2025-01-31T17:53:37.334Z
 tags:
   - product
   - antivirus
@@ -44,16 +44,12 @@ It is the simplest method to delete saved passwords. Click on the **Menu** butto
 
 ![Delete Saved Password Firefox 1-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you will see the Saved Logins Window with the list of all usernames and passwords. You can select single users and click on the **Remove** button to remove them. Also, if you want to delete all passwords in one go, then click on **Remove All** button.
 
 ![Delete Saved Password Firefox 1-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When you delete the single password, it won’t ask anything, but when you eliminate all the passwords, it confirms the action. So click on **Yes** to remove all passwords from your Firefox.
@@ -61,12 +57,16 @@ When you delete the single password, it won’t ask anything, but when you elimi
 ![Delete Saved Password Firefox 1-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s it you have now cleared all passwords from the Firefox.
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2 – Delete Saved Passwords in Firefox using Windows Explorer
 
@@ -76,17 +76,21 @@ To locate this file, you need to find the profile folder. To do that, click on t
 
 ![Delete Saved Password Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now click on **Troubleshooting Information**.
 
 ![Delete Saved Password Firefox 2-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you will see the details that are essential in case of troubleshooting. On this page, you will find the location of **Profile Folder**. Click on **Open Folder** to open it directly.
 
 ![Delete Saved Password Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now locate the **logins.jason** file and **Delete** it.
 
@@ -100,10 +104,6 @@ That’s it, all the saved password from Firefox is gone.
 
 1. ![](https://secure.gravatar.com/avatar/1da8faddc392b0ffd65948fa3cc7324e?s=50&d=mm&r=g)  
 multumescmult  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [January 5, 2021 at 7:50 pm](https://tools.techidaily.com/malwarefox/products/)  
 thank you very much.. method 2 was what ı was looking for..  
@@ -134,24 +134,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-ideal-pc-recording-software-for-windows-enthusiasts-for-2024/"><u>[New] Ideal PC Recording Software for Windows Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-face-hiding-masterclass-tools-and-techniques-reviewed/"><u>[Updated] Face Hiding Masterclass Tools and Techniques Reviewed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-secure-and-convenient-a-windowsmac-downloading-guide-for-igtv-videos-for-2024/"><u>[Updated] Secure and Convenient A Windows/Mac Downloading Guide for IGTV Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-stream-switch-and-succeed-the-complete-guide-to-using-float-on-netflix/"><u>[Updated] Stream, Switch and Succeed The Complete Guide to Using Float on Netflix</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-preserve-precision-4-advanced-screen-recording-for-gamers/"><u>2024 Approved Preserve Precision 4 Advanced Screen Recording for Gamers</u></a></li>
-<li><a href="https://win-docs.techidaily.com/beginners-guide-to-forex-trading-automation-how-to-use-a-local-trade-copier-on-metatrader-4/"><u>Beginner's Guide to Forex Trading Automation: How to Use a Local Trade Copier on MetaTrader 4</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468393295-blurry-iphone-camera-try-these-7-fixes-now/"><u>Blurry iPhone Camera? Try These 7 Fixes Now</u></a></li>
-<li><a href="https://win-docs.techidaily.com/directorial-delights-infusing-joy-in-management-through-comedic-techniques-bulk-outreach-strategies/"><u>Directorial Delights: Infusing Joy in Management Through Comedic Techniques | Bulk Outreach Strategies</u></a></li>
-<li><a href="https://win-docs.techidaily.com/effective-web-design-strategies-powered-by-massmail-suite/"><u>Effective Web Design Strategies Powered by MassMail Suite</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-serp-snippets-influence-ranking-and-enhance-seo-strategies/"><u>How SERP Snippets Influence Ranking & Enhance SEO Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-3-vs-gpt-4-showdown-determining-the-superior-ai/"><u>Llama 3 Vs. GPT-4 Showdown: Determining the Superior AI</u></a></li>
-<li><a href="https://win-docs.techidaily.com/maximizing-productivity-effective-strategies-for-social-media-managers-with-massmail-tools/"><u>Maximizing Productivity: Effective Strategies for Social Media Managers with MassMail Tools</u></a></li>
-<li><a href="https://win-docs.techidaily.com/resolucion-al-problema-de-archivo-invisible-en-disco-duro-externo-seagate/"><u>Resolución Al Problema De Archivo Invisible en Disco Duro Externo Seagate</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-checklist-for-streamlined-recording-of-virtual-gatherings/"><u>The Ultimate Checklist for Streamlined Recording of Virtual Gatherings</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-11-emerging-personal-branding-strategies-in-social-media-2011-continued-insights-with-massmail-tools-part-2/"><u>Top 11 Emerging Personal Branding Strategies in Social Media, 2011: Continued Insights with MassMail Tools (Part 2)</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unveiling-link-farms-detailed-insights-and-proven-seo-techniques-for-success/"><u>Unveiling Link Farms: Detailed Insights & Proven SEO Techniques for Success</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-s24-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy S24 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/winx-dvd-copy-pro-effortless-dvdiso-duplication-and-safe-backups-made-simple/"><u>WinX DVD Copy Pro: Effortless DVD/ISO Duplication and Safe Backups Made Simple</u></a></li>
-<li><a href="https://win-docs.techidaily.com/povyshenie-effektivnosti-seo-luchshie-zameniteli-ahrefs-dlya-analiza-trafika-i-issledovaniya-klyuchevyh-slov-na-2024-god/"><u>Повышение Эффективности SEO: Лучшие Заменители Ahrefs Для Анализа Трафика И Исследования Ключевых Слов На 2024 Год</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-agriculture-amalgamations-best-friendly-farmers-game-roster/"><u>[New] In 2024, Agriculture Amalgamations Best Friendly Farmer's Game Roster</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-in-the-digital-dollar-youtube-earning-hacks-for-2024/"><u>[Updated] First Steps in the Digital Dollar - YouTube Earning Hacks for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-quintessential-audio-drama-story-creation-for-2024/"><u>[Updated] Quintessential Audio-Drama Story Creation for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-mastering-file-retrieval-unlocking-secrets-of-the-mysterious-found000-folder/"><u>1. Mastering File Retrieval: Unlocking Secrets of the Mysterious 'Found.000' Folder</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728497593274-windows-113/"><u>如何在Windows 11系统中重建被移除的设备驱动程序：3个方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-a-missing-page-error-http-404-and-remedies-for-quick-recovery/"><u>Decoding a Missing Page Error (HTTP 404) & Remedies for Quick Recovery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-troubleshooting-skills-fixing-disk-errors-with-chkdsk-in-windows/"><u>Essential Troubleshooting Skills: Fixing Disk Errors with ChkDsk in Windows</u></a></li>
+<li><a href="https://win-docs.techidaily.com/five-step-guide-to-creating-an-effective-lead-database-using-massmail-software/"><u>Five-Step Guide to Creating an Effective Lead Database Using MassMail Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-intel-82579v-graphics-card-up-to-date-no-cost-driver-downloads-available/"><u>Get Your Intel 82579V Graphics Card Up-to-Date: No Cost Driver Downloads Available!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-validate-your-youtube-profile-a-simple-guide-for-2024/"><u>How to Validate Your YouTube Profile? A Simple Guide for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max with/without SIM Card</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-free-and-open-source-options-top-5-alternatives-to-vmware/"><u>Leading Free and Open-Source Options: Top 5 Alternatives to VMware</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-pop-up-ads-a-complete-guide-with-seo-strategies-and-tips/"><u>Understanding Pop-Up Ads: A Complete Guide with SEO Strategies and Tips</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unveiling-the-powerful-tech-driving-forex-trading-significance-of-mt4-copiers/"><u>Unveiling the Powerful Tech Driving Forex Trading: Significance of MT4 Copiers</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-12-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 12 Pro Max to PC | Dr.fone</u></a></li>
 </ul></div>
 
