@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox"
-date: 2025-01-24T16:53:44.823Z
-updated: 2025-01-31T17:53:37.334Z
+date: 2025-02-10T23:46:53.393Z
+updated: 2025-02-13T02:43:56.951Z
 tags:
   - product
   - antivirus
@@ -38,6 +38,10 @@ You might need to clear all these. Also, if you are giving your PC to someone el
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1 – Delete Saved Passwords in Firefox using Menu
 
 It is the simplest method to delete saved passwords. Click on the **Menu** button and then choose **Logins and Passwords**.
@@ -48,25 +52,17 @@ Now you will see the Saved Logins Window with the list of all usernames and pass
 
 ![Delete Saved Password Firefox 1-2](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When you delete the single password, it won’t ask anything, but when you eliminate all the passwords, it confirms the action. So click on **Yes** to remove all passwords from your Firefox.
 
 ![Delete Saved Password Firefox 1-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s it you have now cleared all passwords from the Firefox.
 
 [Are Password Managers Safe?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 – Delete Saved Passwords in Firefox using Windows Explorer
 
@@ -75,10 +71,6 @@ In this method, you can remove the passwords directly from the Windows explorer.
 To locate this file, you need to find the profile folder. To do that, click on the **Menu** button then **Help**.
 
 ![Delete Saved Password Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now click on **Troubleshooting Information**.
 
@@ -89,12 +81,16 @@ Now you will see the details that are essential in case of troubleshooting. On t
 ![Delete Saved Password Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now locate the **logins.jason** file and **Delete** it.
 
 ![Delete Saved Password Firefox 2-4](https://www.malwarefox.com/wp-content/uploads/2019/10/Delete-Saved-Password-Firefox-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s it, all the saved password from Firefox is gone.
 
@@ -104,6 +100,10 @@ That’s it, all the saved password from Firefox is gone.
 
 1. ![](https://secure.gravatar.com/avatar/1da8faddc392b0ffd65948fa3cc7324e?s=50&d=mm&r=g)  
 multumescmult  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [January 5, 2021 at 7:50 pm](https://tools.techidaily.com/malwarefox/products/)  
 thank you very much.. method 2 was what ı was looking for..  
@@ -134,20 +134,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-agriculture-amalgamations-best-friendly-farmers-game-roster/"><u>[New] In 2024, Agriculture Amalgamations Best Friendly Farmer's Game Roster</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-in-the-digital-dollar-youtube-earning-hacks-for-2024/"><u>[Updated] First Steps in the Digital Dollar - YouTube Earning Hacks for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-quintessential-audio-drama-story-creation-for-2024/"><u>[Updated] Quintessential Audio-Drama Story Creation for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1-mastering-file-retrieval-unlocking-secrets-of-the-mysterious-found000-folder/"><u>1. Mastering File Retrieval: Unlocking Secrets of the Mysterious 'Found.000' Folder</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728497593274-windows-113/"><u>如何在Windows 11系统中重建被移除的设备驱动程序：3个方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-a-missing-page-error-http-404-and-remedies-for-quick-recovery/"><u>Decoding a Missing Page Error (HTTP 404) & Remedies for Quick Recovery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-troubleshooting-skills-fixing-disk-errors-with-chkdsk-in-windows/"><u>Essential Troubleshooting Skills: Fixing Disk Errors with ChkDsk in Windows</u></a></li>
-<li><a href="https://win-docs.techidaily.com/five-step-guide-to-creating-an-effective-lead-database-using-massmail-software/"><u>Five-Step Guide to Creating an Effective Lead Database Using MassMail Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-intel-82579v-graphics-card-up-to-date-no-cost-driver-downloads-available/"><u>Get Your Intel 82579V Graphics Card Up-to-Date: No Cost Driver Downloads Available!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-validate-your-youtube-profile-a-simple-guide-for-2024/"><u>How to Validate Your YouTube Profile? A Simple Guide for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max with/without SIM Card</u></a></li>
-<li><a href="https://win-docs.techidaily.com/leading-free-and-open-source-options-top-5-alternatives-to-vmware/"><u>Leading Free and Open-Source Options: Top 5 Alternatives to VMware</u></a></li>
-<li><a href="https://win-docs.techidaily.com/understanding-pop-up-ads-a-complete-guide-with-seo-strategies-and-tips/"><u>Understanding Pop-Up Ads: A Complete Guide with SEO Strategies and Tips</u></a></li>
-<li><a href="https://win-docs.techidaily.com/unveiling-the-powerful-tech-driving-forex-trading-significance-of-mt4-copiers/"><u>Unveiling the Powerful Tech Driving Forex Trading: Significance of MT4 Copiers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-12-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 12 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers/"><u>[New] Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-love-tunes-trove-a-top-10-list-for-heartfelt-proposals/"><u>[Updated] Love Tunes Trove A Top 10 List for Heartfelt Proposals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-social-network-crossroad-instagram-and-tiktok-for-2024/"><u>[Updated] Navigating the Social Network Crossroad Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elitepixel-recorder-winos-series/"><u>2024 Approved ElitePixel Recorder WinOS Series</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728498500903-4/"><u>維護磁碟安全性：通過命令行進行儲存的多種策略 | 保持4個版本</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/aac-vs-m4a-aacm4a/"><u>AAC vs M4A: 主な相違点と高品質保持型AACからM4Aへの変換手順</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comprehensive-strategies-for-fixing-the-notorious-bad-pool-header-mistake/"><u>Comprehensive Strategies for Fixing the Notorious 'Bad Pool Header' Mistake</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comprendre-la-transmission-de-fichiers-une-approche-simple-aux-3-techniques-cles-entre-deux-serveurs/"><u>Comprendre La Transmission De Fichiers: Une Approche Simple Aux 3 Techniques Clés Entre Deux Serveurs</u></a></li>
+<li><a href="https://win-docs.techidaily.com/google-drive-backup-wiederherstellung-einfache-schritte-zur-wiederbeschaffung-ihrer-daten/"><u>Google Drive Backup-Wiederherstellung: Einfache Schritte Zur Wiederbeschaffung Ihrer Daten</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-eliminating-adware-and-blocking-pop-ups-on-your-windows-11-pc/"><u>Step-by-Step Guide: Eliminating Adware & Blocking Pop-Ups on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-organizing-your-workspace-with-multi-monitor-setup-in-windows-10/"><u>Step-by-Step Guide: Organizing Your Workspace with Multi-Monitor Setup in Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-framing-making-an-effective-youtube-introductory-vids-for-2024/"><u>The Art of Framing Making an Effective YouTube Introductory Vids for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/dellwindows/"><u>デジタル資産を守る：Dellノートパソコン【Windowsバックアップガイド】</u></a></li>
 </ul></div>
 
